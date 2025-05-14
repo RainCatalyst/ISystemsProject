@@ -1,0 +1,66 @@
+[gd_scene load_steps=13 format=3 uid="uid://dv0xp3bl31x3a"]
+
+[ext_resource type="Texture2D" uid="uid://ogk5nly36hhq" path="res://sprites/room_empty.png" id="1_4j704"]
+[ext_resource type="Script" uid="uid://du2hivp4j0j27" path="res://scenes/game/game.gd" id="1_kp23o"]
+[ext_resource type="PackedScene" uid="uid://75dk0tf466cj" path="res://scenes/items/item.tscn" id="2_kp23o"]
+[ext_resource type="Texture2D" uid="uid://xcvsai3ttwrt" path="res://sprites/items/book.png" id="3_5jirj"]
+[ext_resource type="Texture2D" uid="uid://dri5ro2v1gxwn" path="res://sprites/items/sofa.png" id="4_vaxfo"]
+[ext_resource type="Texture2D" uid="uid://buorirqupdeeb" path="res://sprites/items/candle.png" id="5_ftsea"]
+[ext_resource type="Texture2D" uid="uid://si1fw2486w3p" path="res://sprites/items/pot.png" id="6_otnwt"]
+[ext_resource type="Texture2D" uid="uid://cml0jxt1rfkof" path="res://sprites/items/painting.png" id="7_3xj4h"]
+[ext_resource type="Texture2D" uid="uid://tojiu0v3kkeo" path="res://sprites/items/lamp.png" id="8_5v6r0"]
+[ext_resource type="Texture2D" uid="uid://c3w8ra2vgf05i" path="res://sprites/items/coffee.png" id="9_uyinl"]
+[ext_resource type="Texture2D" uid="uid://cpyyw1f30c7as" path="res://sprites/items/chair.png" id="10_10c2w"]
+[ext_resource type="Script" uid="uid://d1jbqrvnooii" path="res://scenes/game/ser_comm.gd" id="12_5jirj"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_kp23o")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(640, 360)
+texture = ExtResource("1_4j704")
+
+[node name="Items" type="Node" parent="."]
+
+[node name="Book" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(882, 504)
+texture = ExtResource("3_5jirj")
+word = "buch"
+
+[node name="Sofa" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(154, 452)
+texture = ExtResource("4_vaxfo")
+word = "sofa"
+
+[node name="Candle" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(193, 290)
+texture = ExtResource("5_ftsea")
+word = "kerze"
+
+[node name="Pot" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(489, 214)
+texture = ExtResource("6_otnwt")
+word = "vase"
+
+[node name="Painting" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(933, 114)
+texture = ExtResource("7_3xj4h")
+word = "gemälde"
+
+[node name="Lamp" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(789, 42)
+texture = ExtResource("8_5v6r0")
+word = "lampe"
+
+[node name="Coffee" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(592, 459)
+texture = ExtResource("9_uyinl")
+word = "kaffee"
+
+[node name="Chair" parent="Items" instance=ExtResource("2_kp23o")]
+position = Vector2(262, 654)
+texture = ExtResource("10_10c2w")
+word = "stuhl"
+
+[node name="SerComm" type="SerComm" parent="."]
+script = ExtResource("12_5jirj")

@@ -1,0 +1,8827 @@
+{
+	"zeit": {
+		"english": "time",
+		"article": "die",
+		"plural": "zeiten"
+	},
+	"mann": {
+		"english": "man",
+		"article": "der",
+		"plural": "männer"
+	},
+	"hand": {
+		"english": "hand",
+		"article": "die",
+		"plural": "hände"
+	},
+	"tag": {
+		"english": "day",
+		"article": "der",
+		"plural": "tage"
+	},
+	"weg": {
+		"english": "way",
+		"article": "der",
+		"plural": "wege"
+	},
+	"auge": {
+		"english": "eye",
+		"article": "das",
+		"plural": "augen"
+	},
+	"sache": {
+		"english": "thing",
+		"article": "die",
+		"plural": "sachen"
+	},
+	"kopf": {
+		"english": "head",
+		"article": "der",
+		"plural": "köpfe"
+	},
+	"jahr": {
+		"english": "year",
+		"article": "das",
+		"plural": "jahre"
+	},
+	"zimmer": {
+		"english": "room",
+		"article": "das",
+		"plural": "zimmer"
+	},
+	"tür": {
+		"english": "door",
+		"article": "die",
+		"plural": "türen"
+	},
+	"frau": {
+		"english": "woman",
+		"article": "die",
+		"plural": "frauen"
+	},
+	"gesicht": {
+		"english": "face",
+		"article": "das",
+		"plural": "gesichter"
+	},
+	"mutter": {
+		"english": "mother",
+		"article": "die",
+		"plural": "mütter"
+	},
+	"leute": {
+		"english": "people",
+		"article": "die",
+		"plural": null
+	},
+	"nacht": {
+		"english": "night",
+		"article": "die",
+		"plural": "nächte"
+	},
+	"haus": {
+		"english": "house",
+		"article": "das",
+		"plural": "häuser"
+	},
+	"vater": {
+		"english": "father",
+		"article": "der",
+		"plural": "väter"
+	},
+	"leben": {
+		"english": "life",
+		"article": "das",
+		"plural": "leben"
+	},
+	"rücken": {
+		"english": "back",
+		"article": "der",
+		"plural": "rücken"
+	},
+	"stimme": {
+		"english": "voice",
+		"article": "die",
+		"plural": "stimmen"
+	},
+	"mädchen": {
+		"english": "girl",
+		"article": "das",
+		"plural": "mädchen"
+	},
+	"ort": {
+		"english": "place",
+		"article": "der",
+		"plural": "orte"
+	},
+	"junge": {
+		"english": "boy",
+		"article": "der",
+		"plural": "jungen"
+	},
+	"auto": {
+		"english": "car",
+		"article": "das",
+		"plural": "autos"
+	},
+	"seite": {
+		"english": "side",
+		"article": "die",
+		"plural": "seiten"
+	},
+	"arm": {
+		"english": "arm",
+		"article": "der",
+		"plural": "arme"
+	},
+	"kind": {
+		"english": "child",
+		"article": "das",
+		"plural": "kinder"
+	},
+	"wort": {
+		"english": "word",
+		"article": "das",
+		"plural": "wörter"
+	},
+	"moment": {
+		"english": "moment",
+		"article": "der",
+		"plural": "momente"
+	},
+	"haar": {
+		"english": "hair",
+		"article": "das",
+		"plural": "haare"
+	},
+	"fuß": {
+		"english": "foot",
+		"article": "der",
+		"plural": "füße"
+	},
+	"wasser": {
+		"english": "water",
+		"article": "das",
+		"plural": null
+	},
+	"licht": {
+		"english": "light",
+		"article": "das",
+		"plural": "lichter"
+	},
+	"welt": {
+		"english": "world",
+		"article": "die",
+		"plural": "welten"
+	},
+	"name": {
+		"english": "name",
+		"article": "der",
+		"plural": "namen"
+	},
+	"freund": {
+		"english": "friend",
+		"article": "der",
+		"plural": "freunde"
+	},
+	"fenster": {
+		"english": "window",
+		"article": "das",
+		"plural": "fenster"
+	},
+	"körper": {
+		"english": "body",
+		"article": "der",
+		"plural": "körper"
+	},
+	"tisch": {
+		"english": "table",
+		"article": "der",
+		"plural": "tische"
+	},
+	"morgen": {
+		"english": "morning",
+		"article": "der",
+		"plural": "morgen"
+	},
+	"bett": {
+		"english": "bed",
+		"article": "das",
+		"plural": "betten"
+	},
+	"wand": {
+		"english": "wall",
+		"article": "die",
+		"plural": "wände"
+	},
+	"straße": {
+		"english": "street",
+		"article": "die",
+		"plural": "straßen"
+	},
+	"schule": {
+		"english": "school",
+		"article": "die",
+		"plural": "schulen"
+	},
+	"luft": {
+		"english": "air",
+		"article": "die",
+		"plural": null
+	},
+	"boden": {
+		"english": "floor",
+		"article": "der",
+		"plural": "böden"
+	},
+	"stunde": {
+		"english": "hour",
+		"article": "die",
+		"plural": "stunden"
+	},
+	"ende": {
+		"english": "end",
+		"article": "das",
+		"plural": "enden"
+	},
+	"familie": {
+		"english": "family",
+		"article": "die",
+		"plural": "familien"
+	},
+	"kerl": {
+		"english": "guy",
+		"article": "der",
+		"plural": "kerle"
+	},
+	"minute": {
+		"english": "minute",
+		"article": "die",
+		"plural": "minuten"
+	},
+	"geschichte": {
+		"english": "story",
+		"article": "die",
+		"plural": "geschichten"
+	},
+	"gott": {
+		"english": "god",
+		"article": "der",
+		"plural": "götter"
+	},
+	"woche": {
+		"english": "week",
+		"article": "die",
+		"plural": "wochen"
+	},
+	"arbeit": {
+		"english": "work",
+		"article": "die",
+		"plural": null
+	},
+	"schulter": {
+		"english": "shoulder",
+		"article": "die",
+		"plural": "schultern"
+	},
+	"teil": {
+		"english": "part",
+		"article": "der",
+		"plural": "teile"
+	},
+	"verstand": {
+		"english": "mind",
+		"article": "der",
+		"plural": null
+	},
+	"buch": {
+		"english": "book",
+		"article": "das",
+		"plural": "bücher"
+	},
+	"finger": {
+		"english": "finger",
+		"article": "der",
+		"plural": "finger"
+	},
+	"mund": {
+		"english": "mouth",
+		"article": "der",
+		"plural": "münder"
+	},
+	"glas": {
+		"english": "glass",
+		"article": "das",
+		"plural": "gläser"
+	},
+	"baum": {
+		"english": "tree",
+		"article": "der",
+		"plural": "bäume"
+	},
+	"klang": {
+		"english": "sound",
+		"article": "der",
+		"plural": "klänge"
+	},
+	"linie": {
+		"english": "line",
+		"article": "die",
+		"plural": "linien"
+	},
+	"ehefrau": {
+		"english": "wife",
+		"article": "die",
+		"plural": "ehefrauen"
+	},
+	"herz": {
+		"english": "heart",
+		"article": "das",
+		"plural": "herzen"
+	},
+	"geld": {
+		"english": "money",
+		"article": "das",
+		"plural": null
+	},
+	"telefon": {
+		"english": "phone",
+		"article": "das",
+		"plural": "telefone"
+	},
+	"blick": {
+		"english": "look",
+		"article": "der",
+		"plural": "blicke"
+	},
+	"bein": {
+		"english": "leg",
+		"article": "das",
+		"plural": "beine"
+	},
+	"stuhl": {
+		"english": "chair",
+		"article": "der",
+		"plural": "stühle"
+	},
+	"büro": {
+		"english": "office",
+		"article": "das",
+		"plural": "büros"
+	},
+	"bruder": {
+		"english": "brother",
+		"article": "der",
+		"plural": "brüder"
+	},
+	"frage": {
+		"english": "question",
+		"article": "die",
+		"plural": "fragen"
+	},
+	"stadt": {
+		"english": "city",
+		"article": "die",
+		"plural": "städte"
+	},
+	"monat": {
+		"english": "month",
+		"article": "der",
+		"plural": "monate"
+	},
+	"baby": {
+		"english": "baby",
+		"article": "das",
+		"plural": "babys"
+	},
+	"zuhause": {
+		"english": "home",
+		"article": "das",
+		"plural": "zuhause"
+	},
+	"hund": {
+		"english": "dog",
+		"article": "der",
+		"plural": "hunde"
+	},
+	"idee": {
+		"english": "idea",
+		"article": "die",
+		"plural": "ideen"
+	},
+	"küche": {
+		"english": "kitchen",
+		"article": "die",
+		"plural": "küchen"
+	},
+	"grundstück": {
+		"english": "lot",
+		"article": "das",
+		"plural": "grundstücke"
+	},
+	"sohn": {
+		"english": "son",
+		"article": "der",
+		"plural": "söhne"
+	},
+	"job": {
+		"english": "job",
+		"article": "der",
+		"plural": "jobs"
+	},
+	"papier": {
+		"english": "paper",
+		"article": "das",
+		"plural": "papiere"
+	},
+	"schwester": {
+		"english": "sister",
+		"article": "die",
+		"plural": "schwestern"
+	},
+	"lächeln": {
+		"english": "smile",
+		"article": "das",
+		"plural": "lächeln"
+	},
+	"punkt": {
+		"english": "point",
+		"article": "der",
+		"plural": "punkte"
+	},
+	"gedanke": {
+		"english": "thought",
+		"article": "der",
+		"plural": "gedanken"
+	},
+	"liebe": {
+		"english": "love",
+		"article": "die",
+		"plural": null
+	},
+	"tod": {
+		"english": "death",
+		"article": "der",
+		"plural": "tode"
+	},
+	"anderen": {
+		"english": "others",
+		"article": "die",
+		"plural": null
+	},
+	"feuer": {
+		"english": "fire",
+		"article": "das",
+		"plural": "feuer"
+	},
+	"schritt": {
+		"english": "step",
+		"article": "der",
+		"plural": "schritte"
+	},
+	"blut": {
+		"english": "blood",
+		"article": "das",
+		"plural": null
+	},
+	"tatsache": {
+		"english": "fact",
+		"article": "die",
+		"plural": "tatsachen"
+	},
+	"atem": {
+		"english": "breath",
+		"article": "der",
+		"plural": "atemzüge"
+	},
+	"lippe": {
+		"english": "lip",
+		"article": "die",
+		"plural": "lippen"
+	},
+	"sonne": {
+		"english": "sun",
+		"article": "die",
+		"plural": "sonnen"
+	},
+	"gebäude": {
+		"english": "building",
+		"article": "das",
+		"plural": "gebäude"
+	},
+	"nummer": {
+		"english": "number",
+		"article": "die",
+		"plural": "nummern"
+	},
+	"ehemann": {
+		"english": "husband",
+		"article": "der",
+		"plural": "ehemänner"
+	},
+	"elternteil": {
+		"english": "parent",
+		"article": "der",
+		"plural": "elternteile"
+	},
+	"ecke": {
+		"english": "corner",
+		"article": "die",
+		"plural": "ecken"
+	},
+	"problem": {
+		"english": "problem",
+		"article": "das",
+		"plural": "probleme"
+	},
+	"paar": {
+		"english": "couple",
+		"article": "das",
+		"plural": "paare"
+	},
+	"tochter": {
+		"english": "daughter",
+		"article": "die",
+		"plural": "töchter"
+	},
+	"tasche": {
+		"english": "bag",
+		"article": "die",
+		"plural": "taschen"
+	},
+	"hölle": {
+		"english": "hell",
+		"article": "die",
+		"plural": null
+	},
+	"ruhe": {
+		"english": "rest",
+		"article": "die",
+		"plural": null
+	},
+	"geschäft": {
+		"english": "business",
+		"article": "das",
+		"plural": "geschäfte"
+	},
+	"himmel": {
+		"english": "sky",
+		"article": "der",
+		"plural": "himmel"
+	},
+	"schachtel": {
+		"english": "box",
+		"article": "die",
+		"plural": "schachteln"
+	},
+	"person": {
+		"english": "person",
+		"article": "die",
+		"plural": "personen"
+	},
+	"grund": {
+		"english": "reason",
+		"article": "der",
+		"plural": "gründe"
+	},
+	"recht": {
+		"english": "right",
+		"article": "das",
+		"plural": null
+	},
+	"haut": {
+		"english": "skin",
+		"article": "die",
+		"plural": "häute"
+	},
+	"fall": {
+		"english": "case",
+		"article": "der",
+		"plural": "fälle"
+	},
+	"stück": {
+		"english": "piece",
+		"article": "das",
+		"plural": "stücke"
+	},
+	"arzt": {
+		"english": "doctor",
+		"article": "der",
+		"plural": "ärzte"
+	},
+	"rand": {
+		"english": "edge",
+		"article": "der",
+		"plural": "ränder"
+	},
+	"bild": {
+		"english": "picture",
+		"article": "das",
+		"plural": "bilder"
+	},
+	"sinn": {
+		"english": "sense",
+		"article": "der",
+		"plural": "sinne"
+	},
+	"ohr": {
+		"english": "ear",
+		"article": "das",
+		"plural": "ohren"
+	},
+	"sekunde": {
+		"english": "second",
+		"article": "die",
+		"plural": "sekunden"
+	},
+	"dame": {
+		"english": "lady",
+		"article": "die",
+		"plural": "damen"
+	},
+	"hals": {
+		"english": "neck",
+		"article": "der",
+		"plural": "hälse"
+	},
+	"wind": {
+		"english": "wind",
+		"article": "der",
+		"plural": "winde"
+	},
+	"schreibtisch": {
+		"english": "desk",
+		"article": "der",
+		"plural": "schreibtische"
+	},
+	"waffe": {
+		"english": "gun",
+		"article": "die",
+		"plural": "waffen"
+	},
+	"stein": {
+		"english": "stone",
+		"article": "der",
+		"plural": "steine"
+	},
+	"kaffee": {
+		"english": "coffee",
+		"article": "der",
+		"plural": "kaffees"
+	},
+	"schiff": {
+		"english": "ship",
+		"article": "das",
+		"plural": "schiffe"
+	},
+	"erde": {
+		"english": "earth",
+		"article": "die",
+		"plural": null
+	},
+	"essen": {
+		"english": "food",
+		"article": "das",
+		"plural": null
+	},
+	"pferd": {
+		"english": "horse",
+		"article": "das",
+		"plural": "pferde"
+	},
+	"feld": {
+		"english": "field",
+		"article": "das",
+		"plural": "felder"
+	},
+	"krieg": {
+		"english": "war",
+		"article": "der",
+		"plural": "kriege"
+	},
+	"nachmittag": {
+		"english": "afternoon",
+		"article": "der",
+		"plural": "nachmittage"
+	},
+	"herr": {
+		"english": "sir",
+		"article": "der",
+		"plural": "herren"
+	},
+	"raum": {
+		"english": "space",
+		"article": "der",
+		"plural": "räume"
+	},
+	"abend": {
+		"english": "evening",
+		"article": "der",
+		"plural": "abende"
+	},
+	"brief": {
+		"english": "letter",
+		"article": "der",
+		"plural": "briefe"
+	},
+	"bar": {
+		"english": "bar",
+		"article": "die",
+		"plural": "bars"
+	},
+	"traum": {
+		"english": "dream",
+		"article": "der",
+		"plural": "träume"
+	},
+	"wohnung": {
+		"english": "apartment",
+		"article": "die",
+		"plural": "wohnungen"
+	},
+	"brust": {
+		"english": "chest",
+		"article": "die",
+		"plural": "brüste"
+	},
+	"spiel": {
+		"english": "game",
+		"article": "das",
+		"plural": "spiele"
+	},
+	"sommer": {
+		"english": "summer",
+		"article": "der",
+		"plural": "sommer"
+	},
+	"angelegenheit": {
+		"english": "matter",
+		"article": "die",
+		"plural": "angelegenheiten"
+	},
+	"stille": {
+		"english": "silence",
+		"article": "die",
+		"plural": null
+	},
+	"spitze": {
+		"english": "top",
+		"article": "die",
+		"plural": "spitzen"
+	},
+	"felsen": {
+		"english": "rock",
+		"article": "der",
+		"plural": "felsen"
+	},
+	"macht": {
+		"english": "power",
+		"article": "die",
+		"plural": null
+	},
+	"kleidung": {
+		"english": "clothes",
+		"article": "die",
+		"plural": null
+	},
+	"schild": {
+		"english": "sign",
+		"article": "das",
+		"plural": "schilder"
+	},
+	"aufmerksamkeit": {
+		"english": "attention",
+		"article": "die",
+		"plural": null
+	},
+	"musik": {
+		"english": "music",
+		"article": "die",
+		"plural": null
+	},
+	"zustand": {
+		"english": "state",
+		"article": "der",
+		"plural": "zustände"
+	},
+	"abendessen": {
+		"english": "dinner",
+		"article": "das",
+		"plural": "abendessen"
+	},
+	"saal": {
+		"english": "hall",
+		"article": "der",
+		"plural": "säle"
+	},
+	"schmerz": {
+		"english": "pain",
+		"article": "der",
+		"plural": "schmerzen"
+	},
+	"alter": {
+		"english": "age",
+		"article": "das",
+		"plural": null
+	},
+	"fluss": {
+		"english": "river",
+		"article": "der",
+		"plural": "flüsse"
+	},
+	"chance": {
+		"english": "chance",
+		"article": "die",
+		"plural": "chancen"
+	},
+	"nase": {
+		"english": "nose",
+		"article": "die",
+		"plural": "nasen"
+	},
+	"schatten": {
+		"english": "shadow",
+		"article": "der",
+		"plural": "schatten"
+	},
+	"polizei": {
+		"english": "police",
+		"article": "die",
+		"plural": null
+	},
+	"erinnerung": {
+		"english": "memory",
+		"article": "die",
+		"plural": "erinnerungen"
+	},
+	"farbe": {
+		"english": "color",
+		"article": "die",
+		"plural": "farben"
+	},
+	"knie": {
+		"english": "knee",
+		"article": "das",
+		"plural": "knie"
+	},
+	"holz": {
+		"english": "wood",
+		"article": "das",
+		"plural": null
+	},
+	"hemd": {
+		"english": "shirt",
+		"article": "das",
+		"plural": "hemden"
+	},
+	"party": {
+		"english": "party",
+		"article": "die",
+		"plural": "partys"
+	},
+	"land": {
+		"english": "country",
+		"article": "das",
+		"plural": "länder"
+	},
+	"lastwagen": {
+		"english": "truck",
+		"article": "der",
+		"plural": "lastwagen"
+	},
+	"zahn": {
+		"english": "tooth",
+		"article": "der",
+		"plural": "zähne"
+	},
+	"rechnung": {
+		"english": "bill",
+		"article": "die",
+		"plural": "rechnungen"
+	},
+	"szene": {
+		"english": "scene",
+		"article": "die",
+		"plural": "szenen"
+	},
+	"stern": {
+		"english": "star",
+		"article": "der",
+		"plural": "sterne"
+	},
+	"vogel": {
+		"english": "bird",
+		"article": "der",
+		"plural": "vögel"
+	},
+	"schlafzimmer": {
+		"english": "bedroom",
+		"article": "das",
+		"plural": "schlafzimmer"
+	},
+	"onkel": {
+		"english": "uncle",
+		"article": "der",
+		"plural": "onkel"
+	},
+	"art": {
+		"english": "sort",
+		"article": "die",
+		"plural": null
+	},
+	"gruppe": {
+		"english": "group",
+		"article": "die",
+		"plural": "gruppen"
+	},
+	"wahrheit": {
+		"english": "truth",
+		"article": "die",
+		"plural": "wahrheiten"
+	},
+	"schwierigkeit": {
+		"english": "trouble",
+		"article": "die",
+		"plural": null
+	},
+	"menschenmenge": {
+		"english": "crowd",
+		"article": "die",
+		"plural": "menschenmengen"
+	},
+	"bahnhof": {
+		"english": "station",
+		"article": "der",
+		"plural": "bahnhöfe"
+	},
+	"träne": {
+		"english": "tear",
+		"article": "die",
+		"plural": "tränen"
+	},
+	"klasse": {
+		"english": "class",
+		"article": "die",
+		"plural": "klassen"
+	},
+	"meer": {
+		"english": "sea",
+		"article": "das",
+		"plural": "meere"
+	},
+	"tier": {
+		"english": "animal",
+		"article": "das",
+		"plural": "tiere"
+	},
+	"zentrum": {
+		"english": "center",
+		"article": "das",
+		"plural": "zentren"
+	},
+	"gefühl": {
+		"english": "feeling",
+		"article": "das",
+		"plural": "gefühle"
+	},
+	"berg": {
+		"english": "mountain",
+		"article": "der",
+		"plural": "berge"
+	},
+	"nachrichten": {
+		"english": "news",
+		"article": "die",
+		"plural": null
+	},
+	"schuh": {
+		"english": "shoe",
+		"article": "der",
+		"plural": "schuhe"
+	},
+	"katze": {
+		"english": "cat",
+		"article": "die",
+		"plural": "katzen"
+	},
+	"bildschirm": {
+		"english": "screen",
+		"article": "der",
+		"plural": "bildschirme"
+	},
+	"flasche": {
+		"english": "bottle",
+		"article": "die",
+		"plural": "flaschen"
+	},
+	"anruf": {
+		"english": "call",
+		"article": "der",
+		"plural": "anrufe"
+	},
+	"wohnzimmer": {
+		"english": "living",
+		"article": "das",
+		"plural": "wohnzimmer"
+	},
+	"wange": {
+		"english": "cheek",
+		"article": "die",
+		"plural": "wangen"
+	},
+	"student": {
+		"english": "student",
+		"article": "der",
+		"plural": "studenten"
+	},
+	"ball": {
+		"english": "ball",
+		"article": "der",
+		"plural": "bälle"
+	},
+	"anblick": {
+		"english": "sight",
+		"article": "der",
+		"plural": "anblicke"
+	},
+	"hügel": {
+		"english": "hill",
+		"article": "der",
+		"plural": "hügel"
+	},
+	"unternehmen": {
+		"english": "company",
+		"article": "das",
+		"plural": "unternehmen"
+	},
+	"kirche": {
+		"english": "church",
+		"article": "die",
+		"plural": "kirchen"
+	},
+	"regen": {
+		"english": "rain",
+		"article": "der",
+		"plural": "regen"
+	},
+	"anzug": {
+		"english": "suit",
+		"article": "der",
+		"plural": "anzüge"
+	},
+	"eins": {
+		"english": "one",
+		"article": "die",
+		"plural": null
+	},
+	"richtung": {
+		"english": "direction",
+		"article": "die",
+		"plural": "richtungen"
+	},
+	"wille": {
+		"english": "will",
+		"article": "der",
+		"plural": null
+	},
+	"mitte": {
+		"english": "middle",
+		"article": "die",
+		"plural": null
+	},
+	"antwort": {
+		"english": "answer",
+		"article": "die",
+		"plural": "antworten"
+	},
+	"zeug": {
+		"english": "stuff",
+		"article": "das",
+		"plural": null
+	},
+	"krankenhaus": {
+		"english": "hospital",
+		"article": "das",
+		"plural": "krankenhäuser"
+	},
+	"kamera": {
+		"english": "camera",
+		"article": "die",
+		"plural": "kameras"
+	},
+	"kleid": {
+		"english": "dress",
+		"article": "das",
+		"plural": "kleider"
+	},
+	"karte": {
+		"english": "card",
+		"article": "die",
+		"plural": "karten"
+	},
+	"hof": {
+		"english": "yard",
+		"article": "der",
+		"plural": "höfe"
+	},
+	"dunkelheit": {
+		"english": "dark",
+		"article": "die",
+		"plural": null
+	},
+	"scheiße": {
+		"english": "shit",
+		"article": "die",
+		"plural": null
+	},
+	"maschine": {
+		"english": "machine",
+		"article": "die",
+		"plural": "maschinen"
+	},
+	"entfernung": {
+		"english": "distance",
+		"article": "die",
+		"plural": "entfernungen"
+	},
+	"gebiet": {
+		"english": "area",
+		"article": "das",
+		"plural": "gebiete"
+	},
+	"erzähler": {
+		"english": "narrator",
+		"article": "der",
+		"plural": "erzähler"
+	},
+	"eis": {
+		"english": "ice",
+		"article": "das",
+		"plural": "eis"
+	},
+	"schnee": {
+		"english": "snow",
+		"article": "der",
+		"plural": null
+	},
+	"notiz": {
+		"english": "note",
+		"article": "die",
+		"plural": "notizen"
+	},
+	"spiegel": {
+		"english": "mirror",
+		"article": "der",
+		"plural": "spiegel"
+	},
+	"könig": {
+		"english": "king",
+		"article": "der",
+		"plural": "könige"
+	},
+	"angst": {
+		"english": "fear",
+		"article": "die",
+		"plural": null
+	},
+	"beamte": {
+		"english": "officer",
+		"article": "der",
+		"plural": "beamten"
+	},
+	"loch": {
+		"english": "hole",
+		"article": "das",
+		"plural": "löcher"
+	},
+	"schuss": {
+		"english": "shot",
+		"article": "der",
+		"plural": "schüsse"
+	},
+	"wächter": {
+		"english": "guard",
+		"article": "der",
+		"plural": "wächter"
+	},
+	"gespräch": {
+		"english": "conversation",
+		"article": "das",
+		"plural": "gespräche"
+	},
+	"boot": {
+		"english": "boat",
+		"article": "das",
+		"plural": "boote"
+	},
+	"system": {
+		"english": "system",
+		"article": "das",
+		"plural": "systeme"
+	},
+	"sorge": {
+		"english": "care",
+		"article": "die",
+		"plural": "sorgen"
+	},
+	"bit": {
+		"english": "bit",
+		"article": "das",
+		"plural": "bits"
+	},
+	"film": {
+		"english": "movie",
+		"article": "der",
+		"plural": "filme"
+	},
+	"knochen": {
+		"english": "bone",
+		"article": "der",
+		"plural": "knochen"
+	},
+	"kapitän": {
+		"english": "captain",
+		"article": "der",
+		"plural": "kapitäne"
+	},
+	"tante": {
+		"english": "aunt",
+		"article": "die",
+		"plural": "tanten"
+	},
+	"kontrolle": {
+		"english": "control",
+		"article": "die",
+		"plural": "kontrollen"
+	},
+	"getränk": {
+		"english": "drink",
+		"article": "das",
+		"plural": "getränke"
+	},
+	"hotel": {
+		"english": "hotel",
+		"article": "das",
+		"plural": "hotels"
+	},
+	"mantel": {
+		"english": "coat",
+		"article": "der",
+		"plural": "mäntel"
+	},
+	"treppe": {
+		"english": "stair",
+		"article": "die",
+		"plural": "treppen"
+	},
+	"bestellung": {
+		"english": "order",
+		"article": "die",
+		"plural": "bestellungen"
+	},
+	"rose": {
+		"english": "rose",
+		"article": "die",
+		"plural": "rosen"
+	},
+	"miss": {
+		"english": "miss",
+		"article": "die",
+		"plural": null
+	},
+	"hut": {
+		"english": "hat",
+		"article": "der",
+		"plural": "hüte"
+	},
+	"gold": {
+		"english": "gold",
+		"article": "das",
+		"plural": null
+	},
+	"zigarette": {
+		"english": "cigarette",
+		"article": "die",
+		"plural": "zigaretten"
+	},
+	"wolke": {
+		"english": "cloud",
+		"article": "die",
+		"plural": "wolken"
+	},
+	"aussicht": {
+		"english": "view",
+		"article": "die",
+		"plural": "aussichten"
+	},
+	"fahrer": {
+		"english": "driver",
+		"article": "der",
+		"plural": "fahrer"
+	},
+	"tasse": {
+		"english": "cup",
+		"article": "die",
+		"plural": "tassen"
+	},
+	"figur": {
+		"english": "figure",
+		"article": "die",
+		"plural": "figuren"
+	},
+	"ausdruck": {
+		"english": "expression",
+		"article": "der",
+		"plural": "ausdrücke"
+	},
+	"schlüssel": {
+		"english": "key",
+		"article": "der",
+		"plural": "schlüssel"
+	},
+	"computer": {
+		"english": "computer",
+		"article": "der",
+		"plural": "computer"
+	},
+	"blume": {
+		"english": "flower",
+		"article": "die",
+		"plural": "blumen"
+	},
+	"ring": {
+		"english": "ring",
+		"article": "der",
+		"plural": "ringe"
+	},
+	"badezimmer": {
+		"english": "bathroom",
+		"article": "das",
+		"plural": "badezimmer"
+	},
+	"metall": {
+		"english": "metal",
+		"article": "das",
+		"plural": "metalle"
+	},
+	"mond": {
+		"english": "moon",
+		"article": "der",
+		"plural": "monde"
+	},
+	"lied": {
+		"english": "song",
+		"article": "das",
+		"plural": "lieder"
+	},
+	"soldat": {
+		"english": "soldier",
+		"article": "der",
+		"plural": "soldaten"
+	},
+	"radio": {
+		"english": "radio",
+		"article": "das",
+		"plural": "radios"
+	},
+	"welle": {
+		"english": "wave",
+		"article": "die",
+		"plural": "wellen"
+	},
+	"plan": {
+		"english": "plan",
+		"article": "der",
+		"plural": "pläne"
+	},
+	"college": {
+		"english": "college",
+		"article": "das",
+		"plural": "colleges"
+	},
+	"fisch": {
+		"english": "fish",
+		"article": "der",
+		"plural": "fische"
+	},
+	"garten": {
+		"english": "garden",
+		"article": "der",
+		"plural": "gärten"
+	},
+	"zug": {
+		"english": "train",
+		"article": "der",
+		"plural": "züge"
+	},
+	"polizist": {
+		"english": "cop",
+		"article": "der",
+		"plural": "polizisten"
+	},
+	"kunst": {
+		"english": "art",
+		"article": "die",
+		"plural": null
+	},
+	"bier": {
+		"english": "beer",
+		"article": "das",
+		"plural": "biere"
+	},
+	"norden": {
+		"english": "north",
+		"article": "der",
+		"plural": null
+	},
+	"insel": {
+		"english": "island",
+		"article": "die",
+		"plural": "inseln"
+	},
+	"bus": {
+		"english": "bus",
+		"article": "der",
+		"plural": "busse"
+	},
+	"geruch": {
+		"english": "smell",
+		"article": "der",
+		"plural": "gerüche"
+	},
+	"geräusch": {
+		"english": "noise",
+		"article": "das",
+		"plural": "geräusche"
+	},
+	"-": {
+		"english": "mama",
+		"article": "mama",
+		"plural": null
+	},
+	"park": {
+		"english": "park",
+		"article": "der",
+		"plural": "parks"
+	},
+	"süden": {
+		"english": "south",
+		"article": "der",
+		"plural": null
+	},
+	"teller": {
+		"english": "plate",
+		"article": "der",
+		"plural": "teller"
+	},
+	"jacke": {
+		"english": "jacket",
+		"article": "die",
+		"plural": "jacken"
+	},
+	"hilfe": {
+		"english": "help",
+		"article": "die",
+		"plural": "hilfen"
+	},
+	"papa": {
+		"english": "daddy",
+		"article": "der",
+		"plural": "papas"
+	},
+	"gras": {
+		"english": "grass",
+		"article": "das",
+		"plural": "gräser"
+	},
+	"dank": {
+		"english": "thanks",
+		"article": "der",
+		"plural": "danksagungen"
+	},
+	"hitze": {
+		"english": "heat",
+		"article": "die",
+		"plural": null
+	},
+	"schlaf": {
+		"english": "sleep",
+		"article": "der",
+		"plural": null
+	},
+	"gehirn": {
+		"english": "brain",
+		"article": "das",
+		"plural": "gehirne"
+	},
+	"service": {
+		"english": "service",
+		"article": "der",
+		"plural": "services"
+	},
+	"reise": {
+		"english": "trip",
+		"article": "die",
+		"plural": "reisen"
+	},
+	"schlag": {
+		"english": "beat",
+		"article": "der",
+		"plural": "schläge"
+	},
+	"messer": {
+		"english": "knife",
+		"article": "das",
+		"plural": "messer"
+	},
+	"fleck": {
+		"english": "spot",
+		"article": "der",
+		"plural": "flecken"
+	},
+	"nachricht": {
+		"english": "message",
+		"article": "die",
+		"plural": "nachrichten"
+	},
+	"zeichen": {
+		"english": "mark",
+		"article": "das",
+		"plural": "zeichen"
+	},
+	"lehrer": {
+		"english": "teacher",
+		"article": "der",
+		"plural": "lehrer"
+	},
+	"dorf": {
+		"english": "village",
+		"article": "das",
+		"plural": "dörfer"
+	},
+	"winter": {
+		"english": "winter",
+		"article": "der",
+		"plural": "winter"
+	},
+	"front": {
+		"english": "front",
+		"article": "die",
+		"plural": "fronten"
+	},
+	"gesetz": {
+		"english": "law",
+		"article": "das",
+		"plural": "gesetze"
+	},
+	"oberfläche": {
+		"english": "surface",
+		"article": "die",
+		"plural": "oberflächen"
+	},
+	"bank": {
+		"english": "bank",
+		"article": "die",
+		"plural": "banken"
+	},
+	"team": {
+		"english": "team",
+		"article": "das",
+		"plural": "teams"
+	},
+	"maximum": {
+		"english": "maximum",
+		"article": "das",
+		"plural": "maxima"
+	},
+	"position": {
+		"english": "position",
+		"article": "die",
+		"plural": "positionen"
+	},
+	"magen": {
+		"english": "stomach",
+		"article": "der",
+		"plural": "mägen"
+	},
+	"wende": {
+		"english": "turn",
+		"article": "die",
+		"plural": null
+	},
+	"westen": {
+		"english": "west",
+		"article": "der",
+		"plural": null
+	},
+	"mittagessen": {
+		"english": "lunch",
+		"article": "das",
+		"plural": "mittagessen"
+	},
+	"veränderung": {
+		"english": "change",
+		"article": "die",
+		"plural": "veränderungen"
+	},
+	"lebewesen": {
+		"english": "creature",
+		"article": "das",
+		"plural": "lebewesen"
+	},
+	"seele": {
+		"english": "soul",
+		"article": "die",
+		"plural": "seelen"
+	},
+	"blatt": {
+		"english": "leaf",
+		"article": "das",
+		"plural": "blätter"
+	},
+	"show": {
+		"english": "show",
+		"article": "die",
+		"plural": "shows"
+	},
+	"tor": {
+		"english": "gate",
+		"article": "das",
+		"plural": "tore"
+	},
+	"palme": {
+		"english": "palm",
+		"article": "die",
+		"plural": "palmen"
+	},
+	"plastik": {
+		"english": "plastic",
+		"article": "das",
+		"plural": null
+	},
+	"kraft": {
+		"english": "force",
+		"article": "die",
+		"plural": "kräfte"
+	},
+	"strand": {
+		"english": "beach",
+		"article": "der",
+		"plural": "strände"
+	},
+	"präsident": {
+		"english": "president",
+		"article": "der",
+		"plural": "präsidenten"
+	},
+	"form": {
+		"english": "shape",
+		"article": "die",
+		"plural": "formen"
+	},
+	"rauch": {
+		"english": "smoke",
+		"article": "der",
+		"plural": "rauch"
+	},
+	"rad": {
+		"english": "wheel",
+		"article": "das",
+		"plural": "räder"
+	},
+	"silber": {
+		"english": "silver",
+		"article": "das",
+		"plural": null
+	},
+	"dach": {
+		"english": "roof",
+		"article": "das",
+		"plural": "dächer"
+	},
+	"gewicht": {
+		"english": "weight",
+		"article": "das",
+		"plural": "gewichte"
+	},
+	"zunge": {
+		"english": "tongue",
+		"article": "die",
+		"plural": "zungen"
+	},
+	"tee": {
+		"english": "tea",
+		"article": "der",
+		"plural": "tees"
+	},
+	"strecke": {
+		"english": "track",
+		"article": "die",
+		"plural": "strecken"
+	},
+	"winkel": {
+		"english": "angle",
+		"article": "der",
+		"plural": "winkel"
+	},
+	"ton": {
+		"english": "tone",
+		"article": "der",
+		"plural": "töne"
+	},
+	"kreis": {
+		"english": "circle",
+		"article": "der",
+		"plural": "kreise"
+	},
+	"frühling": {
+		"english": "spring",
+		"article": "der",
+		"plural": "frühlinge"
+	},
+	"veranda": {
+		"english": "porch",
+		"article": "die",
+		"plural": "veranden"
+	},
+	"mitglied": {
+		"english": "member",
+		"article": "das",
+		"plural": "mitglieder"
+	},
+	"pool": {
+		"english": "pool",
+		"article": "der",
+		"plural": "pools"
+	},
+	"bedürfnis": {
+		"english": "need",
+		"article": "das",
+		"plural": "bedürfnisse"
+	},
+	"hoffnung": {
+		"english": "hope",
+		"article": "die",
+		"plural": "hoffnungen"
+	},
+	"see": {
+		"english": "lake",
+		"article": "der",
+		"plural": "seen"
+	},
+	"überraschung": {
+		"english": "surprise",
+		"article": "die",
+		"plural": "überraschungen"
+	},
+	"interesse": {
+		"english": "interest",
+		"article": "das",
+		"plural": null
+	},
+	"geist": {
+		"english": "spirit",
+		"article": "der",
+		"plural": "geister"
+	},
+	"block": {
+		"english": "block",
+		"article": "der",
+		"plural": "blöcke"
+	},
+	"sprache": {
+		"english": "language",
+		"article": "die",
+		"plural": "sprachen"
+	},
+	"brücke": {
+		"english": "bridge",
+		"article": "die",
+		"plural": "brücken"
+	},
+	"staub": {
+		"english": "dust",
+		"article": "der",
+		"plural": null
+	},
+	"zelle": {
+		"english": "cell",
+		"article": "die",
+		"plural": "zellen"
+	},
+	"wein": {
+		"english": "wine",
+		"article": "der",
+		"plural": "weine"
+	},
+	"stiefel": {
+		"english": "boot",
+		"article": "der",
+		"plural": "stiefel"
+	},
+	"wahl": {
+		"english": "choice",
+		"article": "die",
+		"plural": "wahlen"
+	},
+	"reihe": {
+		"english": "row",
+		"article": "die",
+		"plural": "reihen"
+	},
+	"flugzeug": {
+		"english": "plane",
+		"article": "das",
+		"plural": "flugzeuge"
+	},
+	"uhr": {
+		"english": "watch",
+		"article": "die",
+		"plural": "uhren"
+	},
+	"information": {
+		"english": "information",
+		"article": "die",
+		"plural": "informationen"
+	},
+	"großmutter": {
+		"english": "grandmother",
+		"article": "die",
+		"plural": null
+	},
+	"flügel": {
+		"english": "wing",
+		"article": "der",
+		"plural": "flügel"
+	},
+	"bob": {
+		"english": "bob",
+		"article": "der",
+		"plural": "bobs"
+	},
+	"club": {
+		"english": "club",
+		"article": "der",
+		"plural": "clubs"
+	},
+	"meister": {
+		"english": "master",
+		"article": "der",
+		"plural": "meister"
+	},
+	"gnade": {
+		"english": "grace",
+		"article": "die",
+		"plural": "gnaden"
+	},
+	"wald": {
+		"english": "forest",
+		"article": "der",
+		"plural": "wälder"
+	},
+	"größe": {
+		"english": "size",
+		"article": "die",
+		"plural": "größen"
+	},
+	"satz": {
+		"english": "set",
+		"article": "der",
+		"plural": "sätze"
+	},
+	"ehe": {
+		"english": "marriage",
+		"article": "die",
+		"plural": "ehen"
+	},
+	"stirn": {
+		"english": "forehead",
+		"article": "die",
+		"plural": "stirnen"
+	},
+	"sturm": {
+		"english": "storm",
+		"article": "der",
+		"plural": "stürme"
+	},
+	"durchgang": {
+		"english": "doorway",
+		"article": "der",
+		"plural": "durchgänge"
+	},
+	"situation": {
+		"english": "situation",
+		"article": "die",
+		"plural": "situationen"
+	},
+	"theke": {
+		"english": "counter",
+		"article": "die",
+		"plural": "theken"
+	},
+	"nachbar": {
+		"english": "neighbor",
+		"article": "der",
+		"plural": "nachbarn"
+	},
+	"foto": {
+		"english": "photo",
+		"article": "das",
+		"plural": "fotos"
+	},
+	"bühne": {
+		"english": "stage",
+		"article": "die",
+		"plural": "bühnen"
+	},
+	"treffen": {
+		"english": "meeting",
+		"article": "das",
+		"plural": "treffen"
+	},
+	"krankenschwester": {
+		"english": "nurse",
+		"article": "die",
+		"plural": "krankenschwestern"
+	},
+	"sicherheit": {
+		"english": "security",
+		"article": "die",
+		"plural": "sicherheiten"
+	},
+	"ereignis": {
+		"english": "event",
+		"article": "das",
+		"plural": "ereignisse"
+	},
+	"decke": {
+		"english": "ceiling",
+		"article": "die",
+		"plural": "decken"
+	},
+	"motor": {
+		"english": "engine",
+		"article": "der",
+		"plural": "motoren"
+	},
+	"geschenk": {
+		"english": "gift",
+		"article": "das",
+		"plural": "geschenke"
+	},
+	"restaurant": {
+		"english": "restaurant",
+		"article": "das",
+		"plural": "restaurants"
+	},
+	"brett": {
+		"english": "board",
+		"article": "das",
+		"plural": "bretter"
+	},
+	"flur": {
+		"english": "hallway",
+		"article": "der",
+		"plural": "flure"
+	},
+	"armee": {
+		"english": "army",
+		"article": "die",
+		"plural": null
+	},
+	"aufwand": {
+		"english": "effort",
+		"article": "der",
+		"plural": "aufwände"
+	},
+	"osten": {
+		"english": "east",
+		"article": "der",
+		"plural": null
+	},
+	"agent": {
+		"english": "agent",
+		"article": "der",
+		"plural": "agenten"
+	},
+	"zukunft": {
+		"english": "future",
+		"article": "die",
+		"plural": "zukunft"
+	},
+	"hose": {
+		"english": "pant",
+		"article": "die",
+		"plural": "hosen"
+	},
+	"leder": {
+		"english": "leather",
+		"article": "das",
+		"plural": null
+	},
+	"flug": {
+		"english": "flight",
+		"article": "der",
+		"plural": "flüge"
+	},
+	"sex": {
+		"english": "sex",
+		"article": "der",
+		"plural": null
+	},
+	"gericht": {
+		"english": "court",
+		"article": "das",
+		"plural": "gerichte"
+	},
+	"kurs": {
+		"english": "course",
+		"article": "der",
+		"plural": "kurse"
+	},
+	"schmutz": {
+		"english": "dirt",
+		"article": "der",
+		"plural": null
+	},
+	"ei": {
+		"english": "egg",
+		"article": "das",
+		"plural": "eier"
+	},
+	"kinn": {
+		"english": "chin",
+		"article": "das",
+		"plural": "kinne"
+	},
+	"fremde": {
+		"english": "stranger",
+		"article": "der",
+		"plural": "fremden"
+	},
+	"vergnügen": {
+		"english": "pleasure",
+		"article": "das",
+		"plural": "vergnügen"
+	},
+	"detail": {
+		"english": "detail",
+		"article": "das",
+		"plural": "details"
+	},
+	"besatzung": {
+		"english": "crew",
+		"article": "die",
+		"plural": "besatzungen"
+	},
+	"herbst": {
+		"english": "fall",
+		"article": "der",
+		"plural": "fälle"
+	},
+	"gast": {
+		"english": "guest",
+		"article": "der",
+		"plural": "gäste"
+	},
+	"erfahrung": {
+		"english": "experience",
+		"article": "die",
+		"plural": "erfahrungen"
+	},
+	"witz": {
+		"english": "joke",
+		"article": "der",
+		"plural": "witze"
+	},
+	"sand": {
+		"english": "sand",
+		"article": "der",
+		"plural": null
+	},
+	"faust": {
+		"english": "fist",
+		"article": "die",
+		"plural": "fäuste"
+	},
+	"aktion": {
+		"english": "action",
+		"article": "die",
+		"plural": "aktionen"
+	},
+	"spaziergang": {
+		"english": "walk",
+		"article": "der",
+		"plural": "spaziergänge"
+	},
+	"hochzeit": {
+		"english": "wedding",
+		"article": "die",
+		"plural": "hochzeiten"
+	},
+	"natur": {
+		"english": "nature",
+		"article": "die",
+		"plural": null
+	},
+	"planet": {
+		"english": "planet",
+		"article": "der",
+		"plural": "planeten"
+	},
+	"cousin": {
+		"english": "cousin",
+		"article": "der",
+		"plural": "cousins"
+	},
+	"bewegung": {
+		"english": "movement",
+		"article": "die",
+		"plural": "bewegungen"
+	},
+	"fleisch": {
+		"english": "flesh",
+		"article": "das",
+		"plural": null
+	},
+	"rekord": {
+		"english": "record",
+		"article": "der",
+		"plural": "rekorde"
+	},
+	"lager": {
+		"english": "camp",
+		"article": "das",
+		"plural": "lager"
+	},
+	"zeitung": {
+		"english": "newspaper",
+		"article": "die",
+		"plural": "zeitungen"
+	},
+	"strahl": {
+		"english": "ray",
+		"article": "der",
+		"plural": "strahlen"
+	},
+	"mensch": {
+		"english": "human",
+		"article": "der",
+		"plural": "menschen"
+	},
+	"couch": {
+		"english": "couch",
+		"article": "die",
+		"plural": "couches"
+	},
+	"großvater": {
+		"english": "grandfather",
+		"article": "der",
+		"plural": "großväter"
+	},
+	"geheimnis": {
+		"english": "secret",
+		"article": "das",
+		"plural": "geheimnisse"
+	},
+	"schönheit": {
+		"english": "beauty",
+		"article": "die",
+		"plural": "schönheiten"
+	},
+	"anwesenheit": {
+		"english": "presence",
+		"article": "die",
+		"plural": null
+	},
+	"glocke": {
+		"english": "bell",
+		"article": "die",
+		"plural": "glocken"
+	},
+	"volk": {
+		"english": "folk",
+		"article": "das",
+		"plural": null
+	},
+	"knopf": {
+		"english": "button",
+		"article": "der",
+		"plural": "knöpfe"
+	},
+	"liste": {
+		"english": "list",
+		"article": "die",
+		"plural": "listen"
+	},
+	"level": {
+		"english": "level",
+		"article": "das",
+		"plural": "level"
+	},
+	"datum": {
+		"english": "date",
+		"article": "das",
+		"plural": "daten"
+	},
+	"fach": {
+		"english": "subject",
+		"article": "das",
+		"plural": "fächer"
+	},
+	"unterschied": {
+		"english": "difference",
+		"article": "der",
+		"plural": "unterschiede"
+	},
+	"pause": {
+		"english": "pause",
+		"article": "die",
+		"plural": "pausen"
+	},
+	"lieferwagen": {
+		"english": "van",
+		"article": "der",
+		"plural": "lieferwagen"
+	},
+	"klinge": {
+		"english": "blade",
+		"article": "die",
+		"plural": "klingen"
+	},
+	"fernsehen": {
+		"english": "television",
+		"article": "das",
+		"plural": "fernseher"
+	},
+	"abdeckung": {
+		"english": "cover",
+		"article": "die",
+		"plural": "abdeckungen"
+	},
+	"vergangenheit": {
+		"english": "past",
+		"article": "die",
+		"plural": null
+	},
+	"farm": {
+		"english": "farm",
+		"article": "die",
+		"plural": "farmen"
+	},
+	"schoß": {
+		"english": "lap",
+		"article": "der",
+		"plural": "schoß"
+	},
+	"band": {
+		"english": "band",
+		"article": "die",
+		"plural": "bands"
+	},
+	"anwalt": {
+		"english": "lawyer",
+		"article": "der",
+		"plural": "anwälte"
+	},
+	"magazin": {
+		"english": "magazine",
+		"article": "das",
+		"plural": "magazine"
+	},
+	"ast": {
+		"english": "branch",
+		"article": "der",
+		"plural": "äste"
+	},
+	"rahmen": {
+		"english": "frame",
+		"article": "der",
+		"plural": "rahmen"
+	},
+	"deck": {
+		"english": "deck",
+		"article": "das",
+		"plural": "decks"
+	},
+	"wirkung": {
+		"english": "effect",
+		"article": "die",
+		"plural": "wirkungen"
+	},
+	"tanz": {
+		"english": "dance",
+		"article": "der",
+		"plural": "tänze"
+	},
+	"vision": {
+		"english": "vision",
+		"article": "die",
+		"plural": "visionen"
+	},
+	"hintern": {
+		"english": "ass",
+		"article": "der",
+		"plural": "hintern"
+	},
+	"charakter": {
+		"english": "character",
+		"article": "der",
+		"plural": "charaktere"
+	},
+	"abschied": {
+		"english": "goodbye",
+		"article": "der",
+		"plural": null
+	},
+	"parken": {
+		"english": "parking",
+		"article": "das",
+		"plural": null
+	},
+	"frühstück": {
+		"english": "breakfast",
+		"article": "das",
+		"plural": "frühstücke"
+	},
+	"geste": {
+		"english": "gesture",
+		"article": "die",
+		"plural": "gesten"
+	},
+	"glück": {
+		"english": "luck",
+		"article": "das",
+		"plural": null
+	},
+	"gas": {
+		"english": "gas",
+		"article": "das",
+		"plural": null
+	},
+	"korridor": {
+		"english": "corridor",
+		"article": "der",
+		"plural": "korridore"
+	},
+	"professor": {
+		"english": "professor",
+		"article": "der",
+		"plural": "professoren"
+	},
+	"fehler": {
+		"english": "mistake",
+		"article": "der",
+		"plural": "fehler"
+	},
+	"universität": {
+		"english": "university",
+		"article": "die",
+		"plural": "universitäten"
+	},
+	"ozean": {
+		"english": "ocean",
+		"article": "der",
+		"plural": "ozeane"
+	},
+	"jahrhundert": {
+		"english": "century",
+		"article": "das",
+		"plural": "jahrhunderte"
+	},
+	"honig": {
+		"english": "honey",
+		"article": "der",
+		"plural": null
+	},
+	"stapel": {
+		"english": "pile",
+		"article": "der",
+		"plural": "stapel"
+	},
+	"schüssel": {
+		"english": "bowl",
+		"article": "die",
+		"plural": "schüsseln"
+	},
+	"basis": {
+		"english": "base",
+		"article": "die",
+		"plural": "basen"
+	},
+	"zaun": {
+		"english": "fence",
+		"article": "der",
+		"plural": "zäune"
+	},
+	"regel": {
+		"english": "rule",
+		"article": "die",
+		"plural": "regeln"
+	},
+	"lachen": {
+		"english": "laughter",
+		"article": "das",
+		"plural": null
+	},
+	"ärger": {
+		"english": "anger",
+		"article": "der",
+		"plural": null
+	},
+	"schweiß": {
+		"english": "sweat",
+		"article": "der",
+		"plural": null
+	},
+	"unfall": {
+		"english": "accident",
+		"article": "der",
+		"plural": "unfälle"
+	},
+	"wetter": {
+		"english": "weather",
+		"article": "das",
+		"plural": null
+	},
+	"entscheidung": {
+		"english": "decision",
+		"article": "die",
+		"plural": "entscheidungen"
+	},
+	"engel": {
+		"english": "angel",
+		"article": "der",
+		"plural": "engel"
+	},
+	"stärke": {
+		"english": "strength",
+		"article": "die",
+		"plural": "stärken"
+	},
+	"huhn": {
+		"english": "chicken",
+		"article": "das",
+		"plural": "hühner"
+	},
+	"studium": {
+		"english": "study",
+		"article": "das",
+		"plural": "studien"
+	},
+	"handgelenk": {
+		"english": "wrist",
+		"article": "das",
+		"plural": "handgelenke"
+	},
+	"halt": {
+		"english": "stop",
+		"article": "der",
+		"plural": "halte"
+	},
+	"hüfte": {
+		"english": "hip",
+		"article": "die",
+		"plural": "hüften"
+	},
+	"regierung": {
+		"english": "government",
+		"article": "die",
+		"plural": "regierungen"
+	},
+	"bauch": {
+		"english": "belly",
+		"article": "der",
+		"plural": "bäuche"
+	},
+	"königin": {
+		"english": "queen",
+		"article": "die",
+		"plural": "königinnen"
+	},
+	"bericht": {
+		"english": "report",
+		"article": "der",
+		"plural": "berichte"
+	},
+	"schwanz": {
+		"english": "tail",
+		"article": "der",
+		"plural": "schwänze"
+	},
+	"pflanze": {
+		"english": "plant",
+		"article": "die",
+		"plural": "pflanzen"
+	},
+	"flamme": {
+		"english": "flame",
+		"article": "die",
+		"plural": "flammen"
+	},
+	"gürtel": {
+		"english": "belt",
+		"article": "der",
+		"plural": "gürtel"
+	},
+	"nachbarschaft": {
+		"english": "neighborhood",
+		"article": "die",
+		"plural": "nachbarschaften"
+	},
+	"energie": {
+		"english": "energy",
+		"article": "die",
+		"plural": null
+	},
+	"grün": {
+		"english": "green",
+		"article": "das",
+		"plural": null
+	},
+	"viertel": {
+		"english": "quarter",
+		"article": "das",
+		"plural": "viertel"
+	},
+	"feind": {
+		"english": "enemy",
+		"article": "der",
+		"plural": "feinde"
+	},
+	"eingang": {
+		"english": "entrance",
+		"article": "der",
+		"plural": "eingänge"
+	},
+	"bibliothek": {
+		"english": "library",
+		"article": "die",
+		"plural": "bibliotheken"
+	},
+	"schriftsteller": {
+		"english": "writer",
+		"article": "der",
+		"plural": "schriftsteller"
+	},
+	"frieden": {
+		"english": "peace",
+		"article": "der",
+		"plural": null
+	},
+	"berührung": {
+		"english": "touch",
+		"article": "die",
+		"plural": "berührungen"
+	},
+	"topf": {
+		"english": "pot",
+		"article": "der",
+		"plural": "töpfe"
+	},
+	"ursache": {
+		"english": "cause",
+		"article": "die",
+		"plural": "ursachen"
+	},
+	"seil": {
+		"english": "rope",
+		"article": "das",
+		"plural": "seile"
+	},
+	"muskel": {
+		"english": "muscle",
+		"article": "der",
+		"plural": "muskeln"
+	},
+	"gemälde": {
+		"english": "painting",
+		"article": "das",
+		"plural": "gemälde"
+	},
+	"vorhang": {
+		"english": "curtain",
+		"article": "der",
+		"plural": "vorhänge"
+	},
+	"mahlzeit": {
+		"english": "meal",
+		"article": "die",
+		"plural": "mahlzeiten"
+	},
+	"akt": {
+		"english": "act",
+		"article": "der",
+		"plural": "akte"
+	},
+	"wolf": {
+		"english": "wolf",
+		"article": "der",
+		"plural": "wölfe"
+	},
+	"kabine": {
+		"english": "cabin",
+		"article": "die",
+		"plural": "kabinen"
+	},
+	"gebühr": {
+		"english": "charge",
+		"article": "die",
+		"plural": "gebühren"
+	},
+	"passagier": {
+		"english": "passenger",
+		"article": "der",
+		"plural": "passagiere"
+	},
+	"kumpel": {
+		"english": "buddy",
+		"article": "der",
+		"plural": "kumpel"
+	},
+	"medikament": {
+		"english": "drug",
+		"article": "das",
+		"plural": "medikamente"
+	},
+	"verwendung": {
+		"english": "use",
+		"article": "die",
+		"plural": "verwendungen"
+	},
+	"verkehr": {
+		"english": "traffic",
+		"article": "der",
+		"plural": null
+	},
+	"erleichterung": {
+		"english": "relief",
+		"article": "die",
+		"plural": null
+	},
+	"mütze": {
+		"english": "cap",
+		"article": "die",
+		"plural": "mützen"
+	},
+	"pack": {
+		"english": "pack",
+		"article": "das",
+		"plural": "packs"
+	},
+	"wochenende": {
+		"english": "weekend",
+		"article": "das",
+		"plural": "wochenenden"
+	},
+	"stand": {
+		"english": "stand",
+		"article": "der",
+		"plural": "stände"
+	},
+	"aufzug": {
+		"english": "elevator",
+		"article": "der",
+		"plural": "aufzüge"
+	},
+	"geburtstag": {
+		"english": "birthday",
+		"article": "der",
+		"plural": "geburtstage"
+	},
+	"lilie": {
+		"english": "lily",
+		"article": "die",
+		"plural": "lilien"
+	},
+	"eisen": {
+		"english": "iron",
+		"article": "das",
+		"plural": "eisen"
+	},
+	"augenbraue": {
+		"english": "eyebrow",
+		"article": "die",
+		"plural": "augenbrauen"
+	},
+	"geschwindigkeit": {
+		"english": "speed",
+		"article": "die",
+		"plural": "geschwindigkeiten"
+	},
+	"zweck": {
+		"english": "purpose",
+		"article": "der",
+		"plural": "zwecke"
+	},
+	"rock": {
+		"english": "skirt",
+		"article": "der",
+		"plural": "röcke"
+	},
+	"quadrat": {
+		"english": "square",
+		"article": "das",
+		"plural": "quadrate"
+	},
+	"fahrt": {
+		"english": "drive",
+		"article": "die",
+		"plural": "fahrten"
+	},
+	"artikel": {
+		"english": "article",
+		"article": "der",
+		"plural": "artikel"
+	},
+	"englisch": {
+		"english": "english",
+		"article": "das",
+		"plural": null
+	},
+	"turm": {
+		"english": "tower",
+		"article": "der",
+		"plural": "türme"
+	},
+	"schlacht": {
+		"english": "battle",
+		"article": "die",
+		"plural": "schlachten"
+	},
+	"rennen": {
+		"english": "race",
+		"article": "das",
+		"plural": "rennen"
+	},
+	"schock": {
+		"english": "shock",
+		"article": "der",
+		"plural": "schocks"
+	},
+	"sektion": {
+		"english": "section",
+		"article": "die",
+		"plural": "sektionen"
+	},
+	"schwert": {
+		"english": "sword",
+		"article": "das",
+		"plural": "schwerter"
+	},
+	"stock": {
+		"english": "stick",
+		"article": "der",
+		"plural": "stöcke"
+	},
+	"datei": {
+		"english": "file",
+		"article": "die",
+		"plural": "dateien"
+	},
+	"brot": {
+		"english": "bread",
+		"article": "das",
+		"plural": null
+	},
+	"öl": {
+		"english": "oil",
+		"article": "das",
+		"plural": null
+	},
+	"kette": {
+		"english": "chain",
+		"article": "die",
+		"plural": "ketten"
+	},
+	"abteilung": {
+		"english": "department",
+		"article": "die",
+		"plural": "abteilungen"
+	},
+	"projekt": {
+		"english": "project",
+		"article": "das",
+		"plural": "projekte"
+	},
+	"mord": {
+		"english": "murder",
+		"article": "der",
+		"plural": "morde"
+	},
+	"bär": {
+		"english": "bear",
+		"article": "der",
+		"plural": "bären"
+	},
+	"test": {
+		"english": "test",
+		"article": "der",
+		"plural": "tests"
+	},
+	"besuch": {
+		"english": "visit",
+		"article": "der",
+		"plural": "besuche"
+	},
+	"milch": {
+		"english": "milk",
+		"article": "die",
+		"plural": null
+	},
+	"chef": {
+		"english": "boss",
+		"article": "der",
+		"plural": "chefs"
+	},
+	"ellenbogen": {
+		"english": "elbow",
+		"article": "der",
+		"plural": "ellenbogen"
+	},
+	"verlangen": {
+		"english": "desire",
+		"article": "das",
+		"plural": null
+	},
+	"patient": {
+		"english": "patient",
+		"article": "der",
+		"plural": "patienten"
+	},
+	"grinsen": {
+		"english": "grin",
+		"article": "das",
+		"plural": null
+	},
+	"liebhaber": {
+		"english": "lover",
+		"article": "der",
+		"plural": "liebhaber"
+	},
+	"preis": {
+		"english": "price",
+		"article": "der",
+		"plural": "preise"
+	},
+	"wissen": {
+		"english": "knowledge",
+		"article": "das",
+		"plural": null
+	},
+	"anfang": {
+		"english": "beginning",
+		"article": "der",
+		"plural": "anfänge"
+	},
+	"kälte": {
+		"english": "cold",
+		"article": "die",
+		"plural": null
+	},
+	"schrank": {
+		"english": "closet",
+		"article": "der",
+		"plural": "schränke"
+	},
+	"morgendämmerung": {
+		"english": "dawn",
+		"article": "die",
+		"plural": "morgendämmerungen"
+	},
+	"tempel": {
+		"english": "temple",
+		"article": "der",
+		"plural": "tempel"
+	},
+	"freude": {
+		"english": "joy",
+		"article": "die",
+		"plural": null
+	},
+	"pflicht": {
+		"english": "duty",
+		"article": "die",
+		"plural": "pflichten"
+	},
+	"übung": {
+		"english": "practice",
+		"article": "die",
+		"plural": "übungen"
+	},
+	"absatz": {
+		"english": "heel",
+		"article": "der",
+		"plural": "absätze"
+	},
+	"tal": {
+		"english": "valley",
+		"article": "das",
+		"plural": "täler"
+	},
+	"kampf": {
+		"english": "fight",
+		"article": "der",
+		"plural": "kämpfe"
+	},
+	"kabel": {
+		"english": "wire",
+		"article": "das",
+		"plural": "kabel"
+	},
+	"jeans": {
+		"english": "jeans",
+		"article": "die",
+		"plural": null
+	},
+	"kuss": {
+		"english": "kiss",
+		"article": "der",
+		"plural": "küsse"
+	},
+	"kiefer": {
+		"english": "jaw",
+		"article": "der",
+		"plural": "kiefer"
+	},
+	"lauf": {
+		"english": "run",
+		"article": "der",
+		"plural": "läufe"
+	},
+	"halten": {
+		"english": "hold",
+		"article": "das",
+		"plural": "halten"
+	},
+	"beziehung": {
+		"english": "relationship",
+		"article": "die",
+		"plural": "beziehungen"
+	},
+	"objekt": {
+		"english": "object",
+		"article": "das",
+		"plural": "objekte"
+	},
+	"angriff": {
+		"english": "attack",
+		"article": "der",
+		"plural": "angriffe"
+	},
+	"autobahn": {
+		"english": "highway",
+		"article": "die",
+		"plural": "autobahnen"
+	},
+	"verbrechen": {
+		"english": "crime",
+		"article": "das",
+		"plural": "verbrechen"
+	},
+	"weiß": {
+		"english": "white",
+		"article": "das",
+		"plural": null
+	},
+	"partner": {
+		"english": "partner",
+		"article": "der",
+		"plural": "partner"
+	},
+	"priester": {
+		"english": "priest",
+		"article": "der",
+		"plural": "priester"
+	},
+	"rasen": {
+		"english": "lawn",
+		"article": "der",
+		"plural": "rasen"
+	},
+	"stamm": {
+		"english": "trunk",
+		"article": "der",
+		"plural": "stämme"
+	},
+	"weinen": {
+		"english": "cry",
+		"article": "das",
+		"plural": "weinen"
+	},
+	"programm": {
+		"english": "program",
+		"article": "das",
+		"plural": "programme"
+	},
+	"regal": {
+		"english": "shelf",
+		"article": "das",
+		"plural": "regale"
+	},
+	"wesen": {
+		"english": "being",
+		"article": "das",
+		"plural": "wesen"
+	},
+	"stahl": {
+		"english": "steel",
+		"article": "der",
+		"plural": null
+	},
+	"bürgersteig": {
+		"english": "sidewalk",
+		"article": "der",
+		"plural": "bürgersteige"
+	},
+	"uniform": {
+		"english": "uniform",
+		"article": "die",
+		"plural": "uniformen"
+	},
+	"muster": {
+		"english": "pattern",
+		"article": "das",
+		"plural": "muster"
+	},
+	"beweis": {
+		"english": "evidence",
+		"article": "der",
+		"plural": "beweise"
+	},
+	"spieler": {
+		"english": "player",
+		"article": "der",
+		"plural": "spieler"
+	},
+	"roman": {
+		"english": "novel",
+		"article": "der",
+		"plural": "romane"
+	},
+	"kissen": {
+		"english": "pillow",
+		"article": "das",
+		"plural": "kissen"
+	},
+	"lampe": {
+		"english": "lamp",
+		"article": "die",
+		"plural": "lampen"
+	},
+	"schublade": {
+		"english": "drawer",
+		"article": "die",
+		"plural": "schubladen"
+	},
+	"gefahr": {
+		"english": "danger",
+		"article": "die",
+		"plural": "gefahren"
+	},
+	"detektiv": {
+		"english": "detective",
+		"article": "der",
+		"plural": "detektive"
+	},
+	"augenblick": {
+		"english": "instant",
+		"article": "der",
+		"plural": "augenblicke"
+	},
+	"denken": {
+		"english": "thinking",
+		"article": "das",
+		"plural": null
+	},
+	"riss": {
+		"english": "crack",
+		"article": "der",
+		"plural": "risse"
+	},
+	"gebet": {
+		"english": "prayer",
+		"article": "das",
+		"plural": "gebete"
+	},
+	"handtuch": {
+		"english": "towel",
+		"article": "das",
+		"plural": "handtücher"
+	},
+	"handschuh": {
+		"english": "glove",
+		"article": "der",
+		"plural": "handschuhe"
+	},
+	"bucht": {
+		"english": "bay",
+		"article": "die",
+		"plural": "buchten"
+	},
+	"publikum": {
+		"english": "audience",
+		"article": "das",
+		"plural": null
+	},
+	"dose": {
+		"english": "can",
+		"article": "die",
+		"plural": "dosen"
+	},
+	"pfad": {
+		"english": "trail",
+		"article": "der",
+		"plural": "pfade"
+	},
+	"taille": {
+		"english": "waist",
+		"article": "die",
+		"plural": "taillen"
+	},
+	"druck": {
+		"english": "pressure",
+		"article": "der",
+		"plural": "drücke"
+	},
+	"waschbecken": {
+		"english": "sink",
+		"article": "das",
+		"plural": "waschbecken"
+	},
+	"rückkehr": {
+		"english": "return",
+		"article": "die",
+		"plural": "rückkehr"
+	},
+	"brise": {
+		"english": "breeze",
+		"article": "die",
+		"plural": "brisen"
+	},
+	"geschmack": {
+		"english": "taste",
+		"article": "der",
+		"plural": "geschmäcker"
+	},
+	"strom": {
+		"english": "stream",
+		"article": "der",
+		"plural": "ströme"
+	},
+	"ergebnis": {
+		"english": "result",
+		"article": "das",
+		"plural": "ergebnisse"
+	},
+	"autor": {
+		"english": "author",
+		"article": "der",
+		"plural": "autoren"
+	},
+	"tipp": {
+		"english": "tip",
+		"article": "der",
+		"plural": "tipps"
+	},
+	"dusche": {
+		"english": "shower",
+		"article": "die",
+		"plural": "duschen"
+	},
+	"zehe": {
+		"english": "toe",
+		"article": "die",
+		"plural": "zehen"
+	},
+	"jahreszeit": {
+		"english": "season",
+		"article": "die",
+		"plural": "jahreszeiten"
+	},
+	"hälfte": {
+		"english": "half",
+		"article": "die",
+		"plural": "hälften"
+	},
+	"narr": {
+		"english": "fool",
+		"article": "der",
+		"plural": "narren"
+	},
+	"tunnel": {
+		"english": "tunnel",
+		"article": "der",
+		"plural": "tunnel"
+	},
+	"kunde": {
+		"english": "client",
+		"article": "der",
+		"plural": "kunden"
+	},
+	"garage": {
+		"english": "garage",
+		"article": "die",
+		"plural": "garagen"
+	},
+	"mission": {
+		"english": "mission",
+		"article": "die",
+		"plural": "missionen"
+	},
+	"kugel": {
+		"english": "bullet",
+		"article": "die",
+		"plural": "kugeln"
+	},
+	"markt": {
+		"english": "market",
+		"article": "der",
+		"plural": "märkte"
+	},
+	"verlust": {
+		"english": "loss",
+		"article": "der",
+		"plural": "verluste"
+	},
+	"serie": {
+		"english": "series",
+		"article": "die",
+		"plural": "serien"
+	},
+	"stift": {
+		"english": "pen",
+		"article": "der",
+		"plural": "stifte"
+	},
+	"begriff": {
+		"english": "term",
+		"article": "der",
+		"plural": "begriffe"
+	},
+	"gedicht": {
+		"english": "poem",
+		"article": "das",
+		"plural": "gedichte"
+	},
+	"prinz": {
+		"english": "prince",
+		"article": "der",
+		"plural": "prinzen"
+	},
+	"schloss": {
+		"english": "lock",
+		"article": "das",
+		"plural": "schlösser"
+	},
+	"realität": {
+		"english": "reality",
+		"article": "die",
+		"plural": "realitäten"
+	},
+	"schlange": {
+		"english": "snake",
+		"article": "die",
+		"plural": "schlangen"
+	},
+	"apfel": {
+		"english": "apple",
+		"article": "der",
+		"plural": "äpfel"
+	},
+	"maske": {
+		"english": "mask",
+		"article": "die",
+		"plural": "masken"
+	},
+	"geburt": {
+		"english": "birth",
+		"article": "die",
+		"plural": "geburten"
+	},
+	"wunder": {
+		"english": "wonder",
+		"article": "das",
+		"plural": "wunder"
+	},
+	"sonnenlicht": {
+		"english": "sunlight",
+		"article": "das",
+		"plural": null
+	},
+	"panzer": {
+		"english": "tank",
+		"article": "der",
+		"plural": "panzer"
+	},
+	"personal": {
+		"english": "staff",
+		"article": "das",
+		"plural": null
+	},
+	"lüge": {
+		"english": "lie",
+		"article": "die",
+		"plural": "lügen"
+	},
+	"glaube": {
+		"english": "faith",
+		"article": "der",
+		"plural": null
+	},
+	"ehre": {
+		"english": "honor",
+		"article": "die",
+		"plural": null
+	},
+	"sahne": {
+		"english": "cream",
+		"article": "die",
+		"plural": null
+	},
+	"opfer": {
+		"english": "victim",
+		"article": "das",
+		"plural": "opfer"
+	},
+	"möglichkeit": {
+		"english": "possibility",
+		"article": "die",
+		"plural": "möglichkeiten"
+	},
+	"kontakt": {
+		"english": "contact",
+		"article": "der",
+		"plural": "kontakte"
+	},
+	"stimmung": {
+		"english": "mood",
+		"article": "die",
+		"plural": "stimmungen"
+	},
+	"daumen": {
+		"english": "thumb",
+		"article": "der",
+		"plural": "daumen"
+	},
+	"lesen": {
+		"english": "reading",
+		"article": "das",
+		"plural": null
+	},
+	"spaß": {
+		"english": "fun",
+		"article": "der",
+		"plural": null
+	},
+	"kerze": {
+		"english": "candle",
+		"article": "die",
+		"plural": "kerzen"
+	},
+	"höhle": {
+		"english": "cave",
+		"article": "die",
+		"plural": "höhlen"
+	},
+	"post": {
+		"english": "post",
+		"article": "die",
+		"plural": null
+	},
+	"gefängnis": {
+		"english": "prison",
+		"article": "das",
+		"plural": "gefängnisse"
+	},
+	"emotion": {
+		"english": "emotion",
+		"article": "die",
+		"plural": "emotionen"
+	},
+	"führer": {
+		"english": "leader",
+		"article": "der",
+		"plural": "führer"
+	},
+	"abschluss": {
+		"english": "degree",
+		"article": "der",
+		"plural": "abschlüsse"
+	},
+	"merkmal": {
+		"english": "feature",
+		"article": "das",
+		"plural": "merkmale"
+	},
+	"eintrittskarte": {
+		"english": "ticket",
+		"article": "die",
+		"plural": "eintrittskarten"
+	},
+	"alien": {
+		"english": "alien",
+		"article": "das",
+		"plural": "aliens"
+	},
+	"lektion": {
+		"english": "lesson",
+		"article": "die",
+		"plural": "lektionen"
+	},
+	"wüste": {
+		"english": "desert",
+		"article": "die",
+		"plural": "wüsten"
+	},
+	"schnitt": {
+		"english": "cut",
+		"article": "der",
+		"plural": "schnitte"
+	},
+	"durcheinander": {
+		"english": "mess",
+		"article": "das",
+		"plural": null
+	},
+	"warnung": {
+		"english": "warning",
+		"article": "die",
+		"plural": "warnungen"
+	},
+	"märchen": {
+		"english": "tale",
+		"article": "das",
+		"plural": "märchen"
+	},
+	"beerdigung": {
+		"english": "funeral",
+		"article": "die",
+		"plural": "beerdigungen"
+	},
+	"taxi": {
+		"english": "cab",
+		"article": "das",
+		"plural": "taxis"
+	},
+	"reporter": {
+		"english": "reporter",
+		"article": "der",
+		"plural": "reporter"
+	},
+	"theater": {
+		"english": "theater",
+		"article": "das",
+		"plural": "theater"
+	},
+	"länge": {
+		"english": "length",
+		"article": "die",
+		"plural": null
+	},
+	"schlamm": {
+		"english": "mud",
+		"article": "der",
+		"plural": null
+	},
+	"wissenschaft": {
+		"english": "science",
+		"article": "die",
+		"plural": null
+	},
+	"tropfen": {
+		"english": "drop",
+		"article": "der",
+		"plural": "tropfen"
+	},
+	"schnur": {
+		"english": "string",
+		"article": "die",
+		"plural": "schnüre"
+	},
+	"rede": {
+		"english": "speech",
+		"article": "die",
+		"plural": "reden"
+	},
+	"exemplar": {
+		"english": "copy",
+		"article": "das",
+		"plural": "exemplare"
+	},
+	"kuh": {
+		"english": "cow",
+		"article": "die",
+		"plural": "kühe"
+	},
+	"arbeiter": {
+		"english": "worker",
+		"article": "der",
+		"plural": "arbeiter"
+	},
+	"oberschenkel": {
+		"english": "thigh",
+		"article": "der",
+		"plural": "oberschenkel"
+	},
+	"labor": {
+		"english": "lab",
+		"article": "das",
+		"plural": "labore"
+	},
+	"rolle": {
+		"english": "roll",
+		"article": "die",
+		"plural": "rollen"
+	},
+	"frucht": {
+		"english": "fruit",
+		"article": "die",
+		"plural": "früchte"
+	},
+	"patch": {
+		"english": "patch",
+		"article": "das",
+		"plural": "patches"
+	},
+	"seide": {
+		"english": "silk",
+		"article": "die",
+		"plural": null
+	},
+	"dollar": {
+		"english": "buck",
+		"article": "der",
+		"plural": "dollars"
+	},
+	"ziegel": {
+		"english": "brick",
+		"article": "der",
+		"plural": "ziegel"
+	},
+	"gewehr": {
+		"english": "rifle",
+		"article": "das",
+		"plural": "gewehre"
+	},
+	"karriere": {
+		"english": "career",
+		"article": "die",
+		"plural": "karrieren"
+	},
+	"ausgabe": {
+		"english": "issue",
+		"article": "die",
+		"plural": "ausgaben"
+	},
+	"gelegenheit": {
+		"english": "opportunity",
+		"article": "die",
+		"plural": "gelegenheiten"
+	},
+	"regisseur": {
+		"english": "director",
+		"article": "der",
+		"plural": "regisseure"
+	},
+	"monster": {
+		"english": "monster",
+		"article": "das",
+		"plural": "monster"
+	},
+	"fahrzeug": {
+		"english": "vehicle",
+		"article": "das",
+		"plural": "fahrzeuge"
+	},
+	"gasse": {
+		"english": "alley",
+		"article": "die",
+		"plural": "gassen"
+	},
+	"ärmel": {
+		"english": "sleeve",
+		"article": "der",
+		"plural": "ärmel"
+	},
+	"grab": {
+		"english": "grave",
+		"article": "das",
+		"plural": "gräber"
+	},
+	"busch": {
+		"english": "bush",
+		"article": "der",
+		"plural": "büsche"
+	},
+	"esszimmer": {
+		"english": "dining",
+		"article": "das",
+		"plural": null
+	},
+	"öffnung": {
+		"english": "opening",
+		"article": "die",
+		"plural": "öffnungen"
+	},
+	"zwilling": {
+		"english": "twin",
+		"article": "das",
+		"plural": "zwillinge"
+	},
+	"scheune": {
+		"english": "barn",
+		"article": "die",
+		"plural": "scheunen"
+	},
+	"pfund": {
+		"english": "pound",
+		"article": "das",
+		"plural": "pfunde"
+	},
+	"blitz": {
+		"english": "flash",
+		"article": "der",
+		"plural": "blitze"
+	},
+	"richter": {
+		"english": "judge",
+		"article": "der",
+		"plural": "richter"
+	},
+	"masse": {
+		"english": "mass",
+		"article": "die",
+		"plural": "massen"
+	},
+	"prozess": {
+		"english": "process",
+		"article": "der",
+		"plural": "prozesse"
+	},
+	"krawatte": {
+		"english": "tie",
+		"article": "die",
+		"plural": "krawatten"
+	},
+	"geldbörse": {
+		"english": "purse",
+		"article": "die",
+		"plural": "geldbörsen"
+	},
+	"pfeife": {
+		"english": "pipe",
+		"article": "die",
+		"plural": "pfeifen"
+	},
+	"drache": {
+		"english": "dragon",
+		"article": "der",
+		"plural": "drachen"
+	},
+	"horizont": {
+		"english": "horizon",
+		"article": "der",
+		"plural": "horizonte"
+	},
+	"tablett": {
+		"english": "tray",
+		"article": "das",
+		"plural": "tabletts"
+	},
+	"umschlag": {
+		"english": "envelope",
+		"article": "der",
+		"plural": "umschläge"
+	},
+	"scheck": {
+		"english": "check",
+		"article": "der",
+		"plural": "schecks"
+	},
+	"erwachsene": {
+		"english": "adult",
+		"article": "der",
+		"plural": "erwachsenen"
+	},
+	"notfall": {
+		"english": "emergency",
+		"article": "der",
+		"plural": "notfälle"
+	},
+	"material": {
+		"english": "material",
+		"article": "das",
+		"plural": "materialien"
+	},
+	"kindheit": {
+		"english": "childhood",
+		"article": "die",
+		"plural": null
+	},
+	"gewohnheit": {
+		"english": "habit",
+		"article": "die",
+		"plural": "gewohnheiten"
+	},
+	"künstler": {
+		"english": "artist",
+		"article": "der",
+		"plural": "künstler"
+	},
+	"adresse": {
+		"english": "address",
+		"article": "die",
+		"plural": "adressen"
+	},
+	"duft": {
+		"english": "scent",
+		"article": "der",
+		"plural": "düfte"
+	},
+	"universum": {
+		"english": "universe",
+		"article": "das",
+		"plural": "universen"
+	},
+	"nicken": {
+		"english": "nod",
+		"article": "das",
+		"plural": null
+	},
+	"muschel": {
+		"english": "shell",
+		"article": "die",
+		"plural": "muscheln"
+	},
+	"gemeinschaft": {
+		"english": "community",
+		"article": "die",
+		"plural": "gemeinschaften"
+	},
+	"start": {
+		"english": "start",
+		"article": "der",
+		"plural": "starts"
+	},
+	"wunde": {
+		"english": "wound",
+		"article": "die",
+		"plural": "wunden"
+	},
+	"maus": {
+		"english": "mouse",
+		"article": "die",
+		"plural": "mäuse"
+	},
+	"pilot": {
+		"english": "pilot",
+		"article": "der",
+		"plural": "piloten"
+	},
+	"note": {
+		"english": "grade",
+		"article": "die",
+		"plural": "noten"
+	},
+	"video": {
+		"english": "video",
+		"article": "das",
+		"plural": "videos"
+	},
+	"korb": {
+		"english": "basket",
+		"article": "der",
+		"plural": "körbe"
+	},
+	"waggon": {
+		"english": "wagon",
+		"article": "der",
+		"plural": "waggons"
+	},
+	"versuch": {
+		"english": "attempt",
+		"article": "der",
+		"plural": "versuche"
+	},
+	"sofa": {
+		"english": "sofa",
+		"article": "das",
+		"plural": "sofas"
+	},
+	"kuchen": {
+		"english": "cake",
+		"article": "der",
+		"plural": "kuchen"
+	},
+	"küste": {
+		"english": "shore",
+		"article": "die",
+		"plural": "küsten"
+	},
+	"general": {
+		"english": "general",
+		"article": "der",
+		"plural": "generäle"
+	},
+	"wurzel": {
+		"english": "root",
+		"article": "die",
+		"plural": "wurzeln"
+	},
+	"umhang": {
+		"english": "robe",
+		"article": "der",
+		"plural": "umhänge"
+	},
+	"presse": {
+		"english": "press",
+		"article": "die",
+		"plural": null
+	},
+	"ratte": {
+		"english": "rat",
+		"article": "die",
+		"plural": "ratten"
+	},
+	"gesellschaft": {
+		"english": "society",
+		"article": "die",
+		"plural": "gesellschaften"
+	},
+	"stil": {
+		"english": "style",
+		"article": "der",
+		"plural": "stile"
+	},
+	"bezirk": {
+		"english": "county",
+		"article": "der",
+		"plural": "bezirke"
+	},
+	"befehl": {
+		"english": "command",
+		"article": "der",
+		"plural": "befehle"
+	},
+	"besucher": {
+		"english": "visitor",
+		"article": "der",
+		"plural": "besucher"
+	},
+	"modell": {
+		"english": "model",
+		"article": "das",
+		"plural": "modelle"
+	},
+	"kammer": {
+		"english": "chamber",
+		"article": "die",
+		"plural": "kammern"
+	},
+	"strauß": {
+		"english": "bunch",
+		"article": "der",
+		"plural": "sträuße"
+	},
+	"hintergrund": {
+		"english": "background",
+		"article": "der",
+		"plural": "hintergründe"
+	},
+	"einheit": {
+		"english": "unit",
+		"article": "die",
+		"plural": "einheiten"
+	},
+	"möbel": {
+		"english": "furniture",
+		"article": "das",
+		"plural": "möbel"
+	},
+	"nagel": {
+		"english": "nail",
+		"article": "der",
+		"plural": "nägel"
+	},
+	"schrei": {
+		"english": "scream",
+		"article": "der",
+		"plural": "schreie"
+	},
+	"eigentum": {
+		"english": "property",
+		"article": "das",
+		"plural": null
+	},
+	"ausrüstung": {
+		"english": "equipment",
+		"article": "die",
+		"plural": null
+	},
+	"auffahrt": {
+		"english": "driveway",
+		"article": "die",
+		"plural": "auffahrten"
+	},
+	"griff": {
+		"english": "grip",
+		"article": "der",
+		"plural": "griffe"
+	},
+	"röhre": {
+		"english": "tube",
+		"article": "die",
+		"plural": "röhren"
+	},
+	"asche": {
+		"english": "ash",
+		"article": "die",
+		"plural": "aschen"
+	},
+	"ventilator": {
+		"english": "fan",
+		"article": "der",
+		"plural": "ventilatoren"
+	},
+	"meinung": {
+		"english": "opinion",
+		"article": "die",
+		"plural": "meinungen"
+	},
+	"daten": {
+		"english": "data",
+		"article": "die",
+		"plural": null
+	},
+	"verbindung": {
+		"english": "connection",
+		"article": "die",
+		"plural": "verbindungen"
+	},
+	"trick": {
+		"english": "trick",
+		"article": "der",
+		"plural": "tricks"
+	},
+	"periode": {
+		"english": "period",
+		"article": "die",
+		"plural": "perioden"
+	},
+	"schrift": {
+		"english": "writing",
+		"article": "die",
+		"plural": "schriften"
+	},
+	"horror": {
+		"english": "horror",
+		"article": "der",
+		"plural": null
+	},
+	"süßigkeiten": {
+		"english": "candy",
+		"article": "die",
+		"plural": null
+	},
+	"hündin": {
+		"english": "bitch",
+		"article": "die",
+		"plural": "hündinnen"
+	},
+	"gesundheit": {
+		"english": "health",
+		"article": "die",
+		"plural": null
+	},
+	"manager": {
+		"english": "manager",
+		"article": "der",
+		"plural": "manager"
+	},
+	"höhe": {
+		"english": "height",
+		"article": "die",
+		"plural": "höhen"
+	},
+	"aussehen": {
+		"english": "appearance",
+		"article": "das",
+		"plural": null
+	},
+	"seufzer": {
+		"english": "sigh",
+		"article": "der",
+		"plural": "seufzer"
+	},
+	"mine": {
+		"english": "mine",
+		"article": "die",
+		"plural": "minen"
+	},
+	"stoff": {
+		"english": "cloth",
+		"article": "der",
+		"plural": "stoffe"
+	},
+	"reaktion": {
+		"english": "reaction",
+		"article": "die",
+		"plural": "reaktionen"
+	},
+	"quelle": {
+		"english": "source",
+		"article": "die",
+		"plural": "quellen"
+	},
+	"selbst": {
+		"english": "self",
+		"article": "das",
+		"plural": null
+	},
+	"pistole": {
+		"english": "pistol",
+		"article": "die",
+		"plural": "pistolen"
+	},
+	"flughafen": {
+		"english": "airport",
+		"article": "der",
+		"plural": "flughäfen"
+	},
+	"held": {
+		"english": "hero",
+		"article": "der",
+		"plural": "helden"
+	},
+	"versprechen": {
+		"english": "promise",
+		"article": "das",
+		"plural": "versprechen"
+	},
+	"bogen": {
+		"english": "bow",
+		"article": "der",
+		"plural": "bögen"
+	},
+	"zelt": {
+		"english": "tent",
+		"article": "das",
+		"plural": "zelte"
+	},
+	"bargeld": {
+		"english": "cash",
+		"article": "das",
+		"plural": null
+	},
+	"allee": {
+		"english": "avenue",
+		"article": "die",
+		"plural": "alleen"
+	},
+	"t-shirt": {
+		"english": "tshirt",
+		"article": "das",
+		"plural": "t-shirts"
+	},
+	"teppich": {
+		"english": "carpet",
+		"article": "der",
+		"plural": "teppiche"
+	},
+	"keller": {
+		"english": "basement",
+		"article": "der",
+		"plural": "keller"
+	},
+	"freundin": {
+		"english": "girlfriend",
+		"article": "die",
+		"plural": "freundinnen"
+	},
+	"bart": {
+		"english": "beard",
+		"article": "der",
+		"plural": "bärte"
+	},
+	"signal": {
+		"english": "signal",
+		"article": "das",
+		"plural": "signale"
+	},
+	"diener": {
+		"english": "servant",
+		"article": "der",
+		"plural": "diener"
+	},
+	"flüstern": {
+		"english": "whisper",
+		"article": "das",
+		"plural": "flüster"
+	},
+	"zweifel": {
+		"english": "doubt",
+		"article": "der",
+		"plural": "zweifel"
+	},
+	"konto": {
+		"english": "account",
+		"article": "das",
+		"plural": "konten"
+	},
+	"magie": {
+		"english": "magic",
+		"article": "die",
+		"plural": null
+	},
+	"klumpen": {
+		"english": "hank",
+		"article": "der",
+		"plural": "klumpen"
+	},
+	"glied": {
+		"english": "limb",
+		"article": "das",
+		"plural": "glieder"
+	},
+	"bastard": {
+		"english": "bastard",
+		"article": "der",
+		"plural": "bastarde"
+	},
+	"schädel": {
+		"english": "skull",
+		"article": "der",
+		"plural": "schädel"
+	},
+	"kragen": {
+		"english": "collar",
+		"article": "der",
+		"plural": "kragen"
+	},
+	"horn": {
+		"english": "horn",
+		"article": "das",
+		"plural": "hörner"
+	},
+	"eiche": {
+		"english": "oak",
+		"article": "die",
+		"plural": "eichen"
+	},
+	"knöchel": {
+		"english": "ankle",
+		"article": "der",
+		"plural": "knöchel"
+	},
+	"puppe": {
+		"english": "doll",
+		"article": "die",
+		"plural": "puppen"
+	},
+	"sandwich": {
+		"english": "sandwich",
+		"article": "das",
+		"plural": "sandwiches"
+	},
+	"rotkehlchen": {
+		"english": "robin",
+		"article": "der",
+		"plural": "rotkehlchen"
+	},
+	"gerechtigkeit": {
+		"english": "justice",
+		"article": "die",
+		"plural": null
+	},
+	"stolz": {
+		"english": "pride",
+		"article": "der",
+		"plural": null
+	},
+	"jugend": {
+		"english": "youth",
+		"article": "die",
+		"plural": null
+	},
+	"sekretär": {
+		"english": "secretary",
+		"article": "der",
+		"plural": "sekretäre"
+	},
+	"forschung": {
+		"english": "research",
+		"article": "die",
+		"plural": null
+	},
+	"sport": {
+		"english": "sport",
+		"article": "der",
+		"plural": "sportarten"
+	},
+	"aufgabe": {
+		"english": "task",
+		"article": "die",
+		"plural": "aufgaben"
+	},
+	"stipendium": {
+		"english": "grant",
+		"article": "das",
+		"plural": "stipendien"
+	},
+	"sheriff": {
+		"english": "sheriff",
+		"article": "der",
+		"plural": "sheriffs"
+	},
+	"mitternacht": {
+		"english": "midnight",
+		"article": "die",
+		"plural": null
+	},
+	"chip": {
+		"english": "chip",
+		"article": "der",
+		"plural": "chips"
+	},
+	"theorie": {
+		"english": "theory",
+		"article": "die",
+		"plural": "theorien"
+	},
+	"alarm": {
+		"english": "alarm",
+		"article": "der",
+		"plural": "alarme"
+	},
+	"sammlung": {
+		"english": "collection",
+		"article": "die",
+		"plural": "sammlungen"
+	},
+	"kreuz": {
+		"english": "cross",
+		"article": "das",
+		"plural": "kreuze"
+	},
+	"generation": {
+		"english": "generation",
+		"article": "die",
+		"plural": "generationen"
+	},
+	"autorität": {
+		"english": "authority",
+		"article": "die",
+		"plural": "autoritäten"
+	},
+	"perle": {
+		"english": "pearl",
+		"article": "die",
+		"plural": "perlen"
+	},
+	"toilette": {
+		"english": "toilet",
+		"article": "die",
+		"plural": "toiletten"
+	},
+	"mörder": {
+		"english": "killer",
+		"article": "der",
+		"plural": "mörder"
+	},
+	"werkzeug": {
+		"english": "tool",
+		"article": "das",
+		"plural": "werkzeuge"
+	},
+	"medizin": {
+		"english": "medicine",
+		"article": "die",
+		"plural": "medizinen"
+	},
+	"zucker": {
+		"english": "sugar",
+		"article": "der",
+		"plural": null
+	},
+	"prinzessin": {
+		"english": "princess",
+		"article": "die",
+		"plural": "prinzessinnen"
+	},
+	"argument": {
+		"english": "argument",
+		"article": "das",
+		"plural": "argumente"
+	},
+	"klippe": {
+		"english": "cliff",
+		"article": "die",
+		"plural": "klippen"
+	},
+	"wagen": {
+		"english": "cart",
+		"article": "der",
+		"plural": "wagen"
+	},
+	"kristall": {
+		"english": "crystal",
+		"article": "der",
+		"plural": "kristalle"
+	},
+	"bohne": {
+		"english": "bean",
+		"article": "die",
+		"plural": "bohnen"
+	},
+	"käfig": {
+		"english": "cage",
+		"article": "der",
+		"plural": "käfige"
+	},
+	"schokolade": {
+		"english": "chocolate",
+		"article": "die",
+		"plural": null
+	},
+	"jahrzehnt": {
+		"english": "decade",
+		"article": "das",
+		"plural": "jahrzehnte"
+	},
+	"bedeutung": {
+		"english": "meaning",
+		"article": "die",
+		"plural": "bedeutungen"
+	},
+	"getriebe": {
+		"english": "gear",
+		"article": "das",
+		"plural": "getriebe"
+	},
+	"koffer": {
+		"english": "suitcase",
+		"article": "der",
+		"plural": "koffer"
+	},
+	"operation": {
+		"english": "operation",
+		"article": "die",
+		"plural": "operationen"
+	},
+	"atmen": {
+		"english": "breathing",
+		"article": "das",
+		"plural": null
+	},
+	"version": {
+		"english": "version",
+		"article": "die",
+		"plural": "versionen"
+	},
+	"gefangene": {
+		"english": "prisoner",
+		"article": "der",
+		"plural": "gefangenen"
+	},
+	"rausch": {
+		"english": "rush",
+		"article": "der",
+		"plural": "räusche"
+	},
+	"fahrspur": {
+		"english": "lane",
+		"article": "die",
+		"plural": "fahrspuren"
+	},
+	"pfahl": {
+		"english": "pole",
+		"article": "der",
+		"plural": "pfähle"
+	},
+	"freiheit": {
+		"english": "freedom",
+		"article": "die",
+		"plural": null
+	},
+	"fähigkeit": {
+		"english": "skill",
+		"article": "die",
+		"plural": "fähigkeiten"
+	},
+	"leidenschaft": {
+		"english": "passion",
+		"article": "die",
+		"plural": "leidenschaften"
+	},
+	"aktivität": {
+		"english": "activity",
+		"article": "die",
+		"plural": "aktivitäten"
+	},
+	"fick": {
+		"english": "fuck",
+		"article": "der",
+		"plural": "ficks"
+	},
+	"plattform": {
+		"english": "platform",
+		"article": "die",
+		"plural": "plattformen"
+	},
+	"salz": {
+		"english": "salt",
+		"article": "das",
+		"plural": null
+	},
+	"fahrrad": {
+		"english": "bike",
+		"article": "das",
+		"plural": "fahrräder"
+	},
+	"begleiter": {
+		"english": "companion",
+		"article": "der",
+		"plural": "begleiter"
+	},
+	"schicksal": {
+		"english": "fate",
+		"article": "das",
+		"plural": null
+	},
+	"wut": {
+		"english": "rage",
+		"article": "die",
+		"plural": "wut"
+	},
+	"versorgung": {
+		"english": "supply",
+		"article": "die",
+		"plural": "versorgungen"
+	},
+	"wal": {
+		"english": "whale",
+		"article": "der",
+		"plural": "wale"
+	},
+	"schwein": {
+		"english": "pig",
+		"article": "das",
+		"plural": "schweine"
+	},
+	"kaninchen": {
+		"english": "rabbit",
+		"article": "das",
+		"plural": "kaninchen"
+	},
+	"gang": {
+		"english": "aisle",
+		"article": "der",
+		"plural": "gänge"
+	},
+	"monitor": {
+		"english": "monitor",
+		"article": "der",
+		"plural": "monitore"
+	},
+	"helm": {
+		"english": "helmet",
+		"article": "der",
+		"plural": "helme"
+	},
+	"respekt": {
+		"english": "respect",
+		"article": "der",
+		"plural": null
+	},
+	"aufregung": {
+		"english": "excitement",
+		"article": "die",
+		"plural": null
+	},
+	"lobby": {
+		"english": "lobby",
+		"article": "die",
+		"plural": "lobbys"
+	},
+	"pelz": {
+		"english": "fur",
+		"article": "der",
+		"plural": "felle"
+	},
+	"bandbreite": {
+		"english": "range",
+		"article": "die",
+		"plural": "bandbreiten"
+	},
+	"code": {
+		"english": "code",
+		"article": "der",
+		"plural": "codes"
+	},
+	"kapitel": {
+		"english": "chapter",
+		"article": "das",
+		"plural": "kapitel"
+	},
+	"reflexion": {
+		"english": "reflection",
+		"article": "die",
+		"plural": "reflexionen"
+	},
+	"fliege": {
+		"english": "fly",
+		"article": "die",
+		"plural": "fliegen"
+	},
+	"spielzeug": {
+		"english": "toy",
+		"article": "das",
+		"plural": "spielzeuge"
+	},
+	"baseball": {
+		"english": "baseball",
+		"article": "der",
+		"plural": "baseballs"
+	},
+	"innere": {
+		"english": "inside",
+		"article": "das",
+		"plural": null
+	},
+	"tempo": {
+		"english": "pace",
+		"article": "das",
+		"plural": null
+	},
+	"blei": {
+		"english": "lead",
+		"article": "das",
+		"plural": null
+	},
+	"menge": {
+		"english": "amount",
+		"article": "die",
+		"plural": "mengen"
+	},
+	"nerv": {
+		"english": "nerve",
+		"article": "der",
+		"plural": "nerven"
+	},
+	"terror": {
+		"english": "terror",
+		"article": "der",
+		"plural": null
+	},
+	"pullover": {
+		"english": "sweater",
+		"article": "der",
+		"plural": "pullover"
+	},
+	"qualität": {
+		"english": "quality",
+		"article": "die",
+		"plural": "qualitäten"
+	},
+	"jäger": {
+		"english": "hunter",
+		"article": "der",
+		"plural": "jäger"
+	},
+	"zerstörer": {
+		"english": "buster",
+		"article": "der",
+		"plural": "zerstörer"
+	},
+	"baumwolle": {
+		"english": "cotton",
+		"article": "die",
+		"plural": null
+	},
+	"feldwebel": {
+		"english": "sergeant",
+		"article": "der",
+		"plural": "feldwebel"
+	},
+	"kredit": {
+		"english": "credit",
+		"article": "der",
+		"plural": "kredite"
+	},
+	"teufel": {
+		"english": "devil",
+		"article": "der",
+		"plural": "teufel"
+	},
+	"bedrohung": {
+		"english": "threat",
+		"article": "die",
+		"plural": "bedrohungen"
+	},
+	"erfolg": {
+		"english": "success",
+		"article": "der",
+		"plural": "erfolge"
+	},
+	"pfanne": {
+		"english": "pan",
+		"article": "die",
+		"plural": "pfannen"
+	},
+	"angestellte": {
+		"english": "clerk",
+		"article": "der",
+		"plural": "angestellten"
+	},
+	"titel": {
+		"english": "title",
+		"article": "der",
+		"plural": "titel"
+	},
+	"meter": {
+		"english": "meter",
+		"article": "der",
+		"plural": "meter"
+	},
+	"schande": {
+		"english": "shame",
+		"article": "die",
+		"plural": null
+	},
+	"nadel": {
+		"english": "needle",
+		"article": "die",
+		"plural": "nadeln"
+	},
+	"lunge": {
+		"english": "lung",
+		"article": "die",
+		"plural": "lungen"
+	},
+	"krieger": {
+		"english": "warrior",
+		"article": "der",
+		"plural": "krieger"
+	},
+	"umstände": {
+		"english": "circumstance",
+		"article": "die",
+		"plural": null
+	},
+	"studio": {
+		"english": "studio",
+		"article": "das",
+		"plural": "studios"
+	},
+	"panik": {
+		"english": "panic",
+		"article": "die",
+		"plural": null
+	},
+	"mangel": {
+		"english": "lack",
+		"article": "der",
+		"plural": null
+	},
+	"bauer": {
+		"english": "farmer",
+		"article": "der",
+		"plural": "bauern"
+	},
+	"akzent": {
+		"english": "accent",
+		"article": "der",
+		"plural": "akzente"
+	},
+	"bombe": {
+		"english": "bomb",
+		"article": "die",
+		"plural": "bomben"
+	},
+	"panel": {
+		"english": "panel",
+		"article": "das",
+		"plural": "panels"
+	},
+	"sieger": {
+		"english": "victor",
+		"article": "der",
+		"plural": "sieger"
+	},
+	"feder": {
+		"english": "feather",
+		"article": "die",
+		"plural": "federn"
+	},
+	"oma": {
+		"english": "grandma",
+		"article": "die",
+		"plural": "omas"
+	},
+	"leuchten": {
+		"english": "glow",
+		"article": "das",
+		"plural": "leuchten"
+	},
+	"verhalten": {
+		"english": "behavior",
+		"article": "das",
+		"plural": null
+	},
+	"sklave": {
+		"english": "slave",
+		"article": "der",
+		"plural": "sklaven"
+	},
+	"leutnant": {
+		"english": "lieutenant",
+		"article": "der",
+		"plural": "leutnants"
+	},
+	"fass": {
+		"english": "barrel",
+		"article": "das",
+		"plural": "fässer"
+	},
+	"wärme": {
+		"english": "warmth",
+		"article": "die",
+		"plural": null
+	},
+	"eindruck": {
+		"english": "impression",
+		"article": "der",
+		"plural": "eindrücke"
+	},
+	"maurer": {
+		"english": "mason",
+		"article": "der",
+		"plural": "maurer"
+	},
+	"braut": {
+		"english": "bride",
+		"article": "die",
+		"plural": "bräute"
+	},
+	"paket": {
+		"english": "package",
+		"article": "das",
+		"plural": "pakete"
+	},
+	"nebel": {
+		"english": "fog",
+		"article": "der",
+		"plural": null
+	},
+	"gehen": {
+		"english": "walking",
+		"article": "das",
+		"plural": null
+	},
+	"gleichgewicht": {
+		"english": "balance",
+		"article": "das",
+		"plural": null
+	},
+	"socke": {
+		"english": "sock",
+		"article": "die",
+		"plural": "socken"
+	},
+	"roboter": {
+		"english": "robot",
+		"article": "der",
+		"plural": "roboter"
+	},
+	"kartoffel": {
+		"english": "potato",
+		"article": "die",
+		"plural": "kartoffeln"
+	},
+	"gegenstand": {
+		"english": "item",
+		"article": "der",
+		"plural": "gegenstände"
+	},
+	"bad": {
+		"english": "bath",
+		"article": "das",
+		"plural": "bäder"
+	},
+	"diamant": {
+		"english": "diamond",
+		"article": "der",
+		"plural": "diamanten"
+	},
+	"leiche": {
+		"english": "corpse",
+		"article": "die",
+		"plural": "leichen"
+	},
+	"erklärung": {
+		"english": "explanation",
+		"article": "die",
+		"plural": "erklärungen"
+	},
+	"struktur": {
+		"english": "structure",
+		"article": "die",
+		"plural": "strukturen"
+	},
+	"ausgang": {
+		"english": "exit",
+		"article": "der",
+		"plural": "ausgänge"
+	},
+	"herd": {
+		"english": "stove",
+		"article": "der",
+		"plural": "herde"
+	},
+	"blau": {
+		"english": "blue",
+		"article": "das",
+		"plural": null
+	},
+	"amerikaner": {
+		"english": "american",
+		"article": "der",
+		"plural": "amerikaner"
+	},
+	"rubin": {
+		"english": "ruby",
+		"article": "der",
+		"plural": "rubine"
+	},
+	"grube": {
+		"english": "pit",
+		"article": "die",
+		"plural": "gruben"
+	},
+	"oberst": {
+		"english": "colonel",
+		"article": "der",
+		"plural": "obersten"
+	},
+	"hafen": {
+		"english": "dock",
+		"article": "der",
+		"plural": "häfen"
+	},
+	"bach": {
+		"english": "creek",
+		"article": "der",
+		"plural": "bäche"
+	},
+	"rat": {
+		"english": "advice",
+		"article": "der",
+		"plural": "ratschläge"
+	},
+	"tourist": {
+		"english": "tourist",
+		"article": "der",
+		"plural": "touristen"
+	},
+	"trauer": {
+		"english": "grief",
+		"article": "die",
+		"plural": null
+	},
+	"verteidigung": {
+		"english": "defense",
+		"article": "die",
+		"plural": null
+	},
+	"biss": {
+		"english": "bite",
+		"article": "der",
+		"plural": "bisse"
+	},
+	"museum": {
+		"english": "museum",
+		"article": "das",
+		"plural": "museen"
+	},
+	"gefallen": {
+		"english": "favor",
+		"article": "der",
+		"plural": "gefallen"
+	},
+	"komfort": {
+		"english": "comfort",
+		"article": "der",
+		"plural": null
+	},
+	"dekan": {
+		"english": "dean",
+		"article": "der",
+		"plural": null
+	},
+	"wert": {
+		"english": "value",
+		"article": "der",
+		"plural": "werte"
+	},
+	"marsch": {
+		"english": "march",
+		"article": "der",
+		"plural": "märsche"
+	},
+	"anwesen": {
+		"english": "estate",
+		"article": "das",
+		"plural": "anwesen"
+	},
+	"dichter": {
+		"english": "poet",
+		"article": "der",
+		"plural": "dichter"
+	},
+	"palast": {
+		"english": "palace",
+		"article": "der",
+		"plural": "paläste"
+	},
+	"suppe": {
+		"english": "soup",
+		"article": "die",
+		"plural": "suppen"
+	},
+	"nation": {
+		"english": "nation",
+		"article": "die",
+		"plural": "nationen"
+	},
+	"sack": {
+		"english": "sack",
+		"article": "der",
+		"plural": "säcke"
+	},
+	"dämon": {
+		"english": "demon",
+		"article": "der",
+		"plural": "dämonen"
+	},
+	"konferenz": {
+		"english": "conference",
+		"article": "die",
+		"plural": "konferenzen"
+	},
+	"saft": {
+		"english": "juice",
+		"article": "der",
+		"plural": "säfte"
+	},
+	"verantwortung": {
+		"english": "responsibility",
+		"article": "die",
+		"plural": null
+	},
+	"bürste": {
+		"english": "brush",
+		"article": "die",
+		"plural": "bürsten"
+	},
+	"route": {
+		"english": "route",
+		"article": "die",
+		"plural": "routen"
+	},
+	"käse": {
+		"english": "cheese",
+		"article": "der",
+		"plural": "käse"
+	},
+	"motorhaube": {
+		"english": "hood",
+		"article": "die",
+		"plural": "motorhauben"
+	},
+	"ente": {
+		"english": "duck",
+		"article": "die",
+		"plural": "enten"
+	},
+	"heilige": {
+		"english": "saint",
+		"article": "der",
+		"plural": "heiligen"
+	},
+	"pass": {
+		"english": "pass",
+		"article": "der",
+		"plural": "pässe"
+	},
+	"ziel": {
+		"english": "target",
+		"article": "das",
+		"plural": "ziele"
+	},
+	"orange": {
+		"english": "orange",
+		"article": "die",
+		"plural": "orangen"
+	},
+	"kultur": {
+		"english": "culture",
+		"article": "die",
+		"plural": "kulturen"
+	},
+	"tour": {
+		"english": "tour",
+		"article": "die",
+		"plural": "touren"
+	},
+	"kommandant": {
+		"english": "commander",
+		"article": "der",
+		"plural": "kommandanten"
+	},
+	"haken": {
+		"english": "hook",
+		"article": "der",
+		"plural": "haken"
+	},
+	"training": {
+		"english": "training",
+		"article": "das",
+		"plural": "trainings"
+	},
+	"suche": {
+		"english": "search",
+		"article": "die",
+		"plural": "suchen"
+	},
+	"münze": {
+		"english": "coin",
+		"article": "die",
+		"plural": "münzen"
+	},
+	"vorteil": {
+		"english": "advantage",
+		"article": "der",
+		"plural": "vorteile"
+	},
+	"austausch": {
+		"english": "exchange",
+		"article": "der",
+		"plural": "austausche"
+	},
+	"fiktion": {
+		"english": "fiction",
+		"article": "die",
+		"plural": null
+	},
+	"teich": {
+		"english": "pond",
+		"article": "der",
+		"plural": "teiche"
+	},
+	"assistent": {
+		"english": "assistant",
+		"article": "der",
+		"plural": "assistenten"
+	},
+	"design": {
+		"english": "design",
+		"article": "das",
+		"plural": "designs"
+	},
+	"angeln": {
+		"english": "fishing",
+		"article": "das",
+		"plural": null
+	},
+	"hang": {
+		"english": "slope",
+		"article": "der",
+		"plural": "hänge"
+	},
+	"graf": {
+		"english": "earl",
+		"article": "der",
+		"plural": "grafen"
+	},
+	"kommentar": {
+		"english": "comment",
+		"article": "der",
+		"plural": "kommentare"
+	},
+	"kellner": {
+		"english": "waiter",
+		"article": "der",
+		"plural": "kellner"
+	},
+	"lebensmittel": {
+		"english": "grocery",
+		"article": "der",
+		"plural": "lebensmittel"
+	},
+	"leiter": {
+		"english": "ladder",
+		"article": "die",
+		"plural": "leitern"
+	},
+	"kurve": {
+		"english": "curve",
+		"article": "die",
+		"plural": "kurven"
+	},
+	"volumen": {
+		"english": "volume",
+		"article": "das",
+		"plural": "volumina"
+	},
+	"risiko": {
+		"english": "risk",
+		"article": "das",
+		"plural": "risiken"
+	},
+	"albtraum": {
+		"english": "nightmare",
+		"article": "der",
+		"plural": "albträume"
+	},
+	"existenz": {
+		"english": "existence",
+		"article": "die",
+		"plural": null
+	},
+	"spur": {
+		"english": "trace",
+		"article": "die",
+		"plural": "spuren"
+	},
+	"krankheit": {
+		"english": "disease",
+		"article": "die",
+		"plural": "krankheiten"
+	},
+	"unterstützung": {
+		"english": "support",
+		"article": "die",
+		"plural": null
+	},
+	"zeuge": {
+		"english": "witness",
+		"article": "der",
+		"plural": "zeugen"
+	},
+	"bestand": {
+		"english": "stock",
+		"article": "der",
+		"plural": "bestände"
+	},
+	"gerät": {
+		"english": "device",
+		"article": "das",
+		"plural": "geräte"
+	},
+	"landschaft": {
+		"english": "landscape",
+		"article": "die",
+		"plural": "landschaften"
+	},
+	"feiertag": {
+		"english": "holiday",
+		"article": "der",
+		"plural": "feiertage"
+	},
+	"ass": {
+		"english": "ace",
+		"article": "das",
+		"plural": "asse"
+	},
+	"klavier": {
+		"english": "piano",
+		"article": "das",
+		"plural": "klaviere"
+	},
+	"darm": {
+		"english": "gut",
+		"article": "der",
+		"plural": null
+	},
+	"talent": {
+		"english": "talent",
+		"article": "das",
+		"plural": "talente"
+	},
+	"fantasie": {
+		"english": "imagination",
+		"article": "die",
+		"plural": null
+	},
+	"schwarz": {
+		"english": "black",
+		"article": "das",
+		"plural": null
+	},
+	"rohrkolben": {
+		"english": "reed",
+		"article": "der",
+		"plural": "rohrkolben"
+	},
+	"deckel": {
+		"english": "lid",
+		"article": "der",
+		"plural": "deckel"
+	},
+	"hinweis": {
+		"english": "hint",
+		"article": "der",
+		"plural": "hinweise"
+	},
+	"spaziergänger": {
+		"english": "walker",
+		"article": "der",
+		"plural": "spaziergänger"
+	},
+	"schaudern": {
+		"english": "chill",
+		"article": "das",
+		"plural": null
+	},
+	"interview": {
+		"english": "interview",
+		"article": "das",
+		"plural": "interviews"
+	},
+	"ansatz": {
+		"english": "approach",
+		"article": "der",
+		"plural": "ansätze"
+	},
+	"narbe": {
+		"english": "scar",
+		"article": "die",
+		"plural": "narben"
+	},
+	"mode": {
+		"english": "fashion",
+		"article": "die",
+		"plural": null
+	},
+	"kanal": {
+		"english": "channel",
+		"article": "der",
+		"plural": "kanäle"
+	},
+	"fußabdruck": {
+		"english": "footstep",
+		"article": "der",
+		"plural": "fußabdrücke"
+	},
+	"pick-up": {
+		"english": "pickup",
+		"article": "der",
+		"plural": "pick-ups"
+	},
+	"habicht": {
+		"english": "hawk",
+		"article": "der",
+		"plural": "habichte"
+	},
+	"anhänger": {
+		"english": "trailer",
+		"article": "der",
+		"plural": "anhänger"
+	},
+	"statue": {
+		"english": "statue",
+		"article": "die",
+		"plural": "statuen"
+	},
+	"pille": {
+		"english": "pill",
+		"article": "die",
+		"plural": "pillen"
+	},
+	"käfer": {
+		"english": "bug",
+		"article": "der",
+		"plural": "käfer"
+	},
+	"eimer": {
+		"english": "bucket",
+		"article": "der",
+		"plural": "eimer"
+	},
+	"urlaub": {
+		"english": "vacation",
+		"article": "der",
+		"plural": "urlaube"
+	},
+	"säule": {
+		"english": "column",
+		"article": "die",
+		"plural": "säulen"
+	},
+	"schaden": {
+		"english": "damage",
+		"article": "der",
+		"plural": null
+	},
+	"instrument": {
+		"english": "instrument",
+		"article": "das",
+		"plural": "instrumente"
+	},
+	"schicht": {
+		"english": "layer",
+		"article": "die",
+		"plural": "schichten"
+	},
+	"streifen": {
+		"english": "strip",
+		"article": "der",
+		"plural": "streifen"
+	},
+	"müll": {
+		"english": "garbage",
+		"article": "der",
+		"plural": null
+	},
+	"rippe": {
+		"english": "rib",
+		"article": "die",
+		"plural": "rippen"
+	},
+	"notizbuch": {
+		"english": "notebook",
+		"article": "das",
+		"plural": "notizbücher"
+	},
+	"mais": {
+		"english": "corn",
+		"article": "der",
+		"plural": null
+	},
+	"angebot": {
+		"english": "offer",
+		"article": "das",
+		"plural": "angebote"
+	},
+	"zeichnung": {
+		"english": "drawing",
+		"article": "die",
+		"plural": "zeichnungen"
+	},
+	"aussage": {
+		"english": "statement",
+		"article": "die",
+		"plural": "aussagen"
+	},
+	"intelligenz": {
+		"english": "intelligence",
+		"article": "die",
+		"plural": null
+	},
+	"entschuldigung": {
+		"english": "excuse",
+		"article": "die",
+		"plural": "entschuldigungen"
+	},
+	"landung": {
+		"english": "landing",
+		"article": "die",
+		"plural": "landungen"
+	},
+	"urheberrecht": {
+		"english": "copyright",
+		"article": "das",
+		"plural": null
+	},
+	"stange": {
+		"english": "rod",
+		"article": "die",
+		"plural": "stangen"
+	},
+	"neugierde": {
+		"english": "curiosity",
+		"article": "die",
+		"plural": null
+	},
+	"gewand": {
+		"english": "gown",
+		"article": "das",
+		"plural": "gewänder"
+	},
+	"grenze": {
+		"english": "border",
+		"article": "die",
+		"plural": "grenzen"
+	},
+	"poesie": {
+		"english": "poetry",
+		"article": "die",
+		"plural": null
+	},
+	"firma": {
+		"english": "firm",
+		"article": "die",
+		"plural": "firmen"
+	},
+	"anstieg": {
+		"english": "rise",
+		"article": "der",
+		"plural": "anstiege"
+	},
+	"handvoll": {
+		"english": "handful",
+		"article": "die",
+		"plural": "handvoll"
+	},
+	"porzellan": {
+		"english": "china",
+		"article": "das",
+		"plural": null
+	},
+	"franzose": {
+		"english": "french",
+		"article": "der",
+		"plural": "franzosen"
+	},
+	"durchschnitt": {
+		"english": "mean",
+		"article": "der",
+		"plural": "durchschnitte"
+	},
+	"reh": {
+		"english": "deer",
+		"article": "das",
+		"plural": "rehe"
+	},
+	"schiene": {
+		"english": "rail",
+		"article": "die",
+		"plural": "schienen"
+	},
+	"tarif": {
+		"english": "rate",
+		"article": "der",
+		"plural": "tarife"
+	},
+	"mut": {
+		"english": "courage",
+		"article": "der",
+		"plural": null
+	},
+	"ankunft": {
+		"english": "arrival",
+		"article": "die",
+		"plural": "ankünfte"
+	},
+	"wunsch": {
+		"english": "wish",
+		"article": "der",
+		"plural": "wünsche"
+	},
+	"bergrücken": {
+		"english": "ridge",
+		"article": "der",
+		"plural": "bergrücken"
+	},
+	"idiot": {
+		"english": "idiot",
+		"article": "der",
+		"plural": "idioten"
+	},
+	"stier": {
+		"english": "bull",
+		"article": "der",
+		"plural": "stiere"
+	},
+	"samen": {
+		"english": "seed",
+		"article": "der",
+		"plural": "samen"
+	},
+	"fortschritt": {
+		"english": "progress",
+		"article": "der",
+		"plural": null
+	},
+	"kurze": {
+		"english": "shorts",
+		"article": "die",
+		"plural": "die"
+	},
+	"bürger": {
+		"english": "citizen",
+		"article": "der",
+		"plural": "bürger"
+	},
+	"baumstamm": {
+		"english": "log",
+		"article": "der",
+		"plural": "baumstämme"
+	},
+	"geduld": {
+		"english": "patience",
+		"article": "die",
+		"plural": null
+	},
+	"fledermaus": {
+		"english": "bat",
+		"article": "die",
+		"plural": "fledermäuse"
+	},
+	"fußball": {
+		"english": "football",
+		"article": "der",
+		"plural": "fußbälle"
+	},
+	"routine": {
+		"english": "routine",
+		"article": "die",
+		"plural": "routinen"
+	},
+	"explosion": {
+		"english": "explosion",
+		"article": "die",
+		"plural": "explosionen"
+	},
+	"inhalt": {
+		"english": "content",
+		"article": "der",
+		"plural": "inhalte"
+	},
+	"wissenschaftler": {
+		"english": "scientist",
+		"article": "der",
+		"plural": "wissenschaftler"
+	},
+	"versagen": {
+		"english": "failure",
+		"article": "das",
+		"plural": "versagen"
+	},
+	"sünde": {
+		"english": "sin",
+		"article": "die",
+		"plural": "sünden"
+	},
+	"verwirrung": {
+		"english": "confusion",
+		"article": "die",
+		"plural": null
+	},
+	"verständnis": {
+		"english": "understanding",
+		"article": "das",
+		"plural": null
+	},
+	"handel": {
+		"english": "trade",
+		"article": "der",
+		"plural": "handel"
+	},
+	"kühlschrank": {
+		"english": "refrigerator",
+		"article": "der",
+		"plural": "kühlschränke"
+	},
+	"taschenlampe": {
+		"english": "flashlight",
+		"article": "die",
+		"plural": "taschenlampen"
+	},
+	"netz": {
+		"english": "net",
+		"article": "das",
+		"plural": "netze"
+	},
+	"matrose": {
+		"english": "sailor",
+		"article": "der",
+		"plural": "matrosen"
+	},
+	"einstellung": {
+		"english": "attitude",
+		"article": "die",
+		"plural": "einstellungen"
+	},
+	"schuld": {
+		"english": "guilt",
+		"article": "die",
+		"plural": null
+	},
+	"schluck": {
+		"english": "sip",
+		"article": "der",
+		"plural": "schlucke"
+	},
+	"reisen": {
+		"english": "travel",
+		"article": "das",
+		"plural": "reisen"
+	},
+	"keks": {
+		"english": "cookie",
+		"article": "der",
+		"plural": "kekse"
+	},
+	"flucht": {
+		"english": "escape",
+		"article": "die",
+		"plural": "fluchten"
+	},
+	"anweisung": {
+		"english": "instruction",
+		"article": "die",
+		"plural": "anweisungen"
+	},
+	"marmor": {
+		"english": "marble",
+		"article": "der",
+		"plural": "marmore"
+	},
+	"dämmerung": {
+		"english": "dusk",
+		"article": "die",
+		"plural": null
+	},
+	"hütte": {
+		"english": "cottage",
+		"article": "die",
+		"plural": "hütten"
+	},
+	"affe": {
+		"english": "monkey",
+		"article": "der",
+		"plural": "affen"
+	},
+	"make-up": {
+		"english": "makeup",
+		"article": "das",
+		"plural": null
+	},
+	"bluse": {
+		"english": "blouse",
+		"article": "die",
+		"plural": "blusen"
+	},
+	"rhythmus": {
+		"english": "rhythm",
+		"article": "der",
+		"plural": "rhythmen"
+	},
+	"dampf": {
+		"english": "steam",
+		"article": "der",
+		"plural": null
+	},
+	"phrase": {
+		"english": "phrase",
+		"article": "die",
+		"plural": "phrasen"
+	},
+	"bleistift": {
+		"english": "pencil",
+		"article": "der",
+		"plural": "bleistifte"
+	},
+	"koch": {
+		"english": "cook",
+		"article": "der",
+		"plural": "köche"
+	},
+	"flagge": {
+		"english": "flag",
+		"article": "die",
+		"plural": "flaggen"
+	},
+	"trainer": {
+		"english": "coach",
+		"article": "der",
+		"plural": "trainer"
+	},
+	"schwung": {
+		"english": "swing",
+		"article": "der",
+		"plural": "schwünge"
+	},
+	"lautsprecher": {
+		"english": "speaker",
+		"article": "der",
+		"plural": "lautsprecher"
+	},
+	"bolzen": {
+		"english": "bolt",
+		"article": "der",
+		"plural": "bolzen"
+	},
+	"fett": {
+		"english": "fat",
+		"article": "das",
+		"plural": "fette"
+	},
+	"klopfen": {
+		"english": "knock",
+		"article": "das",
+		"plural": null
+	},
+	"zauber": {
+		"english": "spell",
+		"article": "der",
+		"plural": "zauber"
+	},
+	"runde": {
+		"english": "round",
+		"article": "die",
+		"plural": "runden"
+	},
+	"strohhalm": {
+		"english": "straw",
+		"article": "der",
+		"plural": "strohhalme"
+	},
+	"luke": {
+		"english": "hatch",
+		"article": "die",
+		"plural": "luken"
+	},
+	"gabel": {
+		"english": "fork",
+		"article": "die",
+		"plural": "gabeln"
+	},
+	"böse": {
+		"english": "evil",
+		"article": "das",
+		"plural": null
+	},
+	"dienstmädchen": {
+		"english": "maid",
+		"article": "die",
+		"plural": null
+	},
+	"verwandte": {
+		"english": "relative",
+		"article": "der",
+		"plural": "verwandten"
+	},
+	"hexe": {
+		"english": "witch",
+		"article": "die",
+		"plural": "hexen"
+	},
+	"innenhof": {
+		"english": "courtyard",
+		"article": "der",
+		"plural": "innenhöfe"
+	},
+	"sensation": {
+		"english": "sensation",
+		"article": "die",
+		"plural": "sensationen"
+	},
+	"blase": {
+		"english": "bubble",
+		"article": "die",
+		"plural": "blasen"
+	},
+	"leser": {
+		"english": "reader",
+		"article": "der",
+		"plural": "leser"
+	},
+	"locke": {
+		"english": "curl",
+		"article": "die",
+		"plural": "locken"
+	},
+	"düsenflugzeug": {
+		"english": "jet",
+		"article": "das",
+		"plural": "düsenflugzeuge"
+	},
+	"union": {
+		"english": "union",
+		"article": "die",
+		"plural": "unionen"
+	},
+	"teenager": {
+		"english": "teenager",
+		"article": "der",
+		"plural": "teenager"
+	},
+	"ebene": {
+		"english": "plain",
+		"article": "die",
+		"plural": "ebenen"
+	},
+	"kellnerin": {
+		"english": "waitress",
+		"article": "die",
+		"plural": "kellnerinnen"
+	},
+	"gerücht": {
+		"english": "rumor",
+		"article": "das",
+		"plural": "gerüchte"
+	},
+	"schwerkraft": {
+		"english": "gravity",
+		"article": "die",
+		"plural": null
+	},
+	"schutz": {
+		"english": "shelter",
+		"article": "das",
+		"plural": "schutz"
+	},
+	"abenteuer": {
+		"english": "adventure",
+		"article": "das",
+		"plural": "abenteuer"
+	},
+	"löwe": {
+		"english": "lion",
+		"article": "der",
+		"plural": "löwen"
+	},
+	"wirbelsäule": {
+		"english": "spine",
+		"article": "die",
+		"plural": "wirbelsäulen"
+	},
+	"vertrauen": {
+		"english": "confidence",
+		"article": "das",
+		"plural": "vertrauen"
+	},
+	"tiefe": {
+		"english": "depth",
+		"article": "die",
+		"plural": "tiefen"
+	},
+	"reichweite": {
+		"english": "reach",
+		"article": "die",
+		"plural": "reichweiten"
+	},
+	"hammer": {
+		"english": "hammer",
+		"article": "der",
+		"plural": "hämmer"
+	},
+	"bibel": {
+		"english": "bible",
+		"article": "die",
+		"plural": "bibeln"
+	},
+	"vertrag": {
+		"english": "contract",
+		"article": "der",
+		"plural": "verträge"
+	},
+	"brieftasche": {
+		"english": "wallet",
+		"article": "die",
+		"plural": "brieftaschen"
+	},
+	"dschungel": {
+		"english": "jungle",
+		"article": "der",
+		"plural": "dschungel"
+	},
+	"fabrik": {
+		"english": "factory",
+		"article": "die",
+		"plural": "fabriken"
+	},
+	"indianer": {
+		"english": "indian",
+		"article": "der",
+		"plural": "indianer"
+	},
+	"balkon": {
+		"english": "balcony",
+		"article": "der",
+		"plural": "balkone"
+	},
+	"reis": {
+		"english": "rice",
+		"article": "der",
+		"plural": null
+	},
+	"knoten": {
+		"english": "knot",
+		"article": "der",
+		"plural": "knoten"
+	},
+	"kollege": {
+		"english": "colleague",
+		"article": "der",
+		"plural": "kollegen"
+	},
+	"absicht": {
+		"english": "intention",
+		"article": "die",
+		"plural": "absichten"
+	},
+	"starren": {
+		"english": "stare",
+		"article": "der",
+		"plural": null
+	},
+	"motel": {
+		"english": "motel",
+		"article": "das",
+		"plural": "motels"
+	},
+	"liebling": {
+		"english": "darling",
+		"article": "der",
+		"plural": "lieblinge"
+	},
+	"diskussion": {
+		"english": "discussion",
+		"article": "die",
+		"plural": "diskussionen"
+	},
+	"atmosphäre": {
+		"english": "atmosphere",
+		"article": "die",
+		"plural": "atmosphären"
+	},
+	"aufführung": {
+		"english": "performance",
+		"article": "die",
+		"plural": "aufführungen"
+	},
+	"spannung": {
+		"english": "tension",
+		"article": "die",
+		"plural": "spannungen"
+	},
+	"text": {
+		"english": "text",
+		"article": "der",
+		"plural": "texte"
+	},
+	"mittag": {
+		"english": "noon",
+		"article": "der",
+		"plural": null
+	},
+	"ader": {
+		"english": "vein",
+		"article": "die",
+		"plural": "adern"
+	},
+	"experte": {
+		"english": "expert",
+		"article": "der",
+		"plural": "experten"
+	},
+	"bande": {
+		"english": "gang",
+		"article": "die",
+		"plural": "banden"
+	},
+	"krebs": {
+		"english": "cancer",
+		"article": "der",
+		"plural": null
+	},
+	"fuchs": {
+		"english": "fox",
+		"article": "der",
+		"plural": "füchse"
+	},
+	"scheidung": {
+		"english": "divorce",
+		"article": "die",
+		"plural": "scheidungen"
+	},
+	"puls": {
+		"english": "pulse",
+		"article": "der",
+		"plural": "pulse"
+	},
+	"abwesenheit": {
+		"english": "absence",
+		"article": "die",
+		"plural": null
+	},
+	"gewalt": {
+		"english": "violence",
+		"article": "die",
+		"plural": null
+	},
+	"humor": {
+		"english": "humor",
+		"article": "der",
+		"plural": null
+	},
+	"hocker": {
+		"english": "stool",
+		"article": "der",
+		"plural": "hocker"
+	},
+	"kies": {
+		"english": "gravel",
+		"article": "der",
+		"plural": null
+	},
+	"schatz": {
+		"english": "treasure",
+		"article": "der",
+		"plural": "schätze"
+	},
+	"butter": {
+		"english": "butter",
+		"article": "die",
+		"plural": null
+	},
+	"schalter": {
+		"english": "switch",
+		"article": "der",
+		"plural": "schalter"
+	},
+	"zigarre": {
+		"english": "cigar",
+		"article": "die",
+		"plural": "zigarren"
+	},
+	"leinwand": {
+		"english": "canvas",
+		"article": "die",
+		"plural": "leinwände"
+	},
+	"stecknadel": {
+		"english": "pin",
+		"article": "die",
+		"plural": "stecknadeln"
+	},
+	"schauspieler": {
+		"english": "actor",
+		"article": "der",
+		"plural": "schauspieler"
+	},
+	"ganze": {
+		"english": "whole",
+		"article": "das",
+		"plural": null
+	},
+	"anordnung": {
+		"english": "arrangement",
+		"article": "die",
+		"plural": "anordnungen"
+	},
+	"braun": {
+		"english": "brown",
+		"article": "das",
+		"plural": null
+	},
+	"gastgeber": {
+		"english": "host",
+		"article": "der",
+		"plural": "gastgeber"
+	},
+	"schal": {
+		"english": "scarf",
+		"article": "der",
+		"plural": "schals"
+	},
+	"skala": {
+		"english": "scale",
+		"article": "die",
+		"plural": "skalen"
+	},
+	"pfeil": {
+		"english": "arrow",
+		"article": "der",
+		"plural": "pfeile"
+	},
+	"temperatur": {
+		"english": "temperature",
+		"article": "die",
+		"plural": "temperaturen"
+	},
+	"technologie": {
+		"english": "technology",
+		"article": "die",
+		"plural": "technologien"
+	},
+	"erlaubnis": {
+		"english": "permission",
+		"article": "die",
+		"plural": "erlaubnisse"
+	},
+	"standort": {
+		"english": "location",
+		"article": "der",
+		"plural": "standorte"
+	},
+	"klaue": {
+		"english": "claw",
+		"article": "die",
+		"plural": "klauen"
+	},
+	"cowboy": {
+		"english": "cowboy",
+		"article": "der",
+		"plural": "cowboys"
+	},
+	"agentur": {
+		"english": "agency",
+		"article": "die",
+		"plural": "agenturen"
+	},
+	"bau": {
+		"english": "construction",
+		"article": "der",
+		"plural": null
+	},
+	"jagd": {
+		"english": "hunting",
+		"article": "die",
+		"plural": null
+	},
+	"gemüse": {
+		"english": "vegetable",
+		"article": "das",
+		"plural": "gemüse"
+	},
+	"konservendose": {
+		"english": "tin",
+		"article": "die",
+		"plural": "konservendosen"
+	},
+	"hubschrauber": {
+		"english": "helicopter",
+		"article": "der",
+		"plural": "hubschrauber"
+	},
+	"falle": {
+		"english": "trap",
+		"article": "die",
+		"plural": "fallen"
+	},
+	"lücke": {
+		"english": "gap",
+		"article": "die",
+		"plural": "lücken"
+	},
+	"haustier": {
+		"english": "pet",
+		"article": "das",
+		"plural": "haustiere"
+	},
+	"bildung": {
+		"english": "education",
+		"article": "das",
+		"plural": null
+	},
+	"einkauf": {
+		"english": "shopping",
+		"article": "die",
+		"plural": "einkäufe"
+	},
+	"schuppen": {
+		"english": "shed",
+		"article": "der",
+		"plural": "schuppen"
+	},
+	"vereinbarung": {
+		"english": "agreement",
+		"article": "die",
+		"plural": "vereinbarungen"
+	},
+	"herzog": {
+		"english": "duke",
+		"article": "der",
+		"plural": "herzog"
+	},
+	"schrotflinte": {
+		"english": "shotgun",
+		"article": "das",
+		"plural": "schrotflinten"
+	},
+	"heck": {
+		"english": "rear",
+		"article": "das",
+		"plural": null
+	},
+	"zeremonie": {
+		"english": "ceremony",
+		"article": "die",
+		"plural": "zeremonien"
+	},
+	"löffel": {
+		"english": "spoon",
+		"article": "der",
+		"plural": "löffel"
+	},
+	"badewanne": {
+		"english": "tub",
+		"article": "die",
+		"plural": "badewannen"
+	},
+	"iris": {
+		"english": "iris",
+		"article": "die",
+		"plural": "irisse"
+	},
+	"vorfall": {
+		"english": "incident",
+		"article": "der",
+		"plural": "vorfälle"
+	},
+	"zusammenstoß": {
+		"english": "crash",
+		"article": "der",
+		"plural": "zusammenstöße"
+	},
+	"journal": {
+		"english": "journal",
+		"article": "das",
+		"plural": "journale"
+	},
+	"zugriff": {
+		"english": "access",
+		"article": "der",
+		"plural": null
+	},
+	"messing": {
+		"english": "brass",
+		"article": "das",
+		"plural": null
+	},
+	"mama": {
+		"english": "mommy",
+		"article": "die",
+		"plural": "mamas"
+	},
+	"sidebar": {
+		"english": "sidebar",
+		"article": "die",
+		"plural": "sidebars"
+	},
+	"schaf": {
+		"english": "sheep",
+		"article": "das",
+		"plural": "schafe"
+	},
+	"ingenieur": {
+		"english": "engineer",
+		"article": "der",
+		"plural": "ingenieure"
+	},
+	"rumpf": {
+		"english": "hull",
+		"article": "der",
+		"plural": "rümpfe"
+	},
+	"termin": {
+		"english": "appointment",
+		"article": "die",
+		"plural": "termine"
+	},
+	"einladung": {
+		"english": "invitation",
+		"article": "die",
+		"plural": "einladungen"
+	},
+	"lumpen": {
+		"english": "rag",
+		"article": "das",
+		"plural": "lumpen"
+	},
+	"gute": {
+		"english": "good",
+		"article": "das",
+		"plural": null
+	},
+	"typ": {
+		"english": "dude",
+		"article": "der",
+		"plural": "typen"
+	},
+	"behandlung": {
+		"english": "treatment",
+		"article": "die",
+		"plural": "behandlungen"
+	},
+	"weisheit": {
+		"english": "wisdom",
+		"article": "die",
+		"plural": null
+	},
+	"element": {
+		"english": "element",
+		"article": "das",
+		"plural": "elemente"
+	},
+	"riese": {
+		"english": "giant",
+		"article": "der",
+		"plural": "riesen"
+	},
+	"serviette": {
+		"english": "napkin",
+		"article": "die",
+		"plural": "servietten"
+	},
+	"wäsche": {
+		"english": "laundry",
+		"article": "die",
+		"plural": null
+	},
+	"option": {
+		"english": "option",
+		"article": "die",
+		"plural": "optionen"
+	},
+	"anfrage": {
+		"english": "request",
+		"article": "die",
+		"plural": "anfragen"
+	},
+	"opa": {
+		"english": "grandpa",
+		"article": "der",
+		"plural": "opas"
+	},
+	"ranch": {
+		"english": "ranch",
+		"article": "die",
+		"plural": "ranches"
+	},
+	"skript": {
+		"english": "script",
+		"article": "das",
+		"plural": "skripte"
+	},
+	"einkaufszentrum": {
+		"english": "mall",
+		"article": "das",
+		"plural": "einkaufszentren"
+	},
+	"furt": {
+		"english": "ford",
+		"article": "die",
+		"plural": "furten"
+	},
+	"witwe": {
+		"english": "widow",
+		"article": "die",
+		"plural": "witwen"
+	},
+	"krähe": {
+		"english": "crow",
+		"article": "die",
+		"plural": "krähen"
+	},
+	"faden": {
+		"english": "thread",
+		"article": "der",
+		"plural": "fäden"
+	},
+	"selbstmord": {
+		"english": "suicide",
+		"article": "der",
+		"plural": "selbstmorde"
+	},
+	"sonnenuntergang": {
+		"english": "sunset",
+		"article": "der",
+		"plural": "sonnenuntergänge"
+	},
+	"galerie": {
+		"english": "gallery",
+		"article": "die",
+		"plural": "galerien"
+	},
+	"gefäß": {
+		"english": "vessel",
+		"article": "das",
+		"plural": "gefäße"
+	},
+	"donner": {
+		"english": "thunder",
+		"article": "der",
+		"plural": null
+	},
+	"seife": {
+		"english": "soap",
+		"article": "die",
+		"plural": "seifen"
+	},
+	"whisky": {
+		"english": "whiskey",
+		"article": "der",
+		"plural": null
+	},
+	"bürgermeister": {
+		"english": "mayor",
+		"article": "der",
+		"plural": "bürgermeister"
+	},
+	"schlaganfall": {
+		"english": "stroke",
+		"article": "der",
+		"plural": "schlaganfälle"
+	},
+	"klick": {
+		"english": "click",
+		"article": "der",
+		"plural": "klicks"
+	},
+	"ruf": {
+		"english": "reputation",
+		"article": "der",
+		"plural": "rufe"
+	},
+	"müller": {
+		"english": "miller",
+		"article": "der",
+		"plural": "müller"
+	},
+	"zeitplan": {
+		"english": "schedule",
+		"article": "der",
+		"plural": "zeitpläne"
+	},
+	"friedhof": {
+		"english": "cemetery",
+		"article": "der",
+		"plural": "friedhöfe"
+	},
+	"instinkt": {
+		"english": "instinct",
+		"article": "der",
+		"plural": "instinkte"
+	},
+	"mitarbeiter": {
+		"english": "employee",
+		"article": "der",
+		"plural": "mitarbeiter"
+	},
+	"nest": {
+		"english": "nest",
+		"article": "das",
+		"plural": "nester"
+	},
+	"deutsche": {
+		"english": "german",
+		"article": "der",
+		"plural": "deutschen"
+	},
+	"mönch": {
+		"english": "monk",
+		"article": "der",
+		"plural": "mönche"
+	},
+	"wurm": {
+		"english": "worm",
+		"article": "der",
+		"plural": "würmer"
+	},
+	"dokument": {
+		"english": "document",
+		"article": "das",
+		"plural": "dokumente"
+	},
+	"tänzer": {
+		"english": "dancer",
+		"article": "der",
+		"plural": "tänzer"
+	},
+	"versicherung": {
+		"english": "insurance",
+		"article": "die",
+		"plural": "versicherungen"
+	},
+	"matratze": {
+		"english": "mattress",
+		"article": "die",
+		"plural": "matratzen"
+	},
+	"klinik": {
+		"english": "clinic",
+		"article": "die",
+		"plural": "kliniken"
+	},
+	"anzeige": {
+		"english": "ad",
+		"article": "die",
+		"plural": "anzeigen"
+	},
+	"becher": {
+		"english": "mug",
+		"article": "der",
+		"plural": "becher"
+	},
+	"set": {
+		"english": "kit",
+		"article": "das",
+		"plural": "sets"
+	},
+	"kommunikation": {
+		"english": "communication",
+		"article": "die",
+		"plural": "kommunikationen"
+	},
+	"katastrophe": {
+		"english": "disaster",
+		"article": "die",
+		"plural": "katastrophen"
+	},
+	"fliese": {
+		"english": "tile",
+		"article": "die",
+		"plural": "fliesen"
+	},
+	"empfänger": {
+		"english": "receiver",
+		"article": "der",
+		"plural": "empfänger"
+	},
+	"gebrüll": {
+		"english": "roar",
+		"article": "das",
+		"plural": null
+	},
+	"truppe": {
+		"english": "troop",
+		"article": "die",
+		"plural": "truppen"
+	},
+	"sarg": {
+		"english": "coffin",
+		"article": "der",
+		"plural": "särge"
+	},
+	"freundschaft": {
+		"english": "friendship",
+		"article": "die",
+		"plural": "freundschaften"
+	},
+	"untersuchung": {
+		"english": "investigation",
+		"article": "die",
+		"plural": "untersuchungen"
+	},
+	"verkauf": {
+		"english": "sale",
+		"article": "der",
+		"plural": "verkäufe"
+	},
+	"krankenwagen": {
+		"english": "ambulance",
+		"article": "der",
+		"plural": "krankenwagen"
+	},
+	"mondschein": {
+		"english": "moonlight",
+		"article": "das",
+		"plural": null
+	},
+	"station": {
+		"english": "ward",
+		"article": "die",
+		"plural": "stationen"
+	},
+	"wolle": {
+		"english": "wool",
+		"article": "die",
+		"plural": null
+	},
+	"regenmantel": {
+		"english": "mac",
+		"article": "der",
+		"plural": "regenmäntel"
+	},
+	"minister": {
+		"english": "minister",
+		"article": "der",
+		"plural": "minister"
+	},
+	"eintrag": {
+		"english": "entry",
+		"article": "der",
+		"plural": "einträge"
+	},
+	"dieb": {
+		"english": "thief",
+		"article": "der",
+		"plural": "diebe"
+	},
+	"aktenkoffer": {
+		"english": "briefcase",
+		"article": "der",
+		"plural": "aktentaschen"
+	},
+	"mitleid": {
+		"english": "pity",
+		"article": "das",
+		"plural": null
+	},
+	"fingerspitze": {
+		"english": "fingertip",
+		"article": "die",
+		"plural": "fingerspitzen"
+	},
+	"marine": {
+		"english": "navy",
+		"article": "die",
+		"plural": "marinen"
+	},
+	"insekt": {
+		"english": "insect",
+		"article": "das",
+		"plural": "insekten"
+	},
+	"samt": {
+		"english": "velvet",
+		"article": "der",
+		"plural": null
+	},
+	"biene": {
+		"english": "bee",
+		"article": "die",
+		"plural": "bienen"
+	},
+	"gen": {
+		"english": "gene",
+		"article": "das",
+		"plural": "gene"
+	},
+	"salat": {
+		"english": "salad",
+		"article": "der",
+		"plural": "salate"
+	},
+	"windschutzscheibe": {
+		"english": "windshield",
+		"article": "die",
+		"plural": "windschutzscheiben"
+	},
+	"outfit": {
+		"english": "outfit",
+		"article": "das",
+		"plural": "outfits"
+	},
+	"shuttle": {
+		"english": "shuttle",
+		"article": "das",
+		"plural": "shuttle"
+	},
+	"herausforderung": {
+		"english": "challenge",
+		"article": "die",
+		"plural": "herausforderungen"
+	},
+	"zufriedenheit": {
+		"english": "satisfaction",
+		"article": "die",
+		"plural": null
+	},
+	"produkt": {
+		"english": "product",
+		"article": "das",
+		"plural": "produkte"
+	},
+	"unkraut": {
+		"english": "weed",
+		"article": "das",
+		"plural": null
+	},
+	"stretch": {
+		"english": "stretch",
+		"article": "der",
+		"plural": null
+	},
+	"fitnessstudio": {
+		"english": "gym",
+		"article": "das",
+		"plural": "fitnessstudios"
+	},
+	"hauptstadt": {
+		"english": "capital",
+		"article": "die",
+		"plural": "hauptstädte"
+	},
+	"pfote": {
+		"english": "paw",
+		"article": "die",
+		"plural": "pfoten"
+	},
+	"fort": {
+		"english": "fort",
+		"article": "das",
+		"plural": "forts"
+	},
+	"kosten": {
+		"english": "cost",
+		"article": "die",
+		"plural": null
+	},
+	"poster": {
+		"english": "poster",
+		"article": "das",
+		"plural": "poster"
+	},
+	"vampir": {
+		"english": "vampire",
+		"article": "der",
+		"plural": "vampire"
+	},
+	"schaft": {
+		"english": "shaft",
+		"article": "der",
+		"plural": "schäfte"
+	},
+	"identität": {
+		"english": "identity",
+		"article": "die",
+		"plural": "identitäten"
+	},
+	"gehweg": {
+		"english": "pavement",
+		"article": "der",
+		"plural": "gehwege"
+	},
+	"arschloch": {
+		"english": "asshole",
+		"article": "das",
+		"plural": "arschlöcher"
+	},
+	"salon": {
+		"english": "parlor",
+		"article": "der",
+		"plural": "salons"
+	},
+	"beispiel": {
+		"english": "example",
+		"article": "das",
+		"plural": "beispiele"
+	},
+	"golf": {
+		"english": "golf",
+		"article": "der",
+		"plural": null
+	},
+	"mist": {
+		"english": "crap",
+		"article": "der",
+		"plural": null
+	},
+	"steppdecke": {
+		"english": "quilt",
+		"article": "die",
+		"plural": "steppdecken"
+	},
+	"steuer": {
+		"english": "tax",
+		"article": "die",
+		"plural": "steuern"
+	},
+	"falte": {
+		"english": "fold",
+		"article": "die",
+		"plural": "falten"
+	},
+	"porträt": {
+		"english": "portrait",
+		"article": "das",
+		"plural": "porträts"
+	},
+	"gewebe": {
+		"english": "tissue",
+		"article": "das",
+		"plural": "gewebe"
+	},
+	"kostüm": {
+		"english": "costume",
+		"article": "das",
+		"plural": "kostüme"
+	},
+	"maß": {
+		"english": "measure",
+		"article": "das",
+		"plural": "maße"
+	},
+	"kutsche": {
+		"english": "carriage",
+		"article": "die",
+		"plural": "kutschen"
+	},
+	"gitarre": {
+		"english": "guitar",
+		"article": "die",
+		"plural": "gitarren"
+	},
+	"ritter": {
+		"english": "knight",
+		"article": "der",
+		"plural": "ritter"
+	},
+	"rang": {
+		"english": "rank",
+		"article": "der",
+		"plural": "ränge"
+	},
+	"major": {
+		"english": "major",
+		"article": "der",
+		"plural": "majore"
+	},
+	"brunnen": {
+		"english": "fountain",
+		"article": "der",
+		"plural": "brunnen"
+	},
+	"stall": {
+		"english": "stall",
+		"article": "der",
+		"plural": "ställe"
+	},
+	"ladung": {
+		"english": "load",
+		"article": "die",
+		"plural": "ladungen"
+	},
+	"funke": {
+		"english": "spark",
+		"article": "der",
+		"plural": "funken"
+	},
+	"abfall": {
+		"english": "waste",
+		"article": "der",
+		"plural": null
+	},
+	"champagner": {
+		"english": "champagne",
+		"article": "der",
+		"plural": null
+	},
+	"urteil": {
+		"english": "judgment",
+		"article": "das",
+		"plural": "urteile"
+	},
+	"mitgefühl": {
+		"english": "sympathy",
+		"article": "das",
+		"plural": null
+	},
+	"veilchen": {
+		"english": "violet",
+		"article": "das",
+		"plural": "veilchen"
+	},
+	"aufprall": {
+		"english": "impact",
+		"article": "der",
+		"plural": "aufprälle"
+	},
+	"enttäuschung": {
+		"english": "disappointment",
+		"article": "die",
+		"plural": "enttäuschungen"
+	},
+	"trinken": {
+		"english": "drinking",
+		"article": "das",
+		"plural": null
+	},
+	"bewusstsein": {
+		"english": "consciousness",
+		"article": "das",
+		"plural": null
+	},
+	"taschentuch": {
+		"english": "handkerchief",
+		"article": "das",
+		"plural": "taschentücher"
+	},
+	"tanzen": {
+		"english": "dancing",
+		"article": "das",
+		"plural": null
+	},
+	"parfüm": {
+		"english": "perfume",
+		"article": "das",
+		"plural": "parfüms"
+	},
+	"netzwerk": {
+		"english": "network",
+		"article": "das",
+		"plural": "netzwerke"
+	},
+	"forderung": {
+		"english": "claim",
+		"article": "die",
+		"plural": "forderungen"
+	},
+	"nonne": {
+		"english": "nun",
+		"article": "die",
+		"plural": "nonnen"
+	},
+	"krone": {
+		"english": "crown",
+		"article": "die",
+		"plural": "kronen"
+	},
+	"geländer": {
+		"english": "railing",
+		"article": "das",
+		"plural": "geländer"
+	},
+	"lizenz": {
+		"english": "license",
+		"article": "die",
+		"plural": "lizenzen"
+	},
+	"ballon": {
+		"english": "balloon",
+		"article": "der",
+		"plural": "ballons"
+	},
+	"chaos": {
+		"english": "chaos",
+		"article": "das",
+		"plural": null
+	},
+	"fieber": {
+		"english": "fever",
+		"article": "das",
+		"plural": null
+	},
+	"schließfach": {
+		"english": "locker",
+		"article": "der",
+		"plural": "schließfächer"
+	},
+	"sitzung": {
+		"english": "session",
+		"article": "die",
+		"plural": "sitzungen"
+	},
+	"ausbruch": {
+		"english": "burst",
+		"article": "der",
+		"plural": "ausbrüche"
+	},
+	"gipfel": {
+		"english": "peak",
+		"article": "der",
+		"plural": "gipfel"
+	},
+	"trommel": {
+		"english": "drum",
+		"article": "die",
+		"plural": "trommeln"
+	},
+	"fokus": {
+		"english": "focus",
+		"article": "der",
+		"plural": "foki"
+	},
+	"frosch": {
+		"english": "frog",
+		"article": "der",
+		"plural": "frösche"
+	},
+	"nutzen": {
+		"english": "benefit",
+		"article": "der",
+		"plural": "nutzen"
+	},
+	"bemerkung": {
+		"english": "remark",
+		"article": "die",
+		"plural": "bemerkungen"
+	},
+	"flut": {
+		"english": "tide",
+		"article": "die",
+		"plural": "fluten"
+	},
+	"verdacht": {
+		"english": "suspicion",
+		"article": "der",
+		"plural": "verdächte"
+	},
+	"jeep": {
+		"english": "jeep",
+		"article": "der",
+		"plural": "jeeps"
+	},
+	"literatur": {
+		"english": "literature",
+		"article": "die",
+		"plural": null
+	},
+	"bogenschütze": {
+		"english": "archer",
+		"article": "der",
+		"plural": "bogenschützen"
+	},
+	"haushalt": {
+		"english": "household",
+		"article": "der",
+		"plural": "haushalte"
+	},
+	"pulver": {
+		"english": "powder",
+		"article": "das",
+		"plural": "pulver"
+	},
+	"hirte": {
+		"english": "shepherd",
+		"article": "der",
+		"plural": "hirten"
+	},
+	"linse": {
+		"english": "lens",
+		"article": "die",
+		"plural": "linsen"
+	},
+	"favorit": {
+		"english": "favorite",
+		"article": "der",
+		"plural": "favoriten"
+	},
+	"villa": {
+		"english": "mansion",
+		"article": "die",
+		"plural": "villen"
+	},
+	"boom": {
+		"english": "boom",
+		"article": "der",
+		"plural": "booms"
+	},
+	"bewertung": {
+		"english": "review",
+		"article": "die",
+		"plural": "bewertungen"
+	},
+	"empfang": {
+		"english": "reception",
+		"article": "der",
+		"plural": "empfänge"
+	},
+	"schrott": {
+		"english": "scrap",
+		"article": "der",
+		"plural": null
+	},
+	"blenden": {
+		"english": "glare",
+		"article": "das",
+		"plural": null
+	},
+	"café": {
+		"english": "cafe",
+		"article": "das",
+		"plural": "cafés"
+	},
+	"status": {
+		"english": "status",
+		"article": "der",
+		"plural": "stati"
+	},
+	"hämmern": {
+		"english": "pounding",
+		"article": "das",
+		"plural": null
+	},
+	"rakete": {
+		"english": "rocket",
+		"article": "die",
+		"plural": "raketen"
+	},
+	"schlucht": {
+		"english": "canyon",
+		"article": "die",
+		"plural": "schluchten"
+	},
+	"spinne": {
+		"english": "spider",
+		"article": "die",
+		"plural": "spinnen"
+	},
+	"persönlichkeit": {
+		"english": "personality",
+		"article": "die",
+		"plural": "persönlichkeiten"
+	},
+	"campus": {
+		"english": "campus",
+		"article": "der",
+		"plural": "campi"
+	},
+	"fluch": {
+		"english": "curse",
+		"article": "der",
+		"plural": "flüche"
+	},
+	"treppenhaus": {
+		"english": "staircase",
+		"article": "das",
+		"plural": "treppenhäuser"
+	},
+	"drang": {
+		"english": "urge",
+		"article": "der",
+		"plural": "dränge"
+	},
+	"frustration": {
+		"english": "frustration",
+		"article": "die",
+		"plural": null
+	},
+	"pumpe": {
+		"english": "pump",
+		"article": "die",
+		"plural": "pumpen"
+	},
+	"leichtigkeit": {
+		"english": "ease",
+		"article": "die",
+		"plural": null
+	},
+	"lösung": {
+		"english": "solution",
+		"article": "die",
+		"plural": "lösungen"
+	},
+	"schmuck": {
+		"english": "jewelry",
+		"article": "der",
+		"plural": null
+	},
+	"sirene": {
+		"english": "siren",
+		"article": "die",
+		"plural": "sirenen"
+	},
+	"hit": {
+		"english": "hit",
+		"article": "der",
+		"plural": "hits"
+	},
+	"tradition": {
+		"english": "tradition",
+		"article": "die",
+		"plural": "traditionen"
+	},
+	"bordstein": {
+		"english": "curb",
+		"article": "der",
+		"plural": "bordsteine"
+	},
+	"vielfalt": {
+		"english": "variety",
+		"article": "die",
+		"plural": "vielfalten"
+	},
+	"pirat": {
+		"english": "pirate",
+		"article": "der",
+		"plural": "piraten"
+	},
+	"beschreibung": {
+		"english": "description",
+		"article": "die",
+		"plural": "beschreibungen"
+	},
+	"tonhöhe": {
+		"english": "pitch",
+		"article": "die",
+		"plural": "tonhöhen"
+	},
+	"pizza": {
+		"english": "pizza",
+		"article": "die",
+		"plural": "pizzen"
+	},
+	"elefant": {
+		"english": "elephant",
+		"article": "der",
+		"plural": "elefanten"
+	},
+	"politik": {
+		"english": "politics",
+		"article": "die",
+		"plural": null
+	},
+	"tennis": {
+		"english": "tennis",
+		"article": "das",
+		"plural": null
+	},
+	"hunger": {
+		"english": "hunger",
+		"article": "der",
+		"plural": null
+	},
+	"genie": {
+		"english": "genius",
+		"article": "das",
+		"plural": "genies"
+	},
+	"ziege": {
+		"english": "goat",
+		"article": "die",
+		"plural": "ziegen"
+	},
+	"sieg": {
+		"english": "victory",
+		"article": "der",
+		"plural": "siege"
+	},
+	"kombination": {
+		"english": "combination",
+		"article": "die",
+		"plural": "kombinationen"
+	},
+	"zugehörigkeit": {
+		"english": "affiliation",
+		"article": "die",
+		"plural": "zugehörigkeiten"
+	},
+	"kap": {
+		"english": "cape",
+		"article": "das",
+		"plural": "kaps"
+	},
+	"scheinwerfer": {
+		"english": "headlight",
+		"article": "der",
+		"plural": "scheinwerfer"
+	},
+	"gouverneur": {
+		"english": "governor",
+		"article": "der",
+		"plural": "gouverneure"
+	},
+	"sauerstoff": {
+		"english": "oxygen",
+		"article": "der",
+		"plural": null
+	},
+	"bischof": {
+		"english": "bishop",
+		"article": "der",
+		"plural": "bischöfe"
+	},
+	"bündel": {
+		"english": "bundle",
+		"article": "das",
+		"plural": "bündel"
+	},
+	"entwicklung": {
+		"english": "development",
+		"article": "die",
+		"plural": "entwicklungen"
+	},
+	"fingernagel": {
+		"english": "fingernail",
+		"article": "der",
+		"plural": "fingernägel"
+	},
+	"punktestand": {
+		"english": "score",
+		"article": "der",
+		"plural": "punktestände"
+	},
+	"kamerad": {
+		"english": "mate",
+		"article": "der",
+		"plural": "kameraden"
+	},
+	"reiter": {
+		"english": "rider",
+		"article": "der",
+		"plural": "reiter"
+	},
+	"umlaufbahn": {
+		"english": "orbit",
+		"article": "die",
+		"plural": "umlaufbahnen"
+	},
+	"rebe": {
+		"english": "vine",
+		"article": "die",
+		"plural": "reben"
+	},
+	"suite": {
+		"english": "suite",
+		"article": "die",
+		"plural": "suiten"
+	},
+	"barkeeper": {
+		"english": "bartender",
+		"article": "der",
+		"plural": "barkeeper"
+	},
+	"cola": {
+		"english": "coke",
+		"article": "die",
+		"plural": null
+	},
+	"melodie": {
+		"english": "tune",
+		"article": "die",
+		"plural": "melodien"
+	},
+	"ruhm": {
+		"english": "glory",
+		"article": "der",
+		"plural": null
+	},
+	"rabbi": {
+		"english": "rabbi",
+		"article": "der",
+		"plural": "form"
+	},
+	"rindvieh": {
+		"english": "cattle",
+		"article": "das",
+		"plural": null
+	},
+	"ritual": {
+		"english": "ritual",
+		"article": "das",
+		"plural": "rituale"
+	},
+	"gruß": {
+		"english": "greeting",
+		"article": "der",
+		"plural": "grüße"
+	},
+	"scheibe": {
+		"english": "slice",
+		"article": "die",
+		"plural": "scheiben"
+	},
+	"homer": {
+		"english": "homer",
+		"article": "der",
+		"plural": "homers"
+	},
+	"kamin": {
+		"english": "fireplace",
+		"article": "der",
+		"plural": "kamine"
+	},
+	"trikot": {
+		"english": "jersey",
+		"article": "das",
+		"plural": "trikots"
+	},
+	"medien": {
+		"english": "media",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"knall": {
+		"english": "pop",
+		"article": "der",
+		"plural": "knalle"
+	},
+	"herberge": {
+		"english": "inn",
+		"article": "die",
+		"plural": "herbergen"
+	},
+	"stellvertreter": {
+		"english": "deputy",
+		"article": "der",
+		"plural": "stellvertreter"
+	},
+	"verzweiflung": {
+		"english": "despair",
+		"article": "die",
+		"plural": null
+	},
+	"jazz": {
+		"english": "jazz",
+		"article": "der",
+		"plural": null
+	},
+	"umarmung": {
+		"english": "hug",
+		"article": "die",
+		"plural": "umarmungen"
+	},
+	"menschheit": {
+		"english": "humanity",
+		"article": "die",
+		"plural": null
+	},
+	"handwerk": {
+		"english": "craft",
+		"article": "das",
+		"plural": "handwerke"
+	},
+	"tageslicht": {
+		"english": "daylight",
+		"article": "das",
+		"plural": null
+	},
+	"einlage": {
+		"english": "slip",
+		"article": "die",
+		"plural": "einlagen"
+	},
+	"rüstung": {
+		"english": "armor",
+		"article": "die",
+		"plural": "rüstungen"
+	},
+	"rucksack": {
+		"english": "backpack",
+		"article": "der",
+		"plural": "rucksäcke"
+	},
+	"vorschlag": {
+		"english": "suggestion",
+		"article": "der",
+		"plural": "vorschläge"
+	},
+	"symbol": {
+		"english": "symbol",
+		"article": "das",
+		"plural": "symbole"
+	},
+	"kolonie": {
+		"english": "colony",
+		"article": "die",
+		"plural": "kolonien"
+	},
+	"schluss": {
+		"english": "conclusion",
+		"article": "der",
+		"plural": "schlüsse"
+	},
+	"nasenloch": {
+		"english": "nostril",
+		"article": "das",
+		"plural": "nasenlöcher"
+	},
+	"speer": {
+		"english": "spear",
+		"article": "der",
+		"plural": "speere"
+	},
+	"impuls": {
+		"english": "impulse",
+		"article": "der",
+		"plural": "impulse"
+	},
+	"tomate": {
+		"english": "tomato",
+		"article": "die",
+		"plural": "tomaten"
+	},
+	"kalb": {
+		"english": "calf",
+		"article": "das",
+		"plural": "kälber"
+	},
+	"entdeckung": {
+		"english": "discovery",
+		"article": "die",
+		"plural": "entdeckungen"
+	},
+	"klassenzimmer": {
+		"english": "classroom",
+		"article": "das",
+		"plural": "klassenzimmer"
+	},
+	"lieferung": {
+		"english": "delivery",
+		"article": "die",
+		"plural": "lieferungen"
+	},
+	"spray": {
+		"english": "spray",
+		"article": "das",
+		"plural": "sprays"
+	},
+	"flüssigkeit": {
+		"english": "liquid",
+		"article": "die",
+		"plural": "flüssigkeiten"
+	},
+	"treibstoff": {
+		"english": "fuel",
+		"article": "der",
+		"plural": null
+	},
+	"unterwäsche": {
+		"english": "underwear",
+		"article": "die",
+		"plural": "plural"
+	},
+	"kuppel": {
+		"english": "dome",
+		"article": "die",
+		"plural": "kuppeln"
+	},
+	"bevölkerung": {
+		"english": "population",
+		"article": "die",
+		"plural": null
+	},
+	"zuneigung": {
+		"english": "affection",
+		"article": "die",
+		"plural": null
+	},
+	"religion": {
+		"english": "religion",
+		"article": "die",
+		"plural": "religionen"
+	},
+	"sänger": {
+		"english": "singer",
+		"article": "der",
+		"plural": "sängerinnen"
+	},
+	"bedienstete": {
+		"english": "attendant",
+		"article": "der",
+		"plural": "bediensteten"
+	},
+	"illusion": {
+		"english": "illusion",
+		"article": "die",
+		"plural": "illusionen"
+	},
+	"link": {
+		"english": "link",
+		"article": "der",
+		"plural": "links"
+	},
+	"lounge": {
+		"english": "lounge",
+		"article": "die",
+		"plural": "lounges"
+	},
+	"achselzucken": {
+		"english": "shrug",
+		"article": "das",
+		"plural": null
+	},
+	"zone": {
+		"english": "zone",
+		"article": "die",
+		"plural": "zonen"
+	},
+	"standard": {
+		"english": "standard",
+		"article": "der",
+		"plural": "standards"
+	},
+	"kohle": {
+		"english": "coal",
+		"article": "die",
+		"plural": null
+	},
+	"kloß": {
+		"english": "lump",
+		"article": "der",
+		"plural": "klöße"
+	},
+	"charme": {
+		"english": "charm",
+		"article": "der",
+		"plural": "charmes"
+	},
+	"legende": {
+		"english": "legend",
+		"article": "die",
+		"plural": "legenden"
+	},
+	"konsequenz": {
+		"english": "consequence",
+		"article": "die",
+		"plural": "konsequenzen"
+	},
+	"beobachtung": {
+		"english": "observation",
+		"article": "die",
+		"plural": "beobachtungen"
+	},
+	"lohn": {
+		"english": "pay",
+		"article": "der",
+		"plural": "löhne"
+	},
+	"u-bahn": {
+		"english": "subway",
+		"article": "die",
+		"plural": "u-bahnen"
+	},
+	"kirsche": {
+		"english": "cherry",
+		"article": "die",
+		"plural": "kirschen"
+	},
+	"händler": {
+		"english": "dealer",
+		"article": "der",
+		"plural": "händler"
+	},
+	"eile": {
+		"english": "hurry",
+		"article": "die",
+		"plural": null
+	},
+	"geliebte": {
+		"english": "mistress",
+		"article": "die",
+		"plural": "geliebten"
+	},
+	"unsinn": {
+		"english": "nonsense",
+		"article": "der",
+		"plural": null
+	},
+	"ausschuss": {
+		"english": "committee",
+		"article": "der",
+		"plural": "ausschüsse"
+	},
+	"echo": {
+		"english": "echo",
+		"article": "das",
+		"plural": "echos"
+	},
+	"nachgiebigkeit": {
+		"english": "slack",
+		"article": "der",
+		"plural": null
+	},
+	"decker": {
+		"english": "decker",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"toast": {
+		"english": "toast",
+		"article": "der",
+		"plural": "toasts"
+	},
+	"einrichtung": {
+		"english": "facility",
+		"article": "die",
+		"plural": "einrichtungen"
+	},
+	"basketball": {
+		"english": "basketball",
+		"article": "der",
+		"plural": null
+	},
+	"schnurrbart": {
+		"english": "mustache",
+		"article": "der",
+		"plural": "schnurrbärte"
+	},
+	"senator": {
+		"english": "senator",
+		"article": "der",
+		"plural": "senatoren"
+	},
+	"aktie": {
+		"english": "share",
+		"article": "die",
+		"plural": "aktien"
+	},
+	"augenlid": {
+		"english": "eyelid",
+		"article": "das",
+		"plural": "augenlider"
+	},
+	"begeisterung": {
+		"english": "enthusiasm",
+		"article": "die",
+		"plural": null
+	},
+	"schildkröte": {
+		"english": "turtle",
+		"article": "die",
+		"plural": "schildkröten"
+	},
+	"alkohol": {
+		"english": "alcohol",
+		"article": "der",
+		"plural": null
+	},
+	"kaugummi": {
+		"english": "gum",
+		"article": "der",
+		"plural": "kaugummis"
+	},
+	"truthahn": {
+		"english": "turkey",
+		"article": "der",
+		"plural": "truthähne"
+	},
+	"prediger": {
+		"english": "preacher",
+		"article": "der",
+		"plural": "prediger"
+	},
+	"besitz": {
+		"english": "possession",
+		"article": "der",
+		"plural": null
+	},
+	"sackkarre": {
+		"english": "dolly",
+		"article": "die",
+		"plural": "sackkarren"
+	},
+	"leinen": {
+		"english": "linen",
+		"article": "das",
+		"plural": null
+	},
+	"vortrag": {
+		"english": "lecture",
+		"article": "der",
+		"plural": "vorträge"
+	},
+	"fels": {
+		"english": "boulder",
+		"article": "der",
+		"plural": "felsen"
+	},
+	"haufen": {
+		"english": "heap",
+		"article": "der",
+		"plural": "haufen"
+	},
+	"fotograf": {
+		"english": "photographer",
+		"article": "der",
+		"plural": "fotografen"
+	},
+	"bremse": {
+		"english": "brake",
+		"article": "die",
+		"plural": "bremsen"
+	},
+	"nachfrage": {
+		"english": "demand",
+		"article": "die",
+		"plural": "nachfragen"
+	},
+	"schürze": {
+		"english": "apron",
+		"article": "die",
+		"plural": "schürzen"
+	},
+	"jury": {
+		"english": "jury",
+		"article": "die",
+		"plural": "jurys"
+	},
+	"anhörung": {
+		"english": "hearing",
+		"article": "die",
+		"plural": "anhörungen"
+	},
+	"grau": {
+		"english": "gray",
+		"article": "das",
+		"plural": null
+	},
+	"kiste": {
+		"english": "crate",
+		"article": "die",
+		"plural": "kisten"
+	},
+	"methode": {
+		"english": "method",
+		"article": "die",
+		"plural": "methoden"
+	},
+	"referenz": {
+		"english": "reference",
+		"article": "die",
+		"plural": "referenzen"
+	},
+	"ekel": {
+		"english": "disgust",
+		"article": "der",
+		"plural": null
+	},
+	"schnaps": {
+		"english": "liquor",
+		"article": "der",
+		"plural": "schnäpse"
+	},
+	"lippenstift": {
+		"english": "lipstick",
+		"article": "der",
+		"plural": "lippenstifte"
+	},
+	"kern": {
+		"english": "core",
+		"article": "der",
+		"plural": "kerne"
+	},
+	"individuum": {
+		"english": "individual",
+		"article": "das",
+		"plural": "individuen"
+	},
+	"container": {
+		"english": "container",
+		"article": "der",
+		"plural": "container"
+	},
+	"hure": {
+		"english": "whore",
+		"article": "die",
+		"plural": "huren"
+	},
+	"kleinkind": {
+		"english": "infant",
+		"article": "das",
+		"plural": "kleinkinder"
+	},
+	"sonnenbrille": {
+		"english": "sunglasses",
+		"article": "die",
+		"plural": "sonnenbrillen"
+	},
+	"konzert": {
+		"english": "concert",
+		"article": "das",
+		"plural": "konzerte"
+	},
+	"eisenbahn": {
+		"english": "railroad",
+		"article": "die",
+		"plural": "eisenbahnen"
+	},
+	"parade": {
+		"english": "parade",
+		"article": "die",
+		"plural": "paraden"
+	},
+	"abteil": {
+		"english": "compartment",
+		"article": "das",
+		"plural": "abteile"
+	},
+	"bewohner": {
+		"english": "resident",
+		"article": "der",
+		"plural": "bewohner"
+	},
+	"ofen": {
+		"english": "oven",
+		"article": "der",
+		"plural": "öfen"
+	},
+	"techniker": {
+		"english": "technician",
+		"article": "der",
+		"plural": "techniker"
+	},
+	"verfahren": {
+		"english": "procedure",
+		"article": "das",
+		"plural": "verfahren"
+	},
+	"kämpfer": {
+		"english": "fighter",
+		"article": "der",
+		"plural": "kämpfer"
+	},
+	"korn": {
+		"english": "grain",
+		"article": "das",
+		"plural": "körner"
+	},
+	"picknick": {
+		"english": "picnic",
+		"article": "das",
+		"plural": "picknicks"
+	},
+	"knospe": {
+		"english": "bud",
+		"article": "die",
+		"plural": "knospen"
+	},
+	"wiese": {
+		"english": "meadow",
+		"article": "die",
+		"plural": "wiesen"
+	},
+	"öffentlichkeit": {
+		"english": "public",
+		"article": "die",
+		"plural": null
+	},
+	"gift": {
+		"english": "poison",
+		"article": "das",
+		"plural": "gifte"
+	},
+	"büffel": {
+		"english": "buffalo",
+		"article": "der",
+		"plural": "büffel"
+	},
+	"region": {
+		"english": "region",
+		"article": "die",
+		"plural": "regionen"
+	},
+	"produktion": {
+		"english": "production",
+		"article": "die",
+		"plural": "produktionen"
+	},
+	"laufen": {
+		"english": "running",
+		"article": "das",
+		"plural": null
+	},
+	"schleife": {
+		"english": "loop",
+		"article": "die",
+		"plural": "schleifen"
+	},
+	"schlafen": {
+		"english": "sleeping",
+		"article": "das",
+		"plural": null
+	},
+	"limonade": {
+		"english": "soda",
+		"article": "die",
+		"plural": "limonaden"
+	},
+	"eule": {
+		"english": "owl",
+		"article": "die",
+		"plural": "eulen"
+	},
+	"menü": {
+		"english": "menu",
+		"article": "das",
+		"plural": "menüs"
+	},
+	"tritt": {
+		"english": "kick",
+		"article": "der",
+		"plural": "tritte"
+	},
+	"ruin": {
+		"english": "ruin",
+		"article": "der",
+		"plural": "ruinen"
+	},
+	"rampe": {
+		"english": "ramp",
+		"article": "die",
+		"plural": "rampen"
+	},
+	"streif": {
+		"english": "streak",
+		"article": "die",
+		"plural": "streifen"
+	},
+	"unterarm": {
+		"english": "forearm",
+		"article": "der",
+		"plural": "unterarme"
+	},
+	"gelenk": {
+		"english": "knuckle",
+		"article": "das",
+		"plural": "gelenke"
+	},
+	"gans": {
+		"english": "goose",
+		"article": "die",
+		"plural": "gänse"
+	},
+	"fee": {
+		"english": "fairy",
+		"article": "die",
+		"plural": "feen"
+	},
+	"kommando": {
+		"english": "squad",
+		"article": "das",
+		"plural": "kommandos"
+	},
+	"marke": {
+		"english": "brand",
+		"article": "die",
+		"plural": "marken"
+	},
+	"organ": {
+		"english": "organ",
+		"article": "das",
+		"plural": "organe"
+	},
+	"schmetterling": {
+		"english": "butterfly",
+		"article": "der",
+		"plural": "schmetterlinge"
+	},
+	"imperium": {
+		"english": "empire",
+		"article": "das",
+		"plural": "reiche"
+	},
+	"profil": {
+		"english": "profile",
+		"article": "das",
+		"plural": "profile"
+	},
+	"unglaube": {
+		"english": "disbelief",
+		"article": "der",
+		"plural": null
+	},
+	"hain": {
+		"english": "grove",
+		"article": "der",
+		"plural": "haine"
+	},
+	"sattel": {
+		"english": "saddle",
+		"article": "der",
+		"plural": "sättel"
+	},
+	"chancen": {
+		"english": "odds",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"cluster": {
+		"english": "cluster",
+		"article": "der",
+		"plural": "cluster"
+	},
+	"satellit": {
+		"english": "satellite",
+		"article": "der",
+		"plural": "satelliten"
+	},
+	"auslöser": {
+		"english": "trigger",
+		"article": "der",
+		"plural": "auslöser"
+	},
+	"welpe": {
+		"english": "puppy",
+		"article": "der",
+		"plural": "welpen"
+	},
+	"warten": {
+		"english": "waiting",
+		"article": "das",
+		"plural": null
+	},
+	"glühbirne": {
+		"english": "bulb",
+		"article": "die",
+		"plural": "glühbirnen"
+	},
+	"kommode": {
+		"english": "dresser",
+		"article": "die",
+		"plural": "kommoden"
+	},
+	"patrouille": {
+		"english": "patrol",
+		"article": "die",
+		"plural": "patrouillen"
+	},
+	"adler": {
+		"english": "eagle",
+		"article": "der",
+		"plural": "adler"
+	},
+	"privatsphäre": {
+		"english": "privacy",
+		"article": "die",
+		"plural": "plural"
+	},
+	"herde": {
+		"english": "herd",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"kopfschmerzen": {
+		"english": "headache",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"unterhaltung": {
+		"english": "amusement",
+		"article": "die",
+		"plural": "unterhaltungen"
+	},
+	"rollstuhl": {
+		"english": "wheelchair",
+		"article": "der",
+		"plural": "rollstühle"
+	},
+	"tabak": {
+		"english": "tobacco",
+		"article": "der",
+		"plural": null
+	},
+	"tattoo": {
+		"english": "tattoo",
+		"article": "das",
+		"plural": "tattoos"
+	},
+	"belastung": {
+		"english": "burden",
+		"article": "die",
+		"plural": "belastungen"
+	},
+	"rutsche": {
+		"english": "slide",
+		"article": "die",
+		"plural": "rutschen"
+	},
+	"bindung": {
+		"english": "bond",
+		"article": "die",
+		"plural": "bindungen"
+	},
+	"schwimmen": {
+		"english": "swimming",
+		"article": "das",
+		"plural": null
+	},
+	"stiftung": {
+		"english": "foundation",
+		"article": "die",
+		"plural": "stiftungen"
+	},
+	"verletzung": {
+		"english": "injury",
+		"article": "die",
+		"plural": "verletzungen"
+	},
+	"liga": {
+		"english": "league",
+		"article": "die",
+		"plural": "ligen"
+	},
+	"batterie": {
+		"english": "battery",
+		"article": "die",
+		"plural": "batterien"
+	},
+	"regenschirm": {
+		"english": "umbrella",
+		"article": "der",
+		"plural": "regenschirme"
+	},
+	"kaiser": {
+		"english": "emperor",
+		"article": "der",
+		"plural": "kaiser"
+	},
+	"pier": {
+		"english": "pier",
+		"article": "der",
+		"plural": "piers"
+	},
+	"wasserhahn": {
+		"english": "tap",
+		"article": "der",
+		"plural": "wasserhähne"
+	},
+	"cutter": {
+		"english": "cutter",
+		"article": "der",
+		"plural": "cutter"
+	},
+	"dachboden": {
+		"english": "attic",
+		"article": "der",
+		"plural": "dachböden"
+	},
+	"tiger": {
+		"english": "tiger",
+		"article": "der",
+		"plural": "tiger"
+	},
+	"vorfahr": {
+		"english": "ancestor",
+		"article": "der",
+		"plural": "vorfahren"
+	},
+	"konzentration": {
+		"english": "concentration",
+		"article": "die",
+		"plural": null
+	},
+	"segen": {
+		"english": "blessing",
+		"article": "der",
+		"plural": "segen"
+	},
+	"vorsprung": {
+		"english": "ledge",
+		"article": "der",
+		"plural": "vorsprünge"
+	},
+	"fackel": {
+		"english": "torch",
+		"article": "die",
+		"plural": "fackeln"
+	},
+	"tinte": {
+		"english": "ink",
+		"article": "die",
+		"plural": null
+	},
+	"handlung": {
+		"english": "plot",
+		"article": "die",
+		"plural": "handlungen"
+	},
+	"miete": {
+		"english": "rent",
+		"article": "die",
+		"plural": "mieten"
+	},
+	"maultier": {
+		"english": "mule",
+		"article": "die",
+		"plural": "maultiere"
+	},
+	"umwelt": {
+		"english": "environment",
+		"article": "die",
+		"plural": "umwelten"
+	},
+	"stirnrunzeln": {
+		"english": "frown",
+		"article": "die",
+		"plural": "noun)"
+	},
+	"inspektor": {
+		"english": "inspector",
+		"article": "der",
+		"plural": "inspektoren"
+	},
+	"peinlichkeit": {
+		"english": "embarrassment",
+		"article": "die",
+		"plural": "peinlichkeiten"
+	},
+	"beschwerde": {
+		"english": "complaint",
+		"article": "die",
+		"plural": "beschwerden"
+	},
+	"portion": {
+		"english": "portion",
+		"article": "die",
+		"plural": "portionen"
+	},
+	"wegwerfen": {
+		"english": "chuck",
+		"article": "die",
+		"plural": null
+	},
+	"lichtung": {
+		"english": "clearing",
+		"article": "die",
+		"plural": "lichtungen"
+	},
+	"krise": {
+		"english": "crisis",
+		"article": "die",
+		"plural": "krisen"
+	},
+	"halskette": {
+		"english": "necklace",
+		"article": "die",
+		"plural": "halsketten"
+	},
+	"laterne": {
+		"english": "lantern",
+		"article": "die",
+		"plural": "laternen"
+	},
+	"reichtum": {
+		"english": "wealth",
+		"article": "der",
+		"plural": null
+	},
+	"zivilisation": {
+		"english": "civilization",
+		"article": "die",
+		"plural": "zivilisationen"
+	},
+	"konzept": {
+		"english": "concept",
+		"article": "das",
+		"plural": "konzepte"
+	},
+	"lamm": {
+		"english": "lamb",
+		"article": "das",
+		"plural": "lämmer"
+	},
+	"manschette": {
+		"english": "cuff",
+		"article": "das",
+		"plural": "manschetten"
+	},
+	"jungfrau": {
+		"english": "virgin",
+		"article": "die",
+		"plural": "jungfrauen"
+	},
+	"eichhörnchen": {
+		"english": "squirrel",
+		"article": "das",
+		"plural": "eichhörnchen"
+	},
+	"star": {
+		"english": "starling",
+		"article": "der",
+		"plural": "stare"
+	},
+	"depression": {
+		"english": "depression",
+		"article": "die",
+		"plural": "depressionen"
+	},
+	"lagerung": {
+		"english": "storage",
+		"article": "die",
+		"plural": "lagerungen"
+	},
+	"altar": {
+		"english": "altar",
+		"article": "der",
+		"plural": "altäre"
+	},
+	"tragödie": {
+		"english": "tragedy",
+		"article": "die",
+		"plural": "tragödien"
+	},
+	"ressource": {
+		"english": "resource",
+		"article": "die",
+		"plural": "ressourcen"
+	},
+	"reisende": {
+		"english": "traveler",
+		"article": "der",
+		"plural": "reisenden"
+	},
+	"königreich": {
+		"english": "kingdom",
+		"article": "das",
+		"plural": "königreiche"
+	},
+	"juwel": {
+		"english": "jewel",
+		"article": "das",
+		"plural": "juwelen"
+	},
+	"musiker": {
+		"english": "musician",
+		"article": "der",
+		"plural": "musiker"
+	},
+	"sonnenschein": {
+		"english": "sunshine",
+		"article": "der",
+		"plural": null
+	},
+	"elf": {
+		"english": "elf",
+		"article": "der",
+		"plural": "elfen"
+	},
+	"protest": {
+		"english": "protest",
+		"article": "der",
+		"plural": "proteste"
+	},
+	"geschäftsführer": {
+		"english": "executive",
+		"article": "der",
+		"plural": "geschäftsführer"
+	},
+	"tagebuch": {
+		"english": "diary",
+		"article": "das",
+		"plural": "tagebücher"
+	},
+	"aspekt": {
+		"english": "aspect",
+		"article": "der",
+		"plural": "aspekte"
+	},
+	"zifferblatt": {
+		"english": "dial",
+		"article": "das",
+		"plural": "zifferblätter"
+	},
+	"pantoffel": {
+		"english": "slipper",
+		"article": "der",
+		"plural": "pantoffel"
+	},
+	"schauspielerin": {
+		"english": "actress",
+		"article": "die",
+		"plural": "schauspielerinnen"
+	},
+	"schießen": {
+		"english": "shooting",
+		"article": "das",
+		"plural": null
+	},
+	"ohrring": {
+		"english": "earring",
+		"article": "der",
+		"plural": "ohrringe"
+	},
+	"ameise": {
+		"english": "ant",
+		"article": "die",
+		"plural": "ameisen"
+	},
+	"brötchen": {
+		"english": "patty",
+		"article": "das",
+		"plural": "brötchen"
+	},
+	"sauce": {
+		"english": "sauce",
+		"article": "die",
+		"plural": "saucen"
+	},
+	"intensität": {
+		"english": "intensity",
+		"article": "die",
+		"plural": null
+	},
+	"graben": {
+		"english": "ditch",
+		"article": "der",
+		"plural": "gräben"
+	},
+	"gänseblümchen": {
+		"english": "daisy",
+		"article": "das",
+		"plural": "gänseblümchen"
+	},
+	"kapelle": {
+		"english": "chapel",
+		"article": "die",
+		"plural": "kapellen"
+	},
+	"sumpf": {
+		"english": "swamp",
+		"article": "das",
+		"plural": "sümpfe"
+	},
+	"vermutung": {
+		"english": "guess",
+		"article": "die",
+		"plural": "vermutungen"
+	},
+	"kran": {
+		"english": "crane",
+		"article": "der",
+		"plural": "kräne"
+	},
+	"aufeinandertreffen": {
+		"english": "encounter",
+		"article": "das",
+		"plural": "aufeinandertreffen"
+	},
+	"abfolge": {
+		"english": "sequence",
+		"article": "die",
+		"plural": "abfolgen"
+	},
+	"fragment": {
+		"english": "fragment",
+		"article": "das",
+		"plural": "fragmente"
+	},
+	"ausarbeitung": {
+		"english": "draft",
+		"article": "die",
+		"plural": "ausarbeitungen"
+	},
+	"speiselokal": {
+		"english": "diner",
+		"article": "das",
+		"plural": "speiselokale"
+	},
+	"funktion": {
+		"english": "function",
+		"article": "die",
+		"plural": "funktionen"
+	},
+	"organisation": {
+		"english": "organization",
+		"article": "die",
+		"plural": "organisationen"
+	},
+	"skelett": {
+		"english": "skeleton",
+		"article": "das",
+		"plural": "skelette"
+	},
+	"elend": {
+		"english": "misery",
+		"article": "das",
+		"plural": null
+	},
+	"kraut": {
+		"english": "herb",
+		"article": "das",
+		"plural": "kräuter"
+	},
+	"stumpf": {
+		"english": "stump",
+		"article": "der",
+		"plural": "stümpfe"
+	},
+	"einsatz": {
+		"english": "stake",
+		"article": "der",
+		"plural": "einsätze"
+	},
+	"puff": {
+		"english": "puff",
+		"article": "das",
+		"plural": "puffs"
+	},
+	"schaffung": {
+		"english": "creation",
+		"article": "die",
+		"plural": "schaffungen"
+	},
+	"erwachen": {
+		"english": "wake",
+		"article": "das",
+		"plural": "erwachen"
+	},
+	"zauberer": {
+		"english": "wizard",
+		"article": "der",
+		"plural": "zauberer"
+	},
+	"matte": {
+		"english": "mat",
+		"article": "das",
+		"plural": "matten"
+	},
+	"dichtung": {
+		"english": "seal",
+		"article": "die",
+		"plural": "dichtungen"
+	},
+	"grunzen": {
+		"english": "grunt",
+		"article": "das",
+		"plural": "grunzen"
+	},
+	"bestrafung": {
+		"english": "punishment",
+		"article": "die",
+		"plural": "bestrafungen"
+	},
+	"clan": {
+		"english": "clan",
+		"article": "der",
+		"plural": "clans"
+	},
+	"kupfer": {
+		"english": "copper",
+		"article": "das",
+		"plural": null
+	},
+	"schutt": {
+		"english": "debris",
+		"article": "der",
+		"plural": "plural"
+	},
+	"maler": {
+		"english": "painter",
+		"article": "der",
+		"plural": "maler"
+	},
+	"lenkung": {
+		"english": "steering",
+		"article": "die",
+		"plural": "lenkungen"
+	},
+	"mathematik": {
+		"english": "math",
+		"article": "die",
+		"plural": null
+	},
+	"anerkennung": {
+		"english": "recognition",
+		"article": "die",
+		"plural": null
+	},
+	"gemüt": {
+		"english": "temper",
+		"article": "der",
+		"plural": null
+	},
+	"bedauern": {
+		"english": "regret",
+		"article": "das",
+		"plural": null
+	},
+	"mühle": {
+		"english": "mill",
+		"article": "die",
+		"plural": "mühlen"
+	},
+	"romanze": {
+		"english": "romance",
+		"article": "die",
+		"plural": "romanzen"
+	},
+	"thema": {
+		"english": "topic",
+		"article": "das",
+		"plural": "themen"
+	},
+	"terrasse": {
+		"english": "patio",
+		"article": "die",
+		"plural": "terrassen"
+	},
+	"schaufel": {
+		"english": "shovel",
+		"article": "die",
+		"plural": "schaufeln"
+	},
+	"schlafanzug": {
+		"english": "pajamas",
+		"article": "der",
+		"plural": "schlafanzüge"
+	},
+	"e-mail": {
+		"english": "email",
+		"article": "die",
+		"plural": "e-mails"
+	},
+	"taube": {
+		"english": "pigeon",
+		"article": "die",
+		"plural": "tauben"
+	},
+	"dinosaurier": {
+		"english": "dinosaur",
+		"article": "der",
+		"plural": "dinosaurier"
+	},
+	"industrie": {
+		"english": "industry",
+		"article": "die",
+		"plural": "industrien"
+	},
+	"operator": {
+		"english": "operator",
+		"article": "der",
+		"plural": "operatoren"
+	},
+	"berater": {
+		"english": "counselor",
+		"article": "der",
+		"plural": "berater"
+	},
+	"prinzip": {
+		"english": "principle",
+		"article": "das",
+		"plural": "prinzipien"
+	},
+	"drama": {
+		"english": "drama",
+		"article": "das",
+		"plural": "dramen"
+	},
+	"küken": {
+		"english": "chick",
+		"article": "das",
+		"plural": "küken"
+	},
+	"diagramm": {
+		"english": "chart",
+		"article": "das",
+		"plural": "diagramme"
+	},
+	"kampagne": {
+		"english": "campaign",
+		"article": "die",
+		"plural": "kampagnen"
+	},
+	"lorbeer": {
+		"english": "laurel",
+		"article": "der",
+		"plural": "lorbeeren"
+	},
+	"steak": {
+		"english": "steak",
+		"article": "das",
+		"plural": "steaks"
+	},
+	"verbrecher": {
+		"english": "criminal",
+		"article": "der",
+		"plural": "verbrecher"
+	},
+	"globus": {
+		"english": "globe",
+		"article": "der",
+		"plural": "globen"
+	},
+	"bluterguss": {
+		"english": "bruise",
+		"article": "der",
+		"plural": "blutergüsse"
+	},
+	"liebste": {
+		"english": "sweetheart",
+		"article": "die",
+		"plural": "liebsten"
+	},
+	"oper": {
+		"english": "opera",
+		"article": "die",
+		"plural": "opern"
+	},
+	"frost": {
+		"english": "frost",
+		"article": "der",
+		"plural": "plural"
+	},
+	"brustwarze": {
+		"english": "nipple",
+		"article": "die",
+		"plural": "brustwarzen"
+	},
+	"pfarrer": {
+		"english": "reverend",
+		"article": "der",
+		"plural": "pfarrer"
+	},
+	"dunst": {
+		"english": "haze",
+		"article": "der",
+		"plural": null
+	},
+	"überschwemmung": {
+		"english": "flood",
+		"article": "die",
+		"plural": "überschwemmungen"
+	},
+	"schwäche": {
+		"english": "weakness",
+		"article": "die",
+		"plural": "schwächen"
+	},
+	"kochen": {
+		"english": "cooking",
+		"article": "das",
+		"plural": null
+	},
+	"vase": {
+		"english": "vase",
+		"article": "die",
+		"plural": "vasen"
+	}
+}
