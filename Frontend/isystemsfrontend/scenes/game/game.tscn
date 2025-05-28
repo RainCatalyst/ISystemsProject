@@ -63,4 +63,5 @@ texture = ExtResource("10_10c2w")
 word = "stuhl"
 
 [node name="SerComm" type="SerComm" parent="."]
+port = 4
 script = ExtResource("12_5jirj")

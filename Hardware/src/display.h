@@ -11,7 +11,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire);
 void initDisplay() {
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C);
   display.clearDisplay();
-  display.setTextSize(1);
+  display.setTextSize(3);
   display.setTextColor(WHITE);
   display.setCursor(0, 0);
   display.println("Wait for setup.");

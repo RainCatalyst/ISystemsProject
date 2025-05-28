@@ -5,8 +5,10 @@
 String newWord;
 String articleStr;
 bool wordAvailable = false;
+int buzzer = D3;
 
 void setup() {
+  pinMode(buzzer,OUTPUT);
   Serial.begin(9600);
   initNFC();
   initDisplay();
@@ -33,6 +35,13 @@ void loop() {
       Article correctArticle = parseArticle(articleStr);
       bool correct = (cardArticle == correctArticle);
       Serial.println(correct ? "Correct" : "Wrong");
+      if (correct){
+        tone (buzzer, 1200,500);
+      } else {
+        tone(buzzer, 800,200);
+        delay(500);
+        tone(buzzer, 800, 200);
+      }
       showResult(correct, articleStr, newWord);
       wordAvailable = false;
       delay(500);
