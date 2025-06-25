@@ -1,0 +1,69 @@
+[gd_scene load_steps=13 format=3 uid="uid://cgxs6325tvucd"]
+
+[ext_resource type="Script" uid="uid://du2hivp4j0j27" path="res://scenes/game/game.gd" id="1_wl0y6"]
+[ext_resource type="Texture2D" uid="uid://ogk5nly36hhq" path="res://sprites/room_empty.png" id="2_xde57"]
+[ext_resource type="PackedScene" uid="uid://75dk0tf466cj" path="res://scenes/items/item.tscn" id="3_ytw61"]
+[ext_resource type="Texture2D" uid="uid://xcvsai3ttwrt" path="res://sprites/items/book.png" id="4_0rsq7"]
+[ext_resource type="Texture2D" uid="uid://c3w8ra2vgf05i" path="res://sprites/items/coffee.png" id="5_tct6g"]
+[ext_resource type="Texture2D" uid="uid://tojiu0v3kkeo" path="res://sprites/items/lamp.png" id="6_l2q3d"]
+[ext_resource type="Texture2D" uid="uid://cml0jxt1rfkof" path="res://sprites/items/painting.png" id="7_e08x1"]
+[ext_resource type="Texture2D" uid="uid://si1fw2486w3p" path="res://sprites/items/pot.png" id="8_ame41"]
+[ext_resource type="Texture2D" uid="uid://dri5ro2v1gxwn" path="res://sprites/items/sofa.png" id="9_e08x1"]
+[ext_resource type="Texture2D" uid="uid://cpyyw1f30c7as" path="res://sprites/items/chair.png" id="10_ame41"]
+[ext_resource type="Texture2D" uid="uid://buorirqupdeeb" path="res://sprites/items/candle.png" id="11_ame41"]
+[ext_resource type="PackedScene" uid="uid://e2u7jsiif66g" path="res://scenes/game/hint_lady.tscn" id="15_c4p1d"]
+
+[node name="LivingRoom" type="Node2D" node_paths=PackedStringArray("ui")]
+script = ExtResource("1_wl0y6")
+ui = NodePath("CanvasLayer/Control")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(639, 361)
+scale = Vector2(1.00342, 1.00342)
+texture = ExtResource("2_xde57")
+
+[node name="Items" type="Node" parent="."]
+
+[node name="Item" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(881, 506)
+texture = ExtResource("4_0rsq7")
+word = "buch"
+
+[node name="Item2" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(591, 460)
+texture = ExtResource("5_tct6g")
+word = "kaffee"
+
+[node name="Item3" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(789, 42)
+texture = ExtResource("6_l2q3d")
+word = "lampe"
+
+[node name="Item4" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(933, 114)
+texture = ExtResource("7_e08x1")
+word = "gemälde"
+
+[node name="Item5" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(488, 214)
+texture = ExtResource("8_ame41")
+word = "vase"
+
+[node name="Item6" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(152, 453)
+texture = ExtResource("9_e08x1")
+word = "sessel"
+
+[node name="Item7" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(260, 656)
+texture = ExtResource("10_ame41")
+word = "stuhl"
+
+[node name="Item8" parent="Items" instance=ExtResource("3_ytw61")]
+position = Vector2(190, 291)
+texture = ExtResource("11_ame41")
+word = "kerze"
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control" parent="CanvasLayer" instance=ExtResource("15_c4p1d")]

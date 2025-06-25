@@ -6969,6 +6969,11 @@
 		"article": "die",
 		"plural": "sitzungen"
 	},
+	"sessel": {
+		"english": "armchair",
+		"article": "der",
+		"plural": "sessel"
+	},
 	"ausbruch": {
 		"english": "burst",
 		"article": "der",

@@ -2,14 +2,12 @@ extends Node2D
 
 @export var ui: UI
 
-@onready var _serial = $SerComm
 @onready var _items = $Items.get_children()
 
 var _item: Item
 
 func _ready():
-	_serial.on_message.connect(_on_message)
-	await _serial.connected
+	Serial.on_message.connect(_on_message)
 	get_new_word()
 
 func get_new_word():
@@ -19,12 +17,15 @@ func get_new_word():
 		return
 	var last_item = _item
 	_item = _items[randi() % len(_items)]
-	_serial.write_serial("%s\n%s\n" % [_item.word, DataManager.word_to_article[_item.word]["article"]])
-	ui.show_text("Guess the article for [b]%s[/b]" % _item.word)
+	Serial.write_serial("%s\n%s\n" % [_item.word, DataManager.word_to_article[_item.word]["article"]])
+	ui.show_text("Guess the article for [b]%s[/b]" % _item.word.capitalize())
 	print('Got new word %s' % _item.word)
 	
 func win():
-	print('All done!')
+	ui.show_text("Gut gemacht! You finished all the words, now you can try another room.")
+	await get_tree().create_timer(2.0).timeout
+	get_tree().change_scene_to_file("res://scenes/game/menu.tscn")
+	
 	
 func _on_correct():
 	await ui.show_correct(_format_item())
@@ -49,4 +50,4 @@ func _on_message(msg):
 		_on_wrong()
 
 func _format_item():
-	return "%s %s" % [DataManager.word_to_article[_item.word]["article"], _item.word]
+	return "%s %s" % [DataManager.word_to_article[_item.word]["article"], _item.word.capitalize()]

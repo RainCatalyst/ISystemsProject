@@ -1,0 +1,82 @@
+[gd_scene load_steps=15 format=3 uid="uid://dv0xp3bl31x3a"]
+
+[ext_resource type="Script" uid="uid://du2hivp4j0j27" path="res://scenes/game/game.gd" id="1_128st"]
+[ext_resource type="Texture2D" uid="uid://bpdytao42l1hn" path="res://sprites/room1/background.png" id="2_kb8ka"]
+[ext_resource type="PackedScene" uid="uid://75dk0tf466cj" path="res://scenes/items/item.tscn" id="3_bkbog"]
+[ext_resource type="Texture2D" uid="uid://b86umrjx37wb7" path="res://sprites/room1/items/icon_chair1.png" id="4_potr2"]
+[ext_resource type="Texture2D" uid="uid://75tji0r1oexo" path="res://sprites/room1/items/icon_chair2.png" id="5_a0ffq"]
+[ext_resource type="Texture2D" uid="uid://b8qyqcknhgnl6" path="res://sprites/room1/items/icon_ceilinglight.png" id="6_rbyet"]
+[ext_resource type="Texture2D" uid="uid://dkgyb2nelikft" path="res://sprites/room1/items/icon_cupboard.png" id="7_mv4rn"]
+[ext_resource type="Texture2D" uid="uid://dpdkiqu7t85vl" path="res://sprites/room1/items/icon_sink.png" id="8_7fbl5"]
+[ext_resource type="Texture2D" uid="uid://b2hebqarc8scl" path="res://sprites/room1/items/icon_oven.png" id="9_nrwi6"]
+[ext_resource type="Texture2D" uid="uid://c554tpxpcucb4" path="res://sprites/room1/items/icon_fridge.png" id="10_d6cig"]
+[ext_resource type="Texture2D" uid="uid://d3quacw8dlclm" path="res://sprites/room1/items/icon_table.png" id="11_7bv8w"]
+[ext_resource type="Texture2D" uid="uid://1xdvbikx1331" path="res://sprites/room1/items/icon_window.png" id="12_mbb5n"]
+[ext_resource type="Texture2D" uid="uid://cnvxo7jnmhtxt" path="res://sprites/room1/items/icon_curtains.png" id="13_jlsmx"]
+[ext_resource type="PackedScene" uid="uid://e2u7jsiif66g" path="res://scenes/game/hint_lady.tscn" id="15_ad3ch"]
+
+[node name="Kitchen" type="Node2D" node_paths=PackedStringArray("ui")]
+script = ExtResource("1_128st")
+ui = NodePath("CanvasLayer/Control")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(639.25, 392)
+scale = Vector2(1.00342, 1.00342)
+texture = ExtResource("2_kb8ka")
+metadata/_edit_lock_ = true
+
+[node name="Items" type="Node" parent="."]
+
+[node name="Item" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(783, 700)
+texture = ExtResource("4_potr2")
+word = "stuhl"
+
+[node name="Item2" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(332, 704)
+texture = ExtResource("5_a0ffq")
+word = "stuhl"
+
+[node name="Item3" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(594, -34)
+texture = ExtResource("6_rbyet")
+word = "lampe"
+
+[node name="Item4" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(931, 91)
+texture = ExtResource("7_mv4rn")
+word = "schrank"
+
+[node name="Item6" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(429, 379)
+texture = ExtResource("8_7fbl5")
+word = "waschbecken"
+
+[node name="Item7" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(868, 480)
+texture = ExtResource("9_nrwi6")
+word = "ofen"
+
+[node name="Item8" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(1147, 422)
+texture = ExtResource("10_d6cig")
+word = "kühlschrank"
+
+[node name="Item9" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(552, 651)
+texture = ExtResource("11_7bv8w")
+word = "tisch"
+
+[node name="Item10" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(306, 197)
+texture = ExtResource("12_mbb5n")
+word = "fenster"
+
+[node name="Item11" parent="Items" instance=ExtResource("3_bkbog")]
+position = Vector2(282, 160)
+texture = ExtResource("13_jlsmx")
+word = "vorhang"
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Control" parent="CanvasLayer" instance=ExtResource("15_ad3ch")]

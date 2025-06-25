@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bbjdkinvm0kas"]
+
+[ext_resource type="Script" uid="uid://d1jbqrvnooii" path="res://scenes/game/ser_comm.gd" id="1_qrxyn"]
+
+[node name="SerialManager" type="SerComm"]
+script = ExtResource("1_qrxyn")

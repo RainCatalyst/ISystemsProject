@@ -1,0 +1,93 @@
+[gd_scene load_steps=5 format=3 uid="uid://bjkr1yr44sk6e"]
+
+[ext_resource type="Script" uid="uid://dafdbynta42ro" path="res://scenes/game/menu.gd" id="1_w6tk6"]
+[ext_resource type="Texture2D" uid="uid://cqtk3o356buy1" path="res://sprites/kitchen.jpg" id="2_cqqbs"]
+[ext_resource type="Texture2D" uid="uid://bcypnlj81w1ic" path="res://sprites/room.png" id="3_cqqbs"]
+[ext_resource type="PackedScene" uid="uid://e2u7jsiif66g" path="res://scenes/game/hint_lady.tscn" id="15_yqb1p"]
+
+[node name="Menu" type="Node2D" node_paths=PackedStringArray("ui")]
+script = ExtResource("1_w6tk6")
+ui = NodePath("CanvasLayer/Control")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Main" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -280.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer/Main"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.388235, 0.431373, 0.513726, 1)
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Main"]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -516.0
+offset_top = -141.5
+offset_right = 516.0
+offset_bottom = 141.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 32
+alignment = 1
+
+[node name="Kitchen" type="Button" parent="CanvasLayer/Main/HBoxContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+focus_mode = 0
+theme_override_font_sizes/font_size = 48
+text = "Kitchen"
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Main/HBoxContainer/Kitchen"]
+modulate = Color(0.960351, 0.960351, 0.960351, 1)
+show_behind_parent = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_cqqbs")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="LivingRoom" type="Button" parent="CanvasLayer/Main/HBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+focus_mode = 0
+theme_override_font_sizes/font_size = 48
+text = "Living Room"
+
+[node name="TextureRect" type="TextureRect" parent="CanvasLayer/Main/HBoxContainer/LivingRoom"]
+modulate = Color(0.960351, 0.960351, 0.960351, 1)
+show_behind_parent = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("3_cqqbs")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="Control" parent="CanvasLayer" instance=ExtResource("15_yqb1p")]
+
+[connection signal="pressed" from="CanvasLayer/Main/HBoxContainer/Kitchen" to="." method="_on_kitchen_pressed"]
+[connection signal="pressed" from="CanvasLayer/Main/HBoxContainer/LivingRoom" to="." method="_on_living_room_pressed"]

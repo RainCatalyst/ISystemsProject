@@ -1,0 +1,96 @@
+[gd_scene load_steps=6 format=3 uid="uid://e2u7jsiif66g"]
+
+[ext_resource type="Script" uid="uid://dg3c3s4t5up07" path="res://scenes/game/ui.gd" id="1_arp6m"]
+[ext_resource type="Script" uid="uid://cfw6u5vd8jmqj" path="res://data/overlay.gd" id="2_cw072"]
+[ext_resource type="Script" uid="uid://cc1cfngae47mn" path="res://scenes/game/text_box.gd" id="3_33hi7"]
+[ext_resource type="Texture2D" uid="uid://bftduy0m1bnys" path="res://sprites/ui/textbox.png" id="4_x3x6s"]
+[ext_resource type="Texture2D" uid="uid://drnnolvxcmldb" path="res://sprites/ui/tutorial_girl.png" id="5_hed06"]
+
+[node name="Control" type="Control" node_paths=PackedStringArray("overlay", "textbox")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_arp6m")
+overlay = NodePath("Overlay")
+textbox = NodePath("TextBox")
+metadata/_edit_lock_ = true
+metadata/_edit_group_ = true
+
+[node name="Overlay" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 0)
+script = ExtResource("2_cw072")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="TextBox" type="Control" parent="." node_paths=PackedStringArray("label")]
+anchors_preset = 0
+offset_top = 720.0
+offset_right = 1280.0
+offset_bottom = 1000.0
+script = ExtResource("3_33hi7")
+label = NodePath("Label")
+metadata/_edit_group_ = true
+
+[node name="ColorRect" type="ColorRect" parent="TextBox"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.388235, 0.431373, 0.513726, 1)
+
+[node name="BG" type="TextureRect" parent="TextBox"]
+layout_mode = 0
+offset_left = 357.0
+offset_right = 1216.0
+offset_bottom = 280.0
+texture = ExtResource("4_x3x6s")
+expand_mode = 2
+
+[node name="Girl" type="TextureRect" parent="TextBox"]
+layout_mode = 0
+offset_left = 113.0
+offset_top = 14.0
+offset_right = 402.0
+offset_bottom = 281.0
+texture = ExtResource("5_hed06")
+expand_mode = 2
+stretch_mode = 4
+
+[node name="Label" type="RichTextLabel" parent="TextBox"]
+layout_mode = 0
+offset_left = 432.0
+offset_top = 55.0
+offset_right = 1145.0
+offset_bottom = 221.0
+theme_override_colors/default_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/normal_font_size = 38
+theme_override_font_sizes/bold_font_size = 36
+bbcode_enabled = true
+autowrap_mode = 2
+vertical_alignment = 1
+
+[node name="ColorRect2" type="ColorRect" parent="TextBox"]
+layout_mode = 1
+anchors_preset = 10
+anchor_right = 1.0
+offset_left = -15.0
+offset_top = -5.0
+offset_right = 26.0
+grow_horizontal = 2
+color = Color(0, 0, 0, 1)
