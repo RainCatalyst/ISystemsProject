@@ -25,6 +25,8 @@ Serial="*res://singletons/serial.tscn"
 
 window/size/viewport_width=1280
 window/size/viewport_height=1000
+window/size/mode=3
+window/stretch/mode="canvas_items"
 window/vsync/vsync_mode=0
 
 [dotnet]

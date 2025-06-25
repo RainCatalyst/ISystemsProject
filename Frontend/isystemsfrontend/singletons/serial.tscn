@@ -4,3 +4,4 @@
 
 [node name="SerialManager" type="SerComm"]
 script = ExtResource("1_qrxyn")
+simulate = true
