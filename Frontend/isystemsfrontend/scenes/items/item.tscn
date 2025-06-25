@@ -4,3 +4,7 @@
 
 [node name="Item" type="Sprite2D"]
 script = ExtResource("1_xhhhv")
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
